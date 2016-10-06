@@ -1,133 +1,133 @@
 {
   "bug": [
-    "Double-Sting", 
-    "String-Trap", 
-    "Bloodleech"
+    "Double-Sting Id:28 Str:25 Acc:100", 
+    "String-Trap Id:54 Str:None Acc:95", 
+    "Bloodleech Id:80 Str:45 Acc:90"
   ], 
   "dark": [
-    "Bite", 
-    "Bribe", 
-    "Feint"
+    "Bite Id:30 Str:55 Acc:100", 
+    "Bribe Id:89 Str:60 Acc:80", 
+    "Feint Id:94 Str:60 Acc:100"
   ], 
   "dragon": [
-    "Dragons-Fury", 
-    "Tornado", 
-    "Draconic-Punch"
+    "Dragons-Fury Id:55 Str:50 Acc:90", 
+    "Tornado Id:66 Str:40 Acc:100", 
+    "Draconic-Punch Id:98 Str:110 Acc:90"
   ], 
   "electric": [
-    "Thunder-Fist", 
-    "Electric-Overload", 
-    "Lightning-Strike", 
-    "Volt-Attack"
+    "Thunder-Fist Id:9 Str:70 Acc:100", 
+    "Electric-Overload Id:57 Str:50 Acc:100", 
+    "Lightning-Strike Id:58 Str:90 Acc:100", 
+    "Volt-Attack Id:59 Str:None Acc:100"
   ], 
   "fighting": [
-    "Karate-Punch", 
-    "Double-Kick", 
-    "fast-kick"
+    "Karate-Punch Id:2 Str:55 Acc:100", 
+    "Double-Kick Id:18 Str:35 Acc:100", 
+    "fast-kick Id:47 Str:60 Acc:100"
   ], 
   "fire": [
-    "Fiery-Fist", 
-    "Ember", 
-    "Wildfire", 
-    "fire-Trap", 
-    "flameblast", 
-    "Flame-Bombardment"
+    "Fiery-Fist Id:7 Str:70 Acc:100", 
+    "Ember Id:35 Str:45 Acc:100", 
+    "Wildfire Id:36 Str:90 Acc:100", 
+    "fire-Trap Id:56 Str:30 Acc:85", 
+    "flameblast Id:78 Str:110 Acc:85", 
+    "Flame-Bombardment Id:90 Str:25 Acc:100"
   ], 
   "flying": [
-    "Wing-Strike", 
-    "Peck", 
-    "Heavy-Peck", 
-    "skyfall"
+    "Wing-Strike Id:14 Str:70 Acc:100", 
+    "Peck Id:45 Str:40 Acc:100", 
+    "Heavy-Peck Id:46 Str:80 Acc:100", 
+    "skyfall Id:81 Str:140 Acc:90"
   ], 
   "ghost": [
-    "Reapers's revenge", 
-    "Wet willy"
+    "Reapers's revenge Id:69 Str:110 Acc:100", 
+    "Wet willy Id:75 Str:30 Acc:100"
   ], 
   "grass": [
-    "Vine-Whip", 
-    "Absorber", 
-    "mega-drain", 
-    "Storm of leafs", 
-    "Sleep-Potion", 
-    "Power-Drain"
+    "Vine-Whip Id:17 Str:45 Acc:100", 
+    "Absorber Id:48 Str:40 Acc:100", 
+    "mega-drain Id:49 Str:40 Acc:100", 
+    "Storm of leafs Id:51 Str:65 Acc:95", 
+    "Sleep-Potion Id:53 Str:None Acc:65", 
+    "Power-Drain Id:99 Str:80 Acc:100"
   ], 
   "ground": [
-    "earthquake", 
-    "Maim", 
-    "mud-battle"
+    "earthquake Id:61 Str:110 Acc:100", 
+    "Maim Id:77 Str:65 Acc:85", 
+    "mud-battle Id:96 Str:35 Acc:100"
   ], 
   "ice": [
-    "Frozen-fist", 
-    "Phoenix of the North", 
-    "Everfrost", 
-    "Northern-Flowers", 
-    "snowfall", 
-    "cold-winds"
+    "Frozen-fist Id:8 Str:70 Acc:100", 
+    "Phoenix of the North Id:40 Str:95 Acc:100", 
+    "Everfrost Id:41 Str:110 Acc:80", 
+    "Northern-Flowers Id:44 Str:65 Acc:100", 
+    "snowfall Id:93 Str:35 Acc:100", 
+    "cold-winds Id:97 Str:50 Acc:100"
   ], 
   "normal": [
-    "Pound", 
-    "Multihit", 
-    "Cosmic-Multipunch", 
-    "Ultimate-Punch", 
-    "pay-day", 
-    "Scratch", 
-    "Hammer hit", 
-    "Punishment by gale", 
-    "Hymn of the Sword", 
-    "Bind", 
-    "slam", 
-    "Mega-Kick", 
-    "headbutt", 
-    "tackle", 
-    "body-slam", 
-    "wrap", 
-    "thrash", 
-    "double-edge", 
-    "Tail-Whip", 
-    "Weeping", 
-    "Demotivate", 
-    "Sleeping-Song", 
-    "Sonic-Waves", 
-    "Growth", 
-    "Betrayal", 
-    "Unbearable yell", 
-    "recover", 
-    "Shell", 
-    "Kamikaze", 
-    "Timewaste", 
-    "Deep-Scratches", 
-    "offensive trade", 
-    "defensive trade", 
-    "Bloodtrade"
+    "Pound Id:1 Str:35 Acc:100", 
+    "Multihit Id:3 Str:15 Acc:85", 
+    "Cosmic-Multipunch Id:4 Str:18 Acc:85", 
+    "Ultimate-Punch Id:5 Str:90 Acc:85", 
+    "pay-day Id:6 Str:20 Acc:100", 
+    "Scratch Id:10 Str:35 Acc:100", 
+    "Hammer hit Id:11 Str:55 Acc:100", 
+    "Punishment by gale Id:12 Str:20 Acc:10", 
+    "Hymn of the Sword Id:13 Str:None Acc:None", 
+    "Bind Id:15 Str:15 Acc:85", 
+    "slam Id:16 Str:80 Acc:75", 
+    "Mega-Kick Id:19 Str:120 Acc:75", 
+    "headbutt Id:20 Str:90 Acc:100", 
+    "tackle Id:21 Str:50 Acc:100", 
+    "body-slam Id:22 Str:100 Acc:100", 
+    "wrap Id:23 Str:12 Acc:90", 
+    "thrash Id:24 Str:10 Acc:100", 
+    "double-edge Id:25 Str:120 Acc:100", 
+    "Tail-Whip Id:26 Str:None Acc:100", 
+    "Weeping Id:29 Str:None Acc:100", 
+    "Demotivate Id:31 Str:None Acc:100", 
+    "Sleeping-Song Id:32 Str:None Acc:50", 
+    "Sonic-Waves Id:33 Str:None Acc:60", 
+    "Growth Id:50 Str:None Acc:100", 
+    "Betrayal Id:68 Str:40 Acc:100", 
+    "Unbearable yell Id:70 Str:None Acc:85", 
+    "recover Id:71 Str:None Acc:100", 
+    "Shell Id:72 Str:None Acc:100", 
+    "Kamikaze Id:74 Str:200 Acc:100", 
+    "Timewaste Id:82 Str:None Acc:100", 
+    "Deep-Scratches Id:88 Str:85 Acc:80", 
+    "offensive trade Id:91 Str:None Acc:100", 
+    "defensive trade Id:92 Str:None Acc:100", 
+    "Bloodtrade Id:95 Str:None Acc:100"
   ], 
   "poison": [
-    "poison-sting", 
-    "Acid", 
-    "Poison-Potion", 
-    "toxic", 
-    "Toxic-Cloud", 
-    "Poison-Shell"
+    "poison-sting Id:27 Str:20 Acc:100", 
+    "Acid Id:34 Str:70 Acc:100", 
+    "Poison-Potion Id:52 Str:None Acc:75", 
+    "toxic Id:62 Str:None Acc:100", 
+    "Toxic-Cloud Id:76 Str:25 Acc:80", 
+    "Poison-Shell Id:83 Str:None Acc:100"
   ], 
   "psychic": [
-    "Ying-Attack", 
-    "Yang-Attack", 
-    "Mental-Disorder", 
-    "Ying-Yang-Attack", 
-    "Warcry", 
-    "Inner-Peace", 
-    "Spirit-Shield", 
-    "Soulforce", 
-    "Powernap"
+    "Ying-Attack Id:42 Str:65 Acc:100", 
+    "Yang-Attack Id:43 Str:120 Acc:100", 
+    "Mental-Disorder Id:63 Str:50 Acc:100", 
+    "Ying-Yang-Attack Id:64 Str:100 Acc:100", 
+    "Warcry Id:65 Str:None Acc:100", 
+    "Inner-Peace Id:67 Str:None Acc:100", 
+    "Spirit-Shield Id:73 Str:None Acc:100", 
+    "Soulforce Id:79 Str:None Acc:100", 
+    "Powernap Id:86 Str:None Acc:100"
   ], 
   "rock": [
-    "Boulder-Throw", 
-    "Bonemerang", 
-    "rock-fall"
+    "Boulder-Throw Id:60 Str:100 Acc:90", 
+    "Bonemerang Id:85 Str:45 Acc:95", 
+    "rock-fall Id:87 Str:60 Acc:85"
   ], 
   "water": [
-    "Water-Gun", 
-    "Waterfall", 
-    "surf", 
-    "Water-Bullet"
+    "Water-Gun Id:37 Str:50 Acc:100", 
+    "Waterfall Id:38 Str:110 Acc:80", 
+    "surf Id:39 Str:85 Acc:100", 
+    "Water-Bullet Id:84 Str:90 Acc:80"
   ]
 }
