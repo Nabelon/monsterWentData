@@ -1,0 +1,133 @@
+{
+  "bug": [
+    "Double-Sting", 
+    "String-Trap", 
+    "Bloodleech"
+  ], 
+  "dark": [
+    "Bite", 
+    "Bribe", 
+    "Feint"
+  ], 
+  "dragon": [
+    "Dragons-Fury", 
+    "Tornado", 
+    "Draconic-Punch"
+  ], 
+  "electric": [
+    "Thunder-Fist", 
+    "Electric-Overload", 
+    "Lightning-Strike", 
+    "Volt-Attack"
+  ], 
+  "fighting": [
+    "Karate-Punch", 
+    "Double-Kick", 
+    "fast-kick"
+  ], 
+  "fire": [
+    "Fiery-Fist", 
+    "Ember", 
+    "Wildfire", 
+    "fire-Trap", 
+    "flameblast", 
+    "Flame-Bombardment"
+  ], 
+  "flying": [
+    "Wing-Strike", 
+    "Peck", 
+    "Heavy-Peck", 
+    "skyfall"
+  ], 
+  "ghost": [
+    "Reapers's revenge", 
+    "Wet willy"
+  ], 
+  "grass": [
+    "Vine-Whip", 
+    "Absorber", 
+    "mega-drain", 
+    "Storm of leafs", 
+    "Sleep-Potion", 
+    "Power-Drain"
+  ], 
+  "ground": [
+    "earthquake", 
+    "Maim", 
+    "mud-battle"
+  ], 
+  "ice": [
+    "Frozen-fist", 
+    "Phoenix of the North", 
+    "Everfrost", 
+    "Northern-Flowers", 
+    "snowfall", 
+    "cold-winds"
+  ], 
+  "normal": [
+    "Pound", 
+    "Multihit", 
+    "Cosmic-Multipunch", 
+    "Ultimate-Punch", 
+    "pay-day", 
+    "Scratch", 
+    "Hammer hit", 
+    "Punishment by gale", 
+    "Hymn of the Sword", 
+    "Bind", 
+    "slam", 
+    "Mega-Kick", 
+    "headbutt", 
+    "tackle", 
+    "body-slam", 
+    "wrap", 
+    "thrash", 
+    "double-edge", 
+    "Tail-Whip", 
+    "Weeping", 
+    "Demotivate", 
+    "Sleeping-Song", 
+    "Sonic-Waves", 
+    "Growth", 
+    "Betrayal", 
+    "Unbearable yell", 
+    "recover", 
+    "Shell", 
+    "Kamikaze", 
+    "Timewaste", 
+    "Deep-Scratches", 
+    "offensive trade", 
+    "defensive trade", 
+    "Bloodtrade"
+  ], 
+  "poison": [
+    "poison-sting", 
+    "Acid", 
+    "Poison-Potion", 
+    "toxic", 
+    "Toxic-Cloud", 
+    "Poison-Shell"
+  ], 
+  "psychic": [
+    "Ying-Attack", 
+    "Yang-Attack", 
+    "Mental-Disorder", 
+    "Ying-Yang-Attack", 
+    "Warcry", 
+    "Inner-Peace", 
+    "Spirit-Shield", 
+    "Soulforce", 
+    "Powernap"
+  ], 
+  "rock": [
+    "Boulder-Throw", 
+    "Bonemerang", 
+    "rock-fall"
+  ], 
+  "water": [
+    "Water-Gun", 
+    "Waterfall", 
+    "surf", 
+    "Water-Bullet"
+  ]
+}
