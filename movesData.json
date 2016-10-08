@@ -533,7 +533,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "poison-sting",
+		"name": "Poison Sting",
 		"pp": 30,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Has a chance to poison the target.",
@@ -768,7 +768,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "surf",
+		"name": "Surf",
 		"pp": 15,
 		"prio": 0,
 		"text": "Regular attack",
@@ -929,7 +929,7 @@
 	"48": {
 		"acc": 100,
 		"cat": "special",
-		"dmg": 40,
+		"dmg": 30,
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
@@ -1216,7 +1216,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "toxic",
+		"name": "Toxic Delivery",
 		"pp": 10,
 		"prio": 0,
 		"text": "Poisons the target.",
@@ -2070,9 +2070,9 @@
 		"type": "water"
 	},
 	"104": {
-		"acc": 100,
-		"cat": "special",
-		"dmg": 40,
+		"acc": 80,
+		"cat": "physical",
+		"dmg": 120,
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
@@ -2081,10 +2081,10 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Splash",
-		"pp": 30,
+		"name": "Water Cannon",
+		"pp": 5,
 		"prio": 0,
-		"text": "Regular damage.",
+		"text": "Heavy damage.",
 		"type": "water"
 	},
 	"105": {
@@ -2243,7 +2243,7 @@
 		"pp": 5,
 		"prio": 0,
 		"text": "Heavy damage",
-		"type": "fly"
+		"type": "flying"
 	},
 	"113": {
 		"acc": 100,

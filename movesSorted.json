@@ -37,14 +37,12 @@
     "flameblast Id:78 Str:110 Acc:85", 
     "Flame-Bombardment Id:90 Str:25 Acc:100"
   ], 
-  "fly": [
-    " Hurricane Id:112 Str:150 Acc:65"
-  ], 
   "flying": [
     "Wing-Strike Id:14 Str:70 Acc:100", 
     "Peck Id:45 Str:40 Acc:100", 
     "Heavy-Peck Id:46 Str:80 Acc:100", 
-    "Skyfall Id:81 Str:140 Acc:90"
+    "Skyfall Id:81 Str:140 Acc:90", 
+    " Hurricane Id:112 Str:150 Acc:65"
   ], 
   "ghost": [
     "Reapers's revenge Id:69 Str:110 Acc:100", 
@@ -57,7 +55,7 @@
   ], 
   "grass": [
     "Vine-Whip Id:17 Str:45 Acc:100", 
-    "Absorber Id:48 Str:40 Acc:100", 
+    "Absorber Id:48 Str:30 Acc:100", 
     "mega-drain Id:49 Str:40 Acc:100", 
     "Storm of leafs Id:51 Str:65 Acc:95", 
     "Sleep-Potion Id:53 Str:None Acc:65", 
@@ -115,10 +113,10 @@
     "Bloodtrade Id:95 Str:None Acc:100"
   ], 
   "poison": [
-    "poison-sting Id:27 Str:20 Acc:100", 
+    "Poison Sting Id:27 Str:20 Acc:100", 
     "Acid Id:34 Str:70 Acc:100", 
     "Poison-Potion Id:52 Str:None Acc:75", 
-    "toxic Id:62 Str:None Acc:100", 
+    "Toxic Delivery Id:62 Str:None Acc:100", 
     "Toxic-Cloud Id:76 Str:25 Acc:80", 
     "Poison-Shell Id:83 Str:None Acc:100"
   ], 
@@ -144,9 +142,9 @@
   "water": [
     "Water-Gun Id:37 Str:50 Acc:100", 
     "Waterfall Id:38 Str:110 Acc:80", 
-    "surf Id:39 Str:85 Acc:100", 
+    "Surf Id:39 Str:85 Acc:100", 
     "Water-Bullet Id:84 Str:90 Acc:80", 
     "Splash Id:103 Str:40 Acc:100", 
-    "Splash Id:104 Str:40 Acc:100"
+    "Water Cannon Id:104 Str:120 Acc:80"
   ]
 }
