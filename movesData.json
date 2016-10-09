@@ -459,19 +459,13 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "thrash",
-		"pp": 10,
-		"prio": 0,
-		"text": "Trashes the enemy",
-		"type": "normal"
-	},
-	"statChangesT": [{
-		"stat": "defense",
-		"change": -1
-	}, {
-		"stat": "attack",
-		"change": -1
-	}],
+        "statChangesT": [{
+            "stat": "defense",
+            "change": -1
+        }, {
+            "stat": "attack",
+            "change": -1
+        }],
 	"statChangesS": [{
 		"stat": "attack",
 		"change": 1
@@ -479,6 +473,12 @@
 		"stat": "defense",
 		"change": -2
 	}],
+		"name": "thrash",
+		"pp": 10,
+		"prio": 0,
+		"text": "Trashes the enemy",
+		"type": "normal"
+	},
 	"25": {
 		"acc": 100,
 		"cat": "physical",
@@ -654,11 +654,11 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Sonic-Waves",
+		"name": "Sonic Waves",
 		"pp": 20,
 		"prio": 0,
 		"text": "Confuses the target.",
-		"type": "normal"
+		"type": "electric"
 	},
 	"34": {
 		"acc": 100,
@@ -1820,8 +1820,8 @@
 			"stat": "attack",
 			"change": 3
 		}],
-		"name": "offensive trade",
-		"pp": 40,
+		"name": "Offensive Trade",
+		"pp": 10,
 		"prio": 0,
 		"text": "User trades 3 defense for 3 attack",
 		"type": "normal"
@@ -1845,8 +1845,8 @@
 			"stat": "defense",
 			"change": 3
 		}],
-		"name": "defensive trade",
-		"pp": 40,
+		"name": "Defensive Trade",
+		"pp": 10,
 		"prio": 0,
 		"text": "User trades 3 attack for 3 defense",
 		"type": "normal"
@@ -2239,7 +2239,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": " Hurricane",
+		"name": "Hurricane",
 		"pp": 5,
 		"prio": 0,
 		"text": "Heavy damage",
@@ -2273,12 +2273,72 @@
 		"text": "Increases speed and attack",
 		"type": "fly"
 	},
-	"113": {
+	"114": {
+		"acc": 90,
+		"cat": "special",
+		"dmg": 60,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 10,
+            "aligmentT": "shock",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 10
+		},
+        "statChangesT": [
+        {
+            "stat": "special-defense", 
+            "change": 1
+        }], 
+		"name": "Pixie Dust",
+		"pp": 15,
+		"prio": 0,
+		"text": "Regular Damage, chance to shock, chance to lower targets special defense",
+		"type": "fairy"
+	},
+	"115": {
+		"acc": 90,
+		"cat": "physical",
+		"dmg": 90,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Crush",
+		"pp": 10,
+		"prio": 0,
+		"text": "Heavy damage",
+		"type": "dark"
+	},
+	"116": {
+		"acc": 90,
+		"cat": "special",
+		"dmg": 120,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Draconic Meltdown",
+		"pp": 5,
+		"prio": 0,
+		"text": "Heavy damage",
+		"type": "dragon"
+	},
+	"117": {
 		"acc": 80,
 		"cat": "special",
 		"dmg": 120,
 		"meta": {
-			"aligmentChanceS": 100,
+			"aligmentChanceS": 0,
 			"aligmentChanceT": 50,
             "aligmentT": "shock",
 			"crit_rate": 0,
@@ -2291,9 +2351,141 @@
 		"prio": 0,
 		"text": "Heavy Damage, High chance to shock",
 		"type": "fly"
+	},
+	"118": {
+		"acc": 100,
+		"cat": "special",
+		"dmg": 100,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Night's Fall",
+		"pp": 5,
+		"prio": 0,
+		"text": "Heavy damage",
+		"type": "dark"
+	},
+	"119": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": 0,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+        "statChangesS": [
+        {
+            "stat": "defense", 
+            "change": 2
+        }], 
+		"name": "Metal Shell",
+		"pp": 10,
+		"prio": 0,
+		"text": "increases defense by 2",
+		"type": "steel"
+	},
+	"120": {
+		"acc": 80,
+		"cat": "physical",
+		"dmg": 60,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 1,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Metal Club",
+		"pp": 10,
+		"prio": 0,
+		"text": "Higher crit rate",
+		"type": "steel"
+	},
+	"121": {
+		"acc": 80,
+		"cat": "physical",
+		"dmg": 60,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 1,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Metal Club",
+		"pp": 10,
+		"prio": 0,
+		"text": "Higher crit rate",
+		"type": "steel"
+	},
+	"122": {
+		"acc": 80,
+		"cat": "physical",
+		"dmg": 80,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 1,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Saber Attack",
+		"pp": 5,
+		"prio": 0,
+		"text": "Higher crit rate",
+		"type": "fighting"
+	},
+	"123": {
+		"acc": 90,
+		"cat": "physical",
+		"dmg": 50,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 20,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Dagger Thrust",
+		"pp": 10,
+		"prio": 0,
+		"text": "Opponent may flinch",
+		"type": "fighting"
+	},
+	"124": {
+		"acc": 90,
+		"cat": "physical",
+		"dmg": 20,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+            "min_hits": 4,
+            "max_hits": 5,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Swarm Attack",
+		"pp": 10,
+		"prio": 0,
+		"text": "Attacks 4-5 Times",
+		"type": "bug"
 	}
-    
-    }
+}
     
     
     

@@ -4,8 +4,9 @@ import random
 def main():
     newDic = {};
     oldDic = json.load(open("movesData.json")) 
-    for i in range(1,113):
+    for i in oldDic.keys():
         s = str(i)
+        print s
         if oldDic[s]["type"] in newDic.keys():
             newDic[oldDic[s]["type"]].append(oldDic[s]["name"] + " Id:" + s + " Str:" + str(oldDic[s]["dmg"]) + " Acc:" + str(oldDic[s]["acc"]))
         else:
