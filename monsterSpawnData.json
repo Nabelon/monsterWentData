@@ -1,129 +1,118 @@
 {
+	
 	"1": {
-		"name": "Bulbasaur",
-		"landuse": ["park","grass","forest","wood","nature_reserve","recreation_ground"],
-        "weather": ["sun","cloud"],
-        "time": ["day","morning"],
-        "rarity": 3
-	},
-	"2": {
-		"name": "Ivysaur",
-		"landuse": ["park","grass","nature_reserve","forest","wood"],
-        "weather": ["sun"],
-        "time": ["day","morning"],
-        "rarity": 2
-	},
-	"3": {
-		"name": "Venusaur",
-		"landuse": ["nature_reserve","grass","forest","wood"],
-        "weather": ["sun"],
-        "time": ["day"],
-        "rarity": 1
-	},
-	"4": {
-		"name": "Charmander",
 		"landuse": ["urban area","residential","park"],
         "weather": ["sun"],
         "time": ["day","evening","night"],
         "rarity": 3
 	},
-	"5": {
-		"name": "Charmeleon",
+	"2": {
 		"landuse": ["urban area","residential"],
         "weather": ["sun"],
         "time": ["day","evening","night"],
         "rarity": 2
 	},
-	"6": {
-		"name": "Charmeleon",
+	"3": {
 		"landuse": ["residential"],
         "weather": ["sun"],
         "time": ["day","evening","night"],
         "rarity": 1
 	},
-	"7": {
-		"name": "Squirtle",
+	"4": {
 		"landuse": ["water","riverbank","playa","park","ocean"],
         "weather": ["cloud","rain","sun"],
         "time": ["day","evening","night"],
         "rarity": 3
 	},
-	"8": {
-		"name": "Wartortle",
+	"5": {
 		"landuse": ["water","riverbank","playa","ocean"],
         "weather": ["cloud","rain"],
         "time": ["day","evening","night"],
         "rarity": 2
 	},
-	"9": {
-		"name": "Blastoise",
+	"6": {
 		"landuse": ["water","riverbank","playa","ocean"],
         "weather": ["cloud","rain"],
         "time": ["evening","night"],
         "rarity": 1
 	},
-	"10": {
-		"name": "Caterpie",
-		"landuse": ["park","grass","forest","wood"],
+    "7": {
+		"landuse": ["park","grass","forest","wood","nature_reserve","recreation_ground"],
         "weather": ["sun","cloud"],
         "time": ["day","morning"],
-        "rarity": 5
-    },
-	"11": {
-		"name": "Metapod",
-		"landuse": ["park","grass","forest","wood"],
-        "weather": ["sun","cloud"],
-        "time": ["day","morning"],
-        "rarity": 4
-    },
-	"12": {
-		"name": "Butterfree",
-		"landuse": ["park","grass"],
+        "rarity": 3
+	},
+	"8": {
+		"landuse": ["park","grass","nature_reserve","forest","wood"],
         "weather": ["sun"],
-        "time": ["morning","day"],
+        "time": ["day","morning"],
         "rarity": 2
 	},
-	"13": {
-		"name": "Weedle",
-		"landuse": ["park","grass","forest","wood"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","night"],
-        "rarity": 5
+	"9": {
+		"landuse": ["nature_reserve","grass","forest","wood"],
+        "weather": ["sun"],
+        "time": ["day"],
+        "rarity": 1
 	},
-	"14": {
-		"name": "Kakuna",
-		"landuse": ["park","grass","forest","wood"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","night"],
-        "rarity": 4
-	},
-	"15": {
-		"name": "Beedrill",
-		"landuse": ["park","grass","forest","wood"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","night"],
-        "rarity": 2
-	},
-	"16": {
+	"10": {
 		"name": "Pidgey",
 		"landuse": ["park","grass","urban area","residential"],
         "weather": ["sun","cloud","rain"],
         "time": ["day","evening","morning","night"],
         "rarity": 5
 	},
-	"17": {
+	"11": {
 		"name": "Pidgeotto",
 		"landuse": ["park","grass","urban area","residential"],
         "weather": ["sun","cloud"],
         "time": ["day","evening","morning","night"],
         "rarity": 2
 	},
-	"18": {
+	"12": {
 		"name": "Pidgeot",
 		"landuse": ["park","grass","residential"],
         "weather": ["sun","cloud"],
         "time": ["day","evening","morning","night"],
         "rarity": 1
+	},
+	"13": {
+		"landuse": ["park","grass","forest","wood"],
+        "weather": ["sun","cloud"],
+        "time": ["day","morning"],
+        "rarity": 5
+    },
+	"14": {
+		"landuse": ["park","grass","forest","wood"],
+        "weather": ["sun","cloud"],
+        "time": ["day","morning"],
+        "rarity": 4
+    },
+	"15": {
+		"landuse": ["park","grass"],
+        "weather": ["sun"],
+        "time": ["morning","day"],
+        "rarity": 2
+	},
+	"16": {
+		"name": "Weedle",
+		"landuse": ["park","grass","forest","wood"],
+        "weather": ["sun","cloud"],
+        "time": ["day","evening","night"],
+        "rarity": 5
+	},
+	"17": {
+		"name": "Kakuna",
+		"landuse": ["park","grass","forest","wood"],
+        "weather": ["sun","cloud"],
+        "time": ["day","evening","night"],
+        "rarity": 4
+	},
+	"18": {
+		"name": "Beedrill",
+		"landuse": ["park","grass","forest","wood"],
+        "weather": ["sun","cloud"],
+        "time": ["day","evening","night"],
+        "rarity": 2
 	},
 	"19": {
 		"name": "Rattata",
