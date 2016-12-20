@@ -55,21 +55,18 @@
         "rarity": 1
 	},
 	"10": {
-		"name": "Pidgey",
 		"landuse": ["park","grass","urban area","residential"],
         "weather": ["sun","cloud","rain"],
         "time": ["day","evening","morning","night"],
         "rarity": 5
 	},
 	"11": {
-		"name": "Pidgeotto",
 		"landuse": ["park","grass","urban area","residential"],
         "weather": ["sun","cloud"],
         "time": ["day","evening","morning","night"],
         "rarity": 2
 	},
 	"12": {
-		"name": "Pidgeot",
 		"landuse": ["park","grass","residential"],
         "weather": ["sun","cloud"],
         "time": ["day","evening","morning","night"],
@@ -94,69 +91,68 @@
         "rarity": 2
 	},
 	"16": {
-		"name": "Weedle",
 		"landuse": ["park","grass","forest","wood"],
         "weather": ["sun","cloud"],
         "time": ["day","evening","night"],
         "rarity": 5
 	},
 	"17": {
-		"name": "Kakuna",
 		"landuse": ["park","grass","forest","wood"],
         "weather": ["sun","cloud"],
         "time": ["day","evening","night"],
         "rarity": 4
 	},
 	"18": {
-		"name": "Beedrill",
 		"landuse": ["park","grass","forest","wood"],
         "weather": ["sun","cloud"],
         "time": ["day","evening","night"],
         "rarity": 2
 	},
 	"19": {
-		"name": "Rattata",
-		"landuse": ["park","grass","urban area","residential","recreation_ground"],
-        "weather": ["sun","cloud","rain"],
-        "time": ["evening","morning","night"],
-        "rarity": 5
-	},
-	"20": {
-		"name": "Raticate",
-		"landuse": ["park","grass","residential"],
-        "weather": ["cloud","rain"],
-        "time": ["evening","morning","night"],
+		"landuse": ["farmland","grass","pitch"],
+        "weather": ["sun","cloud"],
+        "time": ["day","evening","morning","night"],
         "rarity": 3
 	},
+	"20": {
+		"landuse": ["farmland","pitch"],
+        "weather": ["sun","cloud"],
+        "time": ["day","evening","morning","night"],
+        "rarity": 1
+	},
+    
 	"21": {
-		"name": "Spearow",
-		"landuse": ["forest","park","grass","urban area","residential"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","morning"],
-        "rarity": 4
-	},
-	"22": {
-		"name": "Fearow",
-		"landuse": ["forest","grass","residential"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","morning"],
-        "rarity": 2
-	},
-	"23": {
-		"name": "Ekans",
 		"landuse": ["forest","grass","wood","park"],
         "weather": ["sun","cloud"],
         "time": ["day","evening","morning"],
         "rarity": 4
 	},
-	"24": {
-		"name": "Arbok",
+	"22": {
 		"landuse": ["forest","wood","park"],
         "weather": ["sun","cloud"],
         "time": ["day","evening","morning"],
         "rarity": 2
 	},
+    
+	"23": {
+		"landuse": ["park","grass","urban area","residential","recreation_ground"],
+        "weather": ["sun","cloud","rain"],
+        "time": ["evening","morning","night"],
+        "rarity": 5
+	},
+	"24": {
+		"landuse": ["park","grass","residential"],
+        "weather": ["cloud","rain"],
+        "time": ["evening","morning","night"],
+        "rarity": 4
+	},
 	"25": {
+		"landuse": ["park","grass"],
+        "weather": ["cloud"],
+        "time": ["evening","morning"],
+        "rarity": 1
+	},
+	"925": {
 		"name": "Pikachu",
 		"landuse": ["residential","urban area","park","generator"],
         "weather": ["sun","cloud"],
@@ -166,20 +162,6 @@
 	"26": {
 		"name": "Raichu",
 		"landuse": ["generator"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"27": {
-		"name": "Sandshrew",
-		"landuse": ["farmland","grass","pitch"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 4
-	},
-	"28": {
-		"name": "Sandslash",
-		"landuse": ["farmland","pitch"],
         "weather": ["sun","cloud"],
         "time": ["day","evening","morning","night"],
         "rarity": 1

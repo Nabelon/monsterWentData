@@ -1032,7 +1032,7 @@
 		"dmg": null,
 		"meta": {
 			"aligmentChanceS": 0,
-			"aligmentChanceT": 0,
+			"aligmentChanceT": 70,
 			"aligmentT": "sleep",
 			"crit_rate": 0,
 			"flinch_chance": 0,
@@ -1266,12 +1266,12 @@
 		"cat": "status",
 		"dmg": null,
 		"meta": {
-			"aligmentChanceS": 100,
-			"aligmentChanceT": 50,
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
-			"statChanceS": 0,
-			"statChanceT": 0
+			"statChanceS": 100,
+			"statChanceT": 50
 		},
 		"statChangesT": [{
 			"stat": "attack",
@@ -2271,7 +2271,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "Increases speed and attack",
-		"type": "fly"
+		"type": "flying"
 	},
 	"114": {
 		"acc": 90,
@@ -2350,7 +2350,7 @@
 		"pp": 5,
 		"prio": 0,
 		"text": "Heavy Damage, High chance to shock",
-		"type": "fly"
+		"type": "electric"
 	},
 	"118": {
 		"acc": 100,
