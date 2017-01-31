@@ -316,6 +316,8 @@
     }
   },
   "21": {
+    "evolveTo": "22", 
+    "evolveLevel": 25, 
     "name": "Egnal", 
     "types": [
       "poison"
@@ -344,6 +346,8 @@
     }
   },
   "23": {
+    "evolveTo": "24", 
+    "evolveLevel": 20, 
     "name": "Suamu", 
     "types": [
       "normal"
@@ -373,17 +377,213 @@
   },
   "25": {
     "name": "Gulfsuo", 
+    "evolveTo": "26", 
+    "evolveLevel": 23, 
+    "types": [
+      "normal",
+      "flying"
+    ], 
+    "baseStats": {
+      "special_attack": 10, 
+      "hp": 45, 
+      "attack": 45, 
+      "defense": 35, 
+      "speed": 55, 
+      "special_defense": 10
+    }
+  },
+  
+  "26": {
+    "name": "Gudoro", 
     "types": [
       "normal",
       "flying"
     ], 
     "baseStats": {
       "special_attack": 30, 
-      "hp": 55, 
-      "attack": 45, 
-      "defense": 35, 
-      "speed": 70, 
+      "hp": 65, 
+      "attack": 65, 
+      "defense": 43, 
+      "speed": 75, 
       "special_defense": 20
     }
+  },
+  
+  "27": {
+    "name": "Gashy", 
+    "evolveTo": "28", 
+    "evolveLevel": 33, 
+    "types": [
+      "water",
+      "poison"
+    ], 
+    "baseStats": {
+      "special_attack": 30, 
+      "hp": 45, 
+      "attack": 35, 
+      "defense": 43, 
+      "speed": 30, 
+      "special_defense": 15
+    }
+  },
+  
+  "28": {
+    "name": "Garosh", 
+    "types": [
+      "water",
+      "poison"
+    ], 
+    "baseStats": {
+      "special_attack": 40, 
+      "hp": 65, 
+      "attack": 75, 
+      "defense": 53, 
+      "speed": 60, 
+      "special_defense": 35
+    }
+  },
+  
+  "29": {
+    "name": "Slop", 
+    "evolveTo": "30", 
+    "evolveLevel": 33, 
+    "types": [
+      "poison"
+    ], 
+    "baseStats": {
+      "special_attack": 40, 
+      "hp": 45, 
+      "attack": 25, 
+      "defense": 23, 
+      "speed": 10, 
+      "special_defense": 25
+    }
+  },
+  
+  "30": {
+    "name": "Slopplop", 
+    "types": [
+      "poison"
+    ], 
+    "baseStats": {
+      "special_attack": 50, 
+      "hp": 85, 
+      "attack": 35, 
+      "defense": 43, 
+      "speed": 11, 
+      "special_defense": 35
+    }
+  },
+  
+  "31": {
+    "name": "Byrim", 
+    "evolveTo": "32", 
+    "evolveLevel": 30, 
+    "types": [
+      "rock"
+    ], 
+    "baseStats": {
+      "special_attack": 10, 
+      "hp": 45, 
+      "attack": 15, 
+      "defense": 33, 
+      "speed": 5, 
+      "special_defense": 10
+    }
+  },
+  
+  "32": {
+    "name": "Byrock", 
+    "types": [
+      "rock",
+      "psychic"
+    ], 
+    "baseStats": {
+      "special_attack": 90, 
+      "hp": 55, 
+      "attack": 35, 
+      "defense": 35, 
+      "speed": 50, 
+      "special_defense": 60
+    }
+  },
+  
+  "33": {
+    "name": "Arasi", 
+    "types": [
+      "psychic"
+    ], 
+    "baseStats": {
+      "special_attack": 55, 
+      "hp": 45, 
+      "attack": 45, 
+      "defense": 35, 
+      "speed": 60, 
+      "special_defense": 50
+    }
+  },
+  
+  "34": {
+    "name": "Krabsy", 
+    "types": [
+      "water"
+    ], 
+    "baseStats": {
+      "special_attack": 40, 
+      "hp": 60, 
+      "attack": 55, 
+      "defense": 55, 
+      "speed": 45, 
+      "special_defense": 40
+    }
+  },
+  
+  "35": {
+  
+    "name": "Pypion", 
+    "evolveTo": "36", 
+    "evolveLevel": 30, 
+    "types": [
+      "fire"
+    ], 
+    "baseStats": {
+      "special_attack": 40, 
+      "hp": 25, 
+      "attack": 35, 
+      "defense": 20, 
+      "speed": 30, 
+      "special_defense": 15
+    }
+  },
+  
+  "36": {
+    "name": "Pyron", 
+    "types": [
+      "fire"
+    ], 
+    "baseStats": {
+      "special_attack": 40, 
+      "hp": 55, 
+      "attack": 65, 
+      "defense": 35, 
+      "speed": 65, 
+      "special_defense": 30
+    }
+  },
+  
+  "37": {
+    "name": "Gapsl", 
+    "types": [
+      "plant"
+    ], 
+    "baseStats": {
+      "special_attack": 45, 
+      "hp": 55, 
+      "attack": 45, 
+      "defense": 45, 
+      "speed": 45, 
+      "special_defense": 45
+    }
   }
+  
 }

@@ -150,294 +150,91 @@
 		"landuse": ["park","grass"],
         "weather": ["cloud"],
         "time": ["evening","morning"],
-        "rarity": 1
+        "rarity": 4
 	},
+	"26": {
+		"landuse": ["park","grass"],
+        "weather": ["cloud"],
+        "time": ["evening","morning"],
+        "rarity": 2
+	},
+	"27": {
+		"landuse": ["ocean"],
+        "weather": ["cloud","sun","rain"],
+        "time": ["evening","morning","night"],
+        "rarity": 4
+	},
+	"28": {
+		"landuse": ["ocean"],
+        "weather": ["cloud","sun","rain"],
+        "time": ["evening","morning","night"],
+        "rarity": 2
+    },      
+	"29": {
+		"landuse": ["industrial","wastewater_plant"],
+        "weather": ["cloud","sun","rain"],
+        "time": ["evening","morning","night"],
+        "rarity" : 5
+    },      
+	"30": {
+		"landuse": ["industrial","wastewater_plant"],
+        "weather": ["cloud","sun","rain"],
+        "time": ["evening","morning","night"],
+        "rarity" : 3
+    },
+    
+	"31": {
+		"landuse": ["farmland","national_park"],
+        "weather": ["sun","cloud"],
+        "time": ["day","evening","morning"],
+        "rarity": 3
+	},
+	"32": {
+		"landuse": ["farmland","playground","national_park","theme_park"],
+        "weather": ["sun"],
+        "time": ["night","evening"],
+        "rarity": 2
+    },      
+	"33": {
+		"landuse": ["forest"],
+        "weather": ["cloud","sun"],
+        "time": ["evening","night"],
+        "rarity" : 2
+    },  
+	"34": {
+		"landuse": ["beach","riverbank"],
+        "weather": ["cloud","sun","rain"],
+        "time": ["evening","night","morning"],
+        "rarity" : 4
+    },
+	"35": {
+		"landuse": ["zoo","forest"],
+        "weather": ["cloud","sun","rain"],
+        "time": ["evening","day","morning"],
+        "rarity" : 4
+    },
+	"36": {
+		"landuse": ["zoo","forest"],
+        "weather": ["sun"],
+        "time": ["evening","day","morning"],
+        "rarity" : 2
+    },
+	"37": {
+		"landuse": ["grass","forest"],
+        "weather": ["rain","cloud"],
+        "time": ["evening","morning"],
+        "rarity" : 3
+    },
+        
+        
+        
+        
 	"925": {
 		"name": "Pikachu",
 		"landuse": ["residential","urban area","park","generator"],
         "weather": ["sun","cloud"],
         "time": ["day","evening","morning","night"],
         "rarity": 3
-	},
-	"26": {
-		"name": "Raichu",
-		"landuse": ["generator"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"29": {
-		"name": "Nidoran",
-		"landuse": ["farmland","grass","theme_park","petting_zoo"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","morning"],
-        "rarity": 4
-	},
-	"30": {
-		"name": "Nidorina",
-		"landuse": ["farmland","grass","theme_park","petting_zoo"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","morning"],
-        "rarity": 2
-	},
-	"31": {
-		"name": "Nidoqueen",
-		"landuse": ["farmland","grass","theme_park"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"32": {
-		"name": "Nidoran",
-		"landuse": ["farmland","grass","theme_park","petting_zoo"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","morning"],
-        "rarity": 4
-	},
-	"33": {
-		"name": "Nidorino",
-		"landuse": ["farmland","grass","theme_park","petting_zoo"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","morning"],
-        "rarity": 2
-	},
-	"34": {
-		"name": "Nidoking",
-		"landuse": ["farmland","grass","theme_park"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"35": {
-		"name": "Clefairy",
-		"landuse": ["picnic_site","playground","petting_zoo"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 3
-	},
-	"36": {
-		"name": "Clefable",
-		"landuse": ["picnic_site","playground"],
-        "weather": ["sun","cloud"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"37": {
-		"name": "Vulpix",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 2
-	},
-	"38": {
-		"name": "Ninetales",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"39": {
-		"name": "Jigglypuff",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"40": {
-		"name": "Wigglytuff",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"41": {
-		"name": "Zubat",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"42": {
-		"name": "Golbat",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"43": {
-		"name": "Oddish",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"44": {
-		"name": "Gloom",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"45": {
-		"name": "Vileplume",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"46": {
-		"name": "Paras",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"47": {
-		"name": "Parasect",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"48": {
-		"name": "Venonat",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"49": {
-		"name": "Venomoth",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"50": {
-		"name": "Diglett",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"51": {
-		"name": "Dugtrio",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"52": {
-		"name": "Meowth",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"53": {
-		"name": "Persian",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"54": {
-		"name": "Psyduck",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"55": {
-		"name": "Golduck",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"56": {
-		"name": "Mankey",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"57": {
-		"name": "Primeape",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"58": {
-		"name": "Growlithe",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"59": {
-		"name": "Arcanine",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"60": {
-		"name": "Poliwag",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"61": {
-		"name": "Poliwhirl",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"62": {
-		"name": "Poliwrath",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"63": {
-		"name": "Abra",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"64": {
-		"name": "Kadabra",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"65": {
-		"name": "Alakazam",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"66": {
-		"name": "Machop",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
-	},
-	"67": {
-		"name": "Machoke",
-		"landuse": [],
-        "weather": ["sun","cloud","rain"],
-        "time": ["day","evening","morning","night"],
-        "rarity": 1
 	},
 	"68": {
 		"name": "Machamp",
