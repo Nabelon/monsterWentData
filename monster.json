@@ -376,7 +376,7 @@
     }
   },
   "25": {
-    "name": "Gulfsuo", 
+    "name": "Ptero", 
     "evolveTo": "26", 
     "evolveLevel": 23, 
     "types": [
@@ -394,7 +394,7 @@
   },
   
   "26": {
-    "name": "Gudoro", 
+    "name": "Pteromy", 
     "types": [
       "normal",
       "flying"
@@ -410,7 +410,7 @@
   },
   
   "27": {
-    "name": "Gashy", 
+    "name": "Ceti", 
     "evolveTo": "28", 
     "evolveLevel": 33, 
     "types": [
@@ -428,7 +428,7 @@
   },
   
   "28": {
-    "name": "Garosh", 
+    "name": "Cetas", 
     "types": [
       "water",
       "poison"
