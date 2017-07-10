@@ -24,6 +24,7 @@
     "Electric-Overload Id:57 Str:50 Acc:100", 
     "Spark Id:101 Str:50 Acc:90", 
     "Sonic Waves Id:33 Str:None Acc:60", 
+    "Lightning Id:117 Str:120 Acc:80", 
     "Thunder-Fist Id:9 Str:70 Acc:100"
   ], 
   "fairy": [
@@ -45,11 +46,8 @@
     "Flame-Bombardment Id:90 Str:25 Acc:100", 
     "flameblast Id:78 Str:110 Acc:85"
   ], 
-  "fly": [
-    "Eagle Eye Id:113 Str:0 Acc:100", 
-    "Lightning Id:117 Str:120 Acc:80"
-  ], 
   "flying": [
+    "Eagle Eye Id:113 Str:0 Acc:100", 
     "Hurricane Id:112 Str:150 Acc:65", 
     "Skyfall Id:81 Str:140 Acc:90", 
     "Wing-Strike Id:14 Str:70 Acc:100", 

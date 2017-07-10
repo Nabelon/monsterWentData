@@ -1,0 +1,14 @@
+{
+  "0": {
+    "fileName": "arena0", 
+    "name": "Playground", 
+    "requirement": 0, 
+    "size": 7
+  }, 
+  "1": {
+    "fileName": "arena1", 
+    "name": "School", 
+    "requirement": 5, 
+    "size": 5
+  }
+}

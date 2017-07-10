@@ -1,0 +1,77 @@
+{
+    "nothing": {
+		"id": "0",
+        "price": 0,
+        "tLevel": 999,
+		"text": "Dont read that"
+	},
+	"monstercube": {
+		"id": "1",
+        "price": 400,
+        "tLevel": 1,
+		"text": "Can be used to catch monster"
+	},
+	"megacube": {
+		"id": "2",
+        "tLevel": 3,
+        "price": 2000,
+		"text": "Better than the monstercube"
+	},
+	"bestcube": {
+		"id": "3",
+        "tLevel": 999,
+        "price": 5000,
+		"text": "The best for catching rare monster"
+	},
+	"firecrystal": {
+		"id": "4",
+        "tLevel": 10,
+        "price": 100000,
+        "sellprice": 2000,
+		"useInFight": false,
+		"text": "Some monsters evolve after eating it ",
+		"evolve_list": {
+			"1": "2"
+		}
+	},
+    "healpot": {
+        "id": "5",
+        "tLevel": 1,
+        "price": 500,
+        "useInFight": true,
+        "text": "heals 70 hp",
+        "healing": 70
+    },
+    "bestpot": {
+        "id": "6",
+        "tLevel": 3,
+        "price": 2000,
+        "useInFight": true,
+        "text": "heals 200 hp",
+        "healing": 200
+    },
+    "healkit": {
+        "id": "7",
+        "tLevel": 4,
+        "price": 1000,
+        "useInFight": false,
+        "text": "heals for 500, but cant be used during battle",
+        "healing": 500
+    },
+    "revive": {
+        "id": 8,
+        "tLevel": 3,
+        "price": 1500,
+        "useInFight": true,
+        "text": "revives a monster with 50% of its hp",
+        "revive": 50
+    },
+    "rebirth": {
+        "id": 9,
+        "price": 5000,
+        "tLevel": 5,
+        "useInFight": true,
+        "text": "revives a monster with full hp and no aligment",
+        "revive": 100,
+        "aligment": "none"
+    },

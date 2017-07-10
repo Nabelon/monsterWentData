@@ -1,0 +1,107 @@
+{
+	"name": "School",
+	"id": 1,
+    "requirement": 5,
+	"trainers": [{
+			"name": "Firstgrader Karl",
+			"team": [{
+					"id": 24,
+					"lvl": 18
+				},
+				{
+					"id": 24,
+					"lvl": 20
+				}
+			],
+			"reward": [
+				[1, 3]
+			],
+			"engageText": "Dad?",
+			"loseText": ":'(",
+			"winText": "Evil guys always lose!"
+		},
+		{
+			"name": "Firstgrader Jopi",
+			"team": [{
+					"id": 23,
+					"lvl": 22
+				},
+				{
+					"id": 24,
+					"lvl": 22
+				},
+				{
+					"id": 25,
+					"lvl": 23
+				}
+			],
+			"reward": [
+				[1, 3]
+			],
+			"engageText": "Daddy?",
+			"loseText": "You not my Daddy!",
+			"winText": "You not my Daddy!"
+		},
+		{
+			"name": "Schoolgirl Amy",
+			"team": [{
+					"id": 19,
+					"lvl": 24
+				},
+				{
+					"id": 24,
+					"lvl": 24
+				}
+			],
+			"reward": [
+				[1, 3]
+			],
+			"engageText": "I like sand",
+			"loseText": "Blurg",
+			"winText": "Its tasty"
+		},
+		{
+			"name": "Teacher O'Brian",
+			"team": [{
+					"id": 31,
+					"lvl": 25
+				},
+				{
+					"id": 37,
+					"lvl": 25
+				},
+				{
+					"id": 35,
+					"lvl": 25
+				}
+			],
+			"reward": [
+				[1, 3]
+			],
+			"engageText": "Hey, i you are not enroled in this school!",
+			"loseText": "Im gonna call the police",
+			"winText": "Now go away, before i call the police"
+		},
+		{
+			"name": "Policeman Randy",
+			"team": [{
+					"id": 35,
+					"lvl": 26
+				},
+				{
+					"id": 36,
+					"lvl": 28
+				}
+			],
+			"reward": [
+				[1, 3]
+			],
+			"engageText": "You are entering unauthorized terrain!",
+			"loseText": "Im will make a exception for you, but dont tell my boss",
+			"winText": "Now come with me"
+		}
+	]
+}
+    
+              
+              
