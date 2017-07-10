@@ -13,14 +13,14 @@
 	},
 	"megacube": {
 		"id": "2",
-        "tLevel": 3,
+        "tLevel": 2,
         "price": 2000,
 		"text": "Better than the monstercube"
 	},
 	"bestcube": {
 		"id": "3",
         "tLevel": 999,
-        "price": 5000,
+        "price": 3000,
 		"text": "The best for catching rare monster"
 	},
 	"firecrystal": {
@@ -62,6 +62,7 @@
         "id": 8,
         "tLevel": 3,
         "price": 1500,
+        "sellprice": 400,
         "useInFight": true,
         "text": "revives a monster with 50% of its hp",
         "revive": 50
@@ -69,6 +70,7 @@
     "rebirth": {
         "id": 9,
         "price": 5000,
+        "sellprice": 1000,
         "tLevel": 5,
         "useInFight": true,
         "text": "revives a monster with full hp and no aligment",
