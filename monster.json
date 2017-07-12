@@ -10,14 +10,14 @@
       "special_attack": 58, 
       "hp": 38, 
       "attack": 55, 
-      "defense": 42, 
+      "defense": 32, 
       "speed": 66, 
-      "special_defense": 53
+      "special_defense": 43
     }
   }, 
   "2": {
     "evolveTo": "3", 
-    "evolveLevel": 32, 
+    "evolveLevel": 999, 
     "name": "Chermiliun", 
     "types": [
       "fire","flying"
@@ -25,7 +25,7 @@
     "baseStats": {
       "special_attack": 78, 
       "hp": 59, 
-      "attack": 63, 
+      "attack": 75, 
       "defense": 56, 
       "speed": 83, 
       "special_defense": 61
@@ -37,12 +37,12 @@
       "fire","flying"
     ], 
     "baseStats": {
-      "special_attack": 107, 
+      "special_attack": 97, 
       "hp": 76, 
-      "attack": 88, 
-      "defense": 73, 
-      "speed": 110, 
-      "special_defense": 80
+      "attack": 78, 
+      "defense": 63, 
+      "speed": 99, 
+      "special_defense": 70
     }
   },  
   "4": {
@@ -53,28 +53,28 @@
       "water"
     ], 
     "baseStats": {
-      "special_attack": 23, 
-      "hp": 33, 
-      "attack": 25, 
+      "special_attack": 33, 
+      "hp": 51, 
+      "attack": 55, 
       "defense": 85, 
-      "speed": 23, 
-      "special_defense": 30
+      "speed": 33, 
+      "special_defense": 50
     }
   }, 
   "5": {
     "evolveTo": "6", 
-    "evolveLevel": 36, 
+    "evolveLevel": 999, 
     "name": "Sqaartolu", 
     "types": [
       "water"
     ], 
     "baseStats": {
-      "special_attack": 63, 
-      "hp": 60, 
-      "attack": 60, 
-      "defense": 85, 
+      "special_attack": 58, 
+      "hp": 70, 
+      "attack": 89, 
+      "defense": 90, 
       "speed": 53, 
-      "special_defense": 77
+      "special_defense": 72
     }
   }, 
   "6": {
@@ -83,12 +83,12 @@
       "water"
     ], 
     "baseStats": {
-      "special_attack": 85, 
+      "special_attack": 75, 
       "hp": 80, 
-      "attack": 82, 
-      "defense": 105, 
-      "speed": 73, 
-      "special_defense": 109
+      "attack": 93, 
+      "defense": 95, 
+      "speed": 63, 
+      "special_defense": 99
     }
     },
   "7": {
@@ -101,16 +101,16 @@
     ], 
     "baseStats": {
       "special_attack": 60, 
-      "hp": 45, 
-      "attack": 55, 
-      "defense": 44, 
-      "speed": 41, 
-      "special_defense": 61
+      "hp": 65, 
+      "attack": 35, 
+      "defense": 34, 
+      "speed": 31, 
+      "special_defense": 51
     }
   }, 
   "8": {
     "evolveTo": "9", 
-    "evolveLevel": 32, 
+    "evolveLevel": 999, 
     "name": "Ovyser", 
     "types": [
       "grass", 
@@ -118,10 +118,10 @@
     ], 
     "baseStats": {
       "special_attack": 85, 
-      "hp": 64, 
-      "attack": 58, 
+      "hp": 74, 
+      "attack": 51, 
       "defense": 67, 
-      "speed": 55, 
+      "speed": 45, 
       "special_defense": 83
     }
   }, 
@@ -132,11 +132,11 @@
       "poison"
     ], 
     "baseStats": {
-      "special_attack": 105, 
-      "hp": 88, 
-      "attack": 60, 
-      "defense": 80, 
-      "speed": 73, 
+      "special_attack": 95, 
+      "hp": 98, 
+      "attack": 54, 
+      "defense": 70, 
+      "speed": 63, 
       "special_defense": 105
     }
   }, 
@@ -151,8 +151,8 @@
     "baseStats": {
       "special_attack": 30, 
       "hp": 40, 
-      "attack": 48, 
-      "defense": 38, 
+      "attack": 58, 
+      "defense": 48, 
       "speed": 60, 
       "special_defense": 38
     }
@@ -166,11 +166,11 @@
       "normal"
     ], 
     "baseStats": {
-      "special_attack": 45, 
+      "special_attack": 55, 
       "hp": 61, 
-      "attack": 65, 
+      "attack": 85, 
       "defense": 53, 
-      "speed": 73, 
+      "speed": 83, 
       "special_defense": 53
     }
   },
@@ -183,9 +183,9 @@
     "baseStats": {
       "special_attack": 70, 
       "hp": 82, 
-      "attack": 85, 
+      "attack": 105, 
       "defense": 73, 
-      "speed": 95, 
+      "speed": 105, 
       "special_defense": 73
     }
   }, 
@@ -216,9 +216,9 @@
       "special_attack": 20, 
       "hp": 55, 
       "attack": 25, 
-      "defense": 50, 
+      "defense": 100, 
       "speed": 10, 
-      "special_defense": 50
+      "special_defense": 80
     }
   }, 
   "15": {
@@ -228,10 +228,10 @@
       "fairy"
     ], 
     "baseStats": {
-      "special_attack": 85, 
+      "special_attack": 125, 
       "hp": 59, 
-      "attack": 30, 
-      "defense": 30, 
+      "attack": 50, 
+      "defense": 40, 
       "speed": 77, 
       "special_defense": 85
     }
@@ -262,12 +262,12 @@
       "poison"
     ], 
     "baseStats": {
-      "special_attack": 33, 
+      "special_attack": 43, 
       "hp": 50, 
       "attack": 29, 
       "defense": 55, 
       "speed": 25, 
-      "special_defense": 30
+      "special_defense": 90
     }
   },
   "18": {
@@ -277,11 +277,11 @@
       "poison"
     ], 
     "baseStats": {
-      "special_attack": 35, 
+      "special_attack": 65, 
       "hp": 63, 
-      "attack": 85, 
-      "defense": 39, 
-      "speed": 77, 
+      "attack": 105, 
+      "defense": 69, 
+      "speed": 87, 
       "special_defense": 77
     }
   },
@@ -294,11 +294,11 @@
     ], 
     "baseStats": {
       "special_attack": 30, 
-      "hp": 50, 
-      "attack": 40, 
+      "hp": 60, 
+      "attack": 60, 
       "defense": 40, 
       "speed": 50, 
-      "special_defense": 20
+      "special_defense": 40
     }
   },
   "20": {
@@ -309,10 +309,10 @@
     "baseStats": {
       "special_attack": 33, 
       "hp": 60, 
-      "attack": 60, 
-      "defense": 50, 
-      "speed": 70, 
-      "special_defense": 23
+      "attack": 100, 
+      "defense": 100, 
+      "speed": 103, 
+      "special_defense": 73
     }
   },
   "21": {
@@ -339,9 +339,9 @@
     "baseStats": {
       "special_attack": 80, 
       "hp": 55, 
-      "attack": 70, 
-      "defense": 25, 
-      "speed": 80, 
+      "attack": 120, 
+      "defense": 55, 
+      "speed": 110, 
       "special_defense": 30
     }
   },
@@ -353,12 +353,12 @@
       "normal"
     ], 
     "baseStats": {
-      "special_attack": 10, 
-      "hp": 35, 
-      "attack": 30, 
+      "special_attack": 15, 
+      "hp": 45, 
+      "attack": 50, 
       "defense": 30, 
       "speed": 50, 
-      "special_defense": 20
+      "special_defense": 25
     }
   },
   "24": {
@@ -368,10 +368,10 @@
     ], 
     "baseStats": {
       "special_attack": 20, 
-      "hp": 45, 
-      "attack": 40, 
-      "defense": 40, 
-      "speed": 60, 
+      "hp": 53, 
+      "attack": 60, 
+      "defense": 55, 
+      "speed": 66, 
       "special_defense": 30
     }
   },
@@ -388,8 +388,8 @@
       "hp": 45, 
       "attack": 45, 
       "defense": 35, 
-      "speed": 55, 
-      "special_defense": 10
+      "speed": 75, 
+      "special_defense": 20
     }
   },
   
@@ -400,12 +400,12 @@
       "flying"
     ], 
     "baseStats": {
-      "special_attack": 30, 
-      "hp": 65, 
-      "attack": 65, 
-      "defense": 43, 
-      "speed": 75, 
-      "special_defense": 20
+      "special_attack": 40, 
+      "hp": 75, 
+      "attack": 75, 
+      "defense": 53, 
+      "speed": 95, 
+      "special_defense": 30
     }
   },
   
@@ -418,12 +418,12 @@
       "poison"
     ], 
     "baseStats": {
-      "special_attack": 30, 
-      "hp": 45, 
-      "attack": 35, 
-      "defense": 43, 
-      "speed": 30, 
-      "special_defense": 15
+      "special_attack": 40, 
+      "hp": 55, 
+      "attack": 45, 
+      "defense": 53, 
+      "speed": 40, 
+      "special_defense": 35
     }
   },
   
@@ -434,12 +434,12 @@
       "poison"
     ], 
     "baseStats": {
-      "special_attack": 40, 
-      "hp": 65, 
-      "attack": 75, 
-      "defense": 53, 
-      "speed": 60, 
-      "special_defense": 35
+      "special_attack": 60, 
+      "hp": 85, 
+      "attack": 95, 
+      "defense": 73, 
+      "speed": 70, 
+      "special_defense": 55
     }
   },
   
@@ -451,12 +451,12 @@
       "poison"
     ], 
     "baseStats": {
-      "special_attack": 40, 
-      "hp": 45, 
-      "attack": 25, 
-      "defense": 23, 
-      "speed": 10, 
-      "special_defense": 25
+      "special_attack": 70, 
+      "hp": 65, 
+      "attack": 45, 
+      "defense": 33, 
+      "speed": 40, 
+      "special_defense": 45
     }
   },
   
@@ -466,12 +466,12 @@
       "poison"
     ], 
     "baseStats": {
-      "special_attack": 50, 
-      "hp": 85, 
-      "attack": 35, 
-      "defense": 43, 
-      "speed": 11, 
-      "special_defense": 35
+      "special_attack": 100, 
+      "hp": 95, 
+      "attack": 55, 
+      "defense": 53, 
+      "speed": 51, 
+      "special_defense": 65
     }
   },
   
@@ -483,11 +483,11 @@
       "rock"
     ], 
     "baseStats": {
-      "special_attack": 10, 
+      "special_attack": 30, 
       "hp": 45, 
-      "attack": 15, 
+      "attack": 35, 
       "defense": 33, 
-      "speed": 5, 
+      "speed": 15, 
       "special_defense": 10
     }
   },
@@ -499,11 +499,11 @@
       "psychic"
     ], 
     "baseStats": {
-      "special_attack": 90, 
+      "special_attack": 120, 
       "hp": 55, 
-      "attack": 35, 
-      "defense": 35, 
-      "speed": 50, 
+      "attack": 75, 
+      "defense": 65, 
+      "speed": 80, 
       "special_defense": 60
     }
   },
@@ -529,12 +529,12 @@
       "water"
     ], 
     "baseStats": {
-      "special_attack": 40, 
-      "hp": 60, 
-      "attack": 55, 
-      "defense": 55, 
-      "speed": 45, 
-      "special_defense": 40
+      "special_attack": 80, 
+      "hp": 80, 
+      "attack": 85, 
+      "defense": 85, 
+      "speed": 85, 
+      "special_defense": 80
     }
   },
   
@@ -548,10 +548,10 @@
     ], 
     "baseStats": {
       "special_attack": 40, 
-      "hp": 25, 
-      "attack": 35, 
-      "defense": 20, 
-      "speed": 30, 
+      "hp": 55, 
+      "attack": 85, 
+      "defense": 50, 
+      "speed": 70, 
       "special_defense": 15
     }
   },
@@ -562,12 +562,12 @@
       "fire"
     ], 
     "baseStats": {
-      "special_attack": 40, 
-      "hp": 55, 
-      "attack": 65, 
-      "defense": 35, 
-      "speed": 65, 
-      "special_defense": 30
+      "special_attack": 60, 
+      "hp": 85, 
+      "attack": 95, 
+      "defense": 45, 
+      "speed": 95, 
+      "special_defense": 60
     }
   },
   
@@ -577,12 +577,12 @@
       "plant"
     ], 
     "baseStats": {
-      "special_attack": 45, 
+      "special_attack": 75, 
       "hp": 55, 
       "attack": 45, 
-      "defense": 45, 
-      "speed": 45, 
-      "special_defense": 45
+      "defense": 55, 
+      "speed": 55, 
+      "special_defense": 55
     }
   }
   

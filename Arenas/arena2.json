@@ -1,0 +1,167 @@
+{
+	"name": "Adventure Park",
+	"id": 2,
+    "requirement": 10,
+	"trainers": [{
+			"name": "Swing Peter Pete",
+			"team": [{
+					"id": 21,
+					"lvl": 20
+				},
+				{
+					"id": 21,
+					"lvl": 20
+				},
+				{
+					"id": 21,
+					"lvl": 20
+				}
+				
+			],
+			"reward": [
+				[2, 3],[5, 5]
+			],
+			"engageText": "You want to swing?",
+			"loseText": "You swinged so high, you are my new swinging idol",
+			"winText": "This was fun! How about another try later?"
+		},
+		{
+			"name": "Carrousel Lady Eugenia",
+			"team": [{
+					"id": 21,
+					"lvl": 25
+				},
+				{
+					"id": 22,
+					"lvl": 30
+				}
+			],
+			"reward": [
+				[2, 3], [1, 5]
+			],
+			"engageText": "Sometimes my grandson Pete joins me too",
+			"loseText": "You are not a nice person",
+			"winText": "Next time Pete will joins us for sure"
+		},
+		{
+			"name": "Flying Dutchman Controller Jackson",
+			"team": [{
+					"id": 11,
+					"lvl": 32
+				},
+				{
+					"id": 1,
+					"lvl": 32
+				},
+				{
+					"id": 25,
+					"lvl": 36
+				}
+			],
+			"reward": [
+				[3, 3]
+			],
+			"engageText": "You have to be this high to enter",
+			"loseText": "small flies liek you will never enter",
+			"winText": "This one got big really fast"
+		},
+		{
+			"name": "One Man Free Fall Tower's guy in front of the queue",
+			"team": [{
+					"id": 36,
+					"lvl": 45
+				}
+			],
+			"reward": [
+				[3, 3],[6, 5]
+			],
+			"engageText": "Do not you dare to queue jump!",
+			"loseText": "I HATE WAITING :'(",
+			"winText": "Now go back to the end of the queue"
+		},
+		{
+			"name": "Roller coster",
+			"team": [{
+					"id": 2,
+					"lvl": 39
+				},
+				{
+					"id": 5,
+					"lvl": 40
+				},
+				{
+					"id": 8,
+					"lvl": 41
+				}
+			],
+			"reward": [
+				[8, 3]
+			],
+			"engageText": "Rolling Rolling",
+			"loseText": "To fast for you",
+			"winText": "To slow for you"
+		},
+		{
+			"name": "Speedy the Speeder",
+			"team": [{
+					"id": 10,
+					"lvl": 43
+				},
+				{
+					"id": 11,
+					"lvl": 43
+				},
+				{
+					"id": 12,
+					"lvl": 43
+				}
+			],
+			"reward": [
+				[9, 2]
+			],
+			"engageText": "DUDUDUDUDUDUDUDUDUDUUDUDUDUDUDUDUDDUUDUDUDUDUDUDUDUDUDUDUDUUDUDUDUDUDUDUUDUDUDUDUDUDUD",
+			"loseText": "You listening to Darude Sandstorm too?",
+			"winText": "You should listen to Darude Sandstorm while running, it makes everything 10% faster!"
+		},
+		{
+			"name": "Can Knockdown",
+			"team": [{
+					"id": 35,
+					"lvl": 48
+				},
+				{
+					"id": 20,
+					"lvl": 49
+				}
+			],
+			"reward": [
+				[6, 6],[3, 3]
+			],
+			"engageText": "Can you knock them down?",
+			"loseText": "You can",
+			"winText": "What a noob"
+		},
+		{
+			"name": "Why dont you just tell me where the missing crystals are?",
+			"team": [{
+					"id": 2,
+					"lvl": 48
+				},
+				{
+					"id": 12,
+					"lvl": 50
+				},
+				{
+					"id": 3,
+					"lvl": 55
+				}
+			],
+			"reward": [
+				[8, 2],[3,5],[7,1]
+			],
+			"engageText": "Maybe, Maybe not?",
+			"loseText": "The Chinese cant have them!",
+			"winText": "You dont. F'king. Talk to me. Like That. You little. Piece of. S*t haha"
+		}
+	]
+}

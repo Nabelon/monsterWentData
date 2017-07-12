@@ -566,7 +566,7 @@
 		"dmg": null,
 		"meta": {
 			"aligmentChanceS": 0,
-			"aligmentChanceT": 100,
+			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
 			"statChanceS": 0,
@@ -969,11 +969,11 @@
 		"cat": "status",
 		"dmg": null,
 		"meta": {
-			"aligmentChanceS": 100,
+			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
-			"statChanceS": 0,
+			"statChanceS": 100,
 			"statChanceT": 0
 		},
 		"statChangesS": [{

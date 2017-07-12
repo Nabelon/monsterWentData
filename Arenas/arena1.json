@@ -14,7 +14,7 @@
 				}
 			],
 			"reward": [
-				[1, 3]
+				[2, 5]
 			],
 			"engageText": "Dad?",
 			"loseText": ":'(",
@@ -36,7 +36,7 @@
 				}
 			],
 			"reward": [
-				[1, 3]
+				[5, 3]
 			],
 			"engageText": "Daddy?",
 			"loseText": "You not my Daddy!",
@@ -54,14 +54,14 @@
 				}
 			],
 			"reward": [
-				[1, 3]
+				[5, 2],[6, 1]
 			],
 			"engageText": "I like sand",
 			"loseText": "Blurg",
 			"winText": "Its tasty"
 		},
 		{
-			"name": "Teacher O'Brian",
+			"name": "Teacher Fischgesicht",
 			"team": [{
 					"id": 31,
 					"lvl": 25
@@ -76,11 +76,11 @@
 				}
 			],
 			"reward": [
-				[1, 3]
+				[6, 3], [3, 3]
 			],
-			"engageText": "Hey, i you are not enroled in this school!",
-			"loseText": "Im gonna call the police",
-			"winText": "Now go away, before i call the police"
+			"engageText": "Hey, you are not enrolled in this school!",
+			"loseText": "Im going to call the police",
+			"winText": "Now go away, before I call the police"
 		},
 		{
 			"name": "Policeman Randy",
@@ -94,14 +94,73 @@
 				}
 			],
 			"reward": [
-				[1, 3]
+				[8, 2],[9, 2]
 			],
 			"engageText": "You are entering unauthorized terrain!",
-			"loseText": "Im will make a exception for you, but dont tell my boss",
+			"loseText": "I will make a exception for you, but please don't tell my boss",
 			"winText": "Now come with me"
+		},
+		{
+			"name": "Math Teacher Mr. Klein",
+			"team": [{
+					"id": 29,
+					"lvl": 29
+				},
+				{
+					"id": 31,
+					"lvl": 32
+				},
+				{
+					"id": 33,
+					"lvl": 34
+				}
+			],
+			"reward": [
+				[3, 3],[6, 3],[8, 2]
+			],
+			"engageText": "what is e^(pi*i)?",
+			"loseText": "Damn cheater googled it for sure",
+			"winText": "Hahaha now back in the classroom with you, I got some special lessons for you"
+		},
+		{
+			"name": "Headmaster O'Brian",
+			"team": [{
+					"id": 30,
+					"lvl": 38
+				},
+				{
+					"id": 32,
+					"lvl": 39
+				}
+			],
+			"reward": [
+				[3, 3],[5, 6],[6, 3]
+			],
+			"engageText": "Noone can enter this school without my permission",
+			"loseText": "Exceptions validate the rule",
+			"winText": "Now leave, I am sure a kindergarten still has a spot for you"
+		},
+		{
+			"name": "Overfunded Science Teacher",
+			"team": [{
+					"id": 3,
+					"lvl": 40
+				},
+				{
+					"id": 9,
+					"lvl": 40
+				},
+				{
+					"id": 6,
+					"lvl": 40
+				}
+			],
+			"reward": [
+				[11,1]
+			],
+			"engageText": "These new crystals I created can evolve ANYTHING!",
+			"loseText": "Such power!",
+			"winText": "Dont you dare taking my last crystal!"
 		}
 	]
 }
-    
-              
-              

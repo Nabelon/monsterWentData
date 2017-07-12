@@ -1,0 +1,167 @@
+i{
+	"name": "Adventure Park",
+	"id": 2,
+    "requirement": 10,
+	"trainers": [{
+			"name": "Swing Peter",
+			"team": [{
+					"id": 21,
+					"lvl": 20
+				},
+				{
+					"id": 21,
+					"lvl": 20
+				},
+				{
+					"id": 21,
+					"lvl": 20
+				}
+				
+			],
+			"reward": [
+				[2, 3],[5, 5]
+			],
+			"engageText": "You want to swing?",
+			"loseText": "You swung out",
+			"winText": "You're the real swinger"
+		},
+		{
+			"name": "Carrousel Lady",
+			"team": [{
+					"id": 21,
+					"lvl": 25
+				},
+				{
+					"id": 22,
+					"lvl": 30
+				}
+			],
+			"reward": [
+				[2, 3], [1, 5]
+			],
+			"engageText": "Lets Spin",
+			"loseText": "Ahhhhhh",
+			"winText": "You are the real Spinner"
+		},
+		{
+			"name": "Flying Dutchman",
+			"team": [{
+					"id": 11,
+					"lvl": 32
+				},
+				{
+					"id": 1,
+					"lvl": 32
+				},
+				{
+					"id": 25,
+					"lvl": 36
+				}
+			],
+			"reward": [
+				[3, 3]
+			],
+			"engageText": "Lets fly together",
+			"loseText": "tooo highhhh",
+			"winText": "Woooooosh"
+		},
+		{
+			"name": "One Man Free Fall Tower",
+			"team": [{
+					"id": 36,
+					"lvl": 45
+				}
+			],
+			"reward": [
+				[3, 3],[6, 5]
+			],
+			"engageText": "Fall!!!!",
+			"loseText": "You died",
+			"winText": "You survived"
+		},
+		{
+			"name": "Roller coster",
+			"team": [{
+					"id": 2,
+					"lvl": 39
+				},
+				{
+					"id": 5,
+					"lvl": 40
+				},
+				{
+					"id": 8,
+					"lvl": 41
+				}
+			],
+			"reward": [
+				[8, 3]
+			],
+			"engageText": "Rolling Rolling",
+			"loseText": "To fast for you",
+			"winText": "To slow for you"
+		},
+		{
+			"name": "Speedy the Speeder",
+			"team": [{
+					"id": 10,
+					"lvl": 43
+				},
+				{
+					"id": 11,
+					"lvl": 43
+				},
+				{
+					"id": 12,
+					"lvl": 43
+				}
+			],
+			"reward": [
+				[9, 2]
+			],
+			"engageText": "Woshhhh",
+			"loseText": "faaaaaassst",
+			"winText": "Easy"
+		},
+		{
+			"name": "Can knockdown",
+			"team": [{
+					"id": 35,
+					"lvl": 48
+				},
+				{
+					"id": 20,
+					"lvl": 49
+				}
+			],
+			"reward": [
+				[6, 6],[3, 3]
+			],
+			"engageText": "Can you knock them down?",
+			"loseText": "failed",
+			"winText": "You can"
+		},
+		{
+			"name": "Fast and Furious",
+			"team": [{
+					"id": 2,
+					"lvl": 48
+				},
+				{
+					"id": 12,
+					"lvl": 50
+				},
+				{
+					"id": 3,
+					"lvl": 55
+				}
+			],
+			"reward": [
+				[8, 2],[3,5],[7,1]
+			],
+			"engageText": "Maybe, Maybe not?",
+			"loseText": "Try it again",
+			"winText": "You survived the adventure park"
+		}
+	]
+}

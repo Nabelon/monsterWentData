@@ -9,6 +9,12 @@
     "fileName": "arena1", 
     "name": "School", 
     "requirement": 5, 
-    "size": 5
+    "size": 8
+  }, 
+  "2": {
+    "fileName": "arena2", 
+    "name": "Adventure Park", 
+    "requirement": 10, 
+    "size": 8
   }
 }

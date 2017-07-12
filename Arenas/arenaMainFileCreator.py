@@ -3,7 +3,7 @@ import json
 import random
 def main():
     newDic = {};
-    arenaFileNames = ["arena0","arena1"];
+    arenaFileNames = ["arena0","arena1","arena2"];
     for i in range(0,len(arenaFileNames)):
         s = str(i)
         print s
