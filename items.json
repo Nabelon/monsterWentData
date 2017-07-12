@@ -1,100 +1,71 @@
 {
-    "nothing": {
-		"id": "0",
-        "price": 0,
-        "tLevel": 999,
-		"text": "Dont read that"
-	},
-	"monstercube": {
-		"id": "1",
-        "price": 400,
-        "tLevel": 1,
+	"000": {
+        "Category": [
+		"00x cubes",
+		"01x healpotions",
+		"02x revives",
+		"03x crystals",
+		"04x statusItems",
+		"05x ppItems",
+		"06x exp Sweeties"
+        ],
+		"name": "MonsterCube",
+		"price": 400,
+		"tLevel": 1,
 		"text": "Can be used to catch monster"
 	},
-	"megacube": {
-		"id": "2",
-        "tLevel": 2,
-        "price": 2000,
+	"001": {
+		"name": "MegaCube",
+		"tLevel": 2,
+		"price": 2000,
 		"text": "Better than the monstercube"
 	},
-	"bestcube": {
-		"id": "3",
-        "tLevel": 999,
-        "price": 3000,
+	"002": {
+		"name": "BestCube",
+		"tLevel": 999,
+		"price": 3000,
 		"text": "The best for catching rare monster"
 	},
-	"firecrystal": {
-		"id": "4",
-        "tLevel": 10,
-        "price": 100000,
-        "sellprice": 2000,
-		"useInFight": false,
-		"text": "Some monsters evolve after eating it ",
-		"evolve_list": {
-			"2": "3"
-		}
+	"010": {
+		"name": "HealPot",
+		"tLevel": 1,
+		"price": 500,
+		"useInFight": true,
+		"text": "heals 50 hp",
+		"healing": 50
 	},
-    "healpot": {
-        "id": "5",
-        "tLevel": 1,
-        "price": 500,
-        "useInFight": true,
-        "text": "heals 50 hp",
-        "healing": 50
-    },
-    "bestpot": {
-        "id": "6",
-        "tLevel": 5,
-        "price": 2000,
-        "useInFight": true,
-        "text": "heals 200 hp",
-        "healing": 200
-    },
-	"plantcrystal": {
-		"id": "7",
-        "tLevel": 10,
-        "price": 100000,
-        "sellprice": 2000,
-		"useInFight": false,
-		"text": "The essence of all plants, a good fertilizer that some plant monsters really need.",
-		"evolve_list": {
-			"37": "38",
-			"8": "9"
-		}
+	"011": {
+		"name": "BestPot",
+		"tLevel": 5,
+		"price": 2000,
+		"useInFight": true,
+		"text": "heals 200 hp",
+		"healing": 200
 	},
-    "revive": {
-        "id": 8,
-        "tLevel": 3,
-        "price": 1500,
-        "sellprice": 400,
-        "useInFight": true,
-        "text": "revives a monster with 50% of its hp",
-        "revive": 50
-    },
-    "rebirth": {
-        "id": 9,
-        "price": 5000,
-        "sellprice": 1000,
-        "tLevel": 5,
-        "useInFight": true,
-        "text": "revives a monster with full hp and removes aligments",
-        "revive": 100,
-        "aligment": "none"
-    },
-    "exppot": {
-        "id": 10,
-        "price": 5000,
-        "sellprice": 1000,
-        "tLevel": 99,
-        "useInFight": false,
-        "text": "Gives a monster 500 exp",
-        "exp": 500
-    },
-	"elementalcrystal": {
-		"id": "11",
-        "tLevel": 10,
-        "price": 100000,
-        "sellprice": 2000,
+	"020": {
+		"name": "Revive",
+		"tLevel": 3,
+		"price": 1500,
+		"sellprice": 400,
+		"useInFight": true,
+		"text": "revives a monster with 50% of its hp",
+		"revive": 50
+	},
+	"021": {
+		"name": "Rebirth",
+		"price": 5000,
+		"sellprice": 1000,
+		"tLevel": 5,
+		"useInFight": true,
+		"text": "revives a monster with full hp and removes aligments",
+		"revive": 100,
+		"aligment": "none"
+	},
+	"030": {
+		"name": "ElementalCrystal",
+		"tLevel": 10,
+		"price": 100000,
+		"sellprice": 2000,
 		"useInFight": false,
 		"text": "Water mixed with plants and fire under 300 bar pressure. Evolves the monster the guy at the start gave you (who could really need a tip)",
 		"evolve_list": {
@@ -103,24 +74,46 @@
 			"8": "9"
 		}
 	},
-    "firstaidkit": {
-        "id": 12,
-        "price": 2000,
-        "tLevel": 4,
-        "useInFight": true,
-        "text": "Status effect no more",
-        "aligment": "none"
-    },
-	"watercrystal": {
-		"id": "7",
-        "tLevel": 10,
-        "price": 100000,
-        "sellprice": 2000,
+	"031": {
+		"name": "WaterCrystal",
+		"tLevel": 10,
+		"price": 100000,
+		"sellprice": 2000,
 		"useInFight": false,
 		"text": "Unmoving water that isnt frozen, how water monsters use it is still unclear",
 		"evolve_list": {
 			"5": "6"
 		}
 	},
-    
+	"032": {
+		"name": "PlantCrystal",
+		"tLevel": 10,
+		"price": 100000,
+		"sellprice": 2000,
+		"useInFight": false,
+		"text": "The essence of all plants, a good fertilizer that some plant monsters really need.",
+		"evolve_list": {
+			"37": "38",
+			"8": "9"
+		}
+	},
+	"033": {
+		"name": "FireCrystal",
+		"tLevel": 10,
+		"price": 100000,
+		"sellprice": 2000,
+		"useInFight": false,
+		"text": "Some monsters evolve after eating it ",
+		"evolve_list": {
+			"2": "3"
+		}
+	},
+	"040": {
+		"name": "FirstAidKit",
+		"price": 2000,
+		"tLevel": 4,
+		"useInFight": true,
+		"text": "Status effect no more",
+		"aligment": "none"
+	}
 }
