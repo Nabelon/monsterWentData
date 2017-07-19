@@ -2,7 +2,7 @@
     "1": {
     "evolveTo": "2", 
     "evolveLevel": 16, 
-    "name": "Chermundar", 
+    "name": "Fiuro", 
     "types": [
       "fire","flying"
     ], 
@@ -18,7 +18,7 @@
   "2": {
     "evolveTo": "3", 
     "evolveLevel": 999, 
-    "name": "Chermiliun", 
+    "name": "Explodio", 
     "types": [
       "fire","flying"
     ], 
@@ -32,7 +32,7 @@
     }
   }, 
   "3": {
-    "name": "Cherazodon", 
+    "name": "Inferno", 
     "types": [
       "fire","flying"
     ], 
