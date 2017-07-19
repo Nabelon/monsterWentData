@@ -48,7 +48,7 @@
   "4": {
     "evolveTo": "5", 
     "evolveLevel": 14, 
-    "name": "Sqaarti", 
+    "name": "Agutta", 
     "types": [
       "water"
     ], 
@@ -64,7 +64,7 @@
   "5": {
     "evolveTo": "6", 
     "evolveLevel": 999, 
-    "name": "Sqaartolu", 
+    "name": "Rivus", 
     "types": [
       "water"
     ], 
@@ -78,7 +78,7 @@
     }
   }, 
   "6": {
-    "name": "Sqaartolus", 
+    "name": "Aequilium", 
     "types": [
       "water"
     ], 
@@ -94,7 +94,7 @@
   "7": {
     "evolveTo": "8", 
     "evolveLevel": 16, 
-    "name": "Blebuser", 
+    "name": "Glanduli", 
     "types": [
       "grass", 
       "poison"
