@@ -1,7 +1,11 @@
 {
 	"name": "Adventure Park",
 	"id": 2,
+<<<<<<< HEAD
+    "requirement": 12,
+=======
     "requirement": 10,
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 	"trainers": [{
 			"name": "Swing Peter Pete",
 			"team": [{
@@ -19,7 +23,11 @@
 				
 			],
 			"reward": [
+<<<<<<< HEAD
+				[1, 5],[10, 3]
+=======
 				[2, 3],[5, 5]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "You want to swing?",
 			"loseText": "You swinged so high, you are my new swinging idol",
@@ -37,7 +45,11 @@
 				}
 			],
 			"reward": [
+<<<<<<< HEAD
+				[1, 3], [0, 5]
+=======
 				[2, 3], [1, 5]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "Sometimes my grandson Pete joins me too",
 			"loseText": "You are not a nice person",
@@ -59,7 +71,11 @@
 				}
 			],
 			"reward": [
+<<<<<<< HEAD
+				[40, 1],[50, 1],[10, 4]
+=======
 				[3, 3]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "You have to be this high to enter",
 			"loseText": "small flies liek you will never enter",
@@ -73,7 +89,11 @@
 				}
 			],
 			"reward": [
+<<<<<<< HEAD
+				[60, 1]
+=======
 				[3, 3],[6, 5]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "Do not you dare to queue jump!",
 			"loseText": "I HATE WAITING :'(",
@@ -95,7 +115,11 @@
 				}
 			],
 			"reward": [
+<<<<<<< HEAD
+				[20, 3],[2, 3]
+=======
 				[8, 3]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "Rolling Rolling",
 			"loseText": "To fast for you",
@@ -117,7 +141,11 @@
 				}
 			],
 			"reward": [
+<<<<<<< HEAD
+				[21, 2],[11, 3]
+=======
 				[9, 2]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "DUDUDUDUDUDUDUDUDUDUUDUDUDUDUDUDUDDUUDUDUDUDUDUDUDUDUDUDUDUUDUDUDUDUDUDUUDUDUDUDUDUDUD",
 			"loseText": "You listening to Darude Sandstorm too?",
@@ -135,7 +163,11 @@
 				}
 			],
 			"reward": [
+<<<<<<< HEAD
+				[11, 5],[2, 5]
+=======
 				[6, 6],[3, 3]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "Can you knock them down?",
 			"loseText": "You can",
@@ -157,7 +189,11 @@
 				}
 			],
 			"reward": [
+<<<<<<< HEAD
+				[32, 1]
+=======
 				[8, 2],[3,5],[7,1]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "Maybe, Maybe not?",
 			"loseText": "The Chinese cant have them!",

@@ -14,7 +14,11 @@
 				}
 			],
 			"reward": [
+<<<<<<< HEAD
+				[0, 5]
+=======
 				[1, 5]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "Mom?",
 			"loseText": "Buhuhuhu",
@@ -32,7 +36,11 @@
 				}
 			],
 			"reward": [
+<<<<<<< HEAD
+				[0, 5]
+=======
 				[1, 5]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "Mom?",
 			"loseText": "Buhuhuhu",
@@ -54,7 +62,11 @@
 				}
 			],
 			"reward": [
+<<<<<<< HEAD
+				[0, 3],[10, 3]
+=======
 				[1, 5]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "Gahhhhhhh",
 			"loseText": "Buhaaaa",
@@ -72,7 +84,11 @@
 				}
 			],
 			"reward": [
+<<<<<<< HEAD
+				[0, 5]
+=======
 				[2, 5]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "Karl? Jopi? Where are you",
 			"loseText": "Whatever just have to steal some other babys",
@@ -90,7 +106,11 @@
 				}
 			],
 			"reward": [
+<<<<<<< HEAD
+				[1, 3],[10,3],[20,1]
+=======
 				[2, 5],[5,1],[8,1]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "Want some icecream?",
 			"loseText": "You could have just said No",
@@ -104,7 +124,11 @@
 				}
 			],
 			"reward": [
+<<<<<<< HEAD
+				[10, 5]
+=======
 				[5, 3]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "Buhuhuhu",
 			"loseText": "Buhuhuhuhuhu",
@@ -122,7 +146,11 @@
 				}
 			],
 			"reward": [
+<<<<<<< HEAD
+				[1, 3],[20, 2]
+=======
 				[2, 5]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "Daddy?",
 			"loseText": "Daddddyyyy? Whuhuhuhu",
@@ -144,7 +172,11 @@
 				}
 			],
 			"reward": [
+<<<<<<< HEAD
+				[60, 1],[2, 2],[40, 1]
+=======
 				[2, 10],[3,5],[4,1]
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
 			],
 			"engageText": "The world is mine!",
 			"loseText": "Maybe i can share it with you",

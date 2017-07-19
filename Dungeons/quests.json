@@ -14,7 +14,11 @@
   "2": {
     "fileName": "arena2", 
     "name": "Adventure Park", 
+<<<<<<< HEAD
+    "requirement": 12, 
+=======
     "requirement": 10, 
+>>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
     "size": 8
   }
 }
