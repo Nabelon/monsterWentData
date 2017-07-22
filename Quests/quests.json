@@ -1,24 +1,20 @@
 {
   "0": {
-    "fileName": "arena0", 
+    "fileName": "quest0", 
     "name": "Playground", 
     "requirement": 0, 
     "size": 8
   }, 
   "1": {
-    "fileName": "arena1", 
+    "fileName": "quest1", 
     "name": "School", 
     "requirement": 5, 
     "size": 8
   }, 
   "2": {
-    "fileName": "arena2", 
+    "fileName": "quest2", 
     "name": "Adventure Park", 
-<<<<<<< HEAD
     "requirement": 12, 
-=======
-    "requirement": 10, 
->>>>>>> f96639caed70ff002d1065fe9e23e678392f44c6
     "size": 8
   }
 }
