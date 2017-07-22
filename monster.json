@@ -4,7 +4,7 @@
     "evolveLevel": 16, 
     "name": "Fiuro", 
     "types": [
-      "fire","flying"
+      "fire","air"
     ], 
     "baseStats": {
       "special_attack": 58, 
@@ -20,7 +20,7 @@
     "evolveLevel": 999, 
     "name": "Explodio", 
     "types": [
-      "fire","flying"
+      "fire","air"
     ], 
     "baseStats": {
       "special_attack": 78, 
@@ -34,7 +34,7 @@
   "3": {
     "name": "Inferno", 
     "types": [
-      "fire","flying"
+      "fire","air"
     ], 
     "baseStats": {
       "special_attack": 97, 
@@ -50,7 +50,7 @@
     "evolveLevel": 14, 
     "name": "Agutta", 
     "types": [
-      "water"
+      "water","arcane"
     ], 
     "baseStats": {
       "special_attack": 33, 
@@ -66,7 +66,7 @@
     "evolveLevel": 999, 
     "name": "Rivus", 
     "types": [
-      "water"
+      "water","arcane"
     ], 
     "baseStats": {
       "special_attack": 58, 
@@ -80,7 +80,7 @@
   "6": {
     "name": "Aequilium", 
     "types": [
-      "water"
+      "water","arcane"
     ], 
     "baseStats": {
       "special_attack": 75, 
@@ -96,8 +96,7 @@
     "evolveLevel": 16, 
     "name": "Glanduli", 
     "types": [
-      "grass", 
-      "poison"
+      "nature","fighting"
     ], 
     "baseStats": {
       "special_attack": 60, 
@@ -113,8 +112,7 @@
     "evolveLevel": 999, 
     "name": "Ovyser", 
     "types": [
-      "grass", 
-      "poison"
+      "nature","fighting" 
     ], 
     "baseStats": {
       "special_attack": 85, 
@@ -128,8 +126,7 @@
   "9": {
     "name": "Vinyser", 
     "types": [
-      "grass", 
-      "poison"
+      "nature","fighting" 
     ], 
     "baseStats": {
       "special_attack": 95, 
@@ -145,8 +142,7 @@
     "evolveLevel": 15, 
     "name": "Podchu", 
     "types": [
-      "flying", 
-      "normal"
+      "air","normal"
     ], 
     "baseStats": {
       "special_attack": 30, 
@@ -162,8 +158,7 @@
     "evolveLevel": 39, 
     "name": "Podchuati", 
     "types": [
-      "flying", 
-      "normal"
+      "air","normal"
     ], 
     "baseStats": {
       "special_attack": 55, 
@@ -177,8 +172,7 @@
   "12": {
     "name": "Pucholotolus", 
     "types": [
-      "flying", 
-      "normal"
+      "air","normal"
     ], 
     "baseStats": {
       "special_attack": 70, 
@@ -194,7 +188,7 @@
     "evolveLevel": 9, 
     "name": "Cetupur", 
     "types": [
-      "bug"
+      "nature"
     ], 
     "baseStats": {
       "special_attack": 10, 
@@ -210,7 +204,7 @@
     "evolveLevel": 7, 
     "name": "Marapod", 
     "types": [
-      "bug"
+      "nature"
     ], 
     "baseStats": {
       "special_attack": 20, 
@@ -224,8 +218,7 @@
   "15": {
     "name": "Margarinecaught", 
     "types": [
-      "bug", 
-      "fairy"
+      "nature","arcane"
     ], 
     "baseStats": {
       "special_attack": 125, 
@@ -241,8 +234,7 @@
     "evolveLevel": 7, 
     "name": "Wooplo", 
     "types": [
-      "bug", 
-      "poison"
+      "nature" 
     ], 
     "baseStats": {
       "special_attack": 22, 
@@ -258,8 +250,7 @@
     "evolveLevel": 7, 
     "name": "Koana", 
     "types": [
-      "bug", 
-      "poison"
+      "nature"
     ], 
     "baseStats": {
       "special_attack": 43, 
@@ -273,8 +264,7 @@
   "18": {
     "name": "Beeroll", 
     "types": [
-      "bug", 
-      "poison"
+      "nature","chaos"
     ], 
     "baseStats": {
       "special_attack": 65, 
@@ -290,7 +280,7 @@
     "evolveLevel": 25, 
     "name": "Salamanda", 
     "types": [
-      "ground"
+      "earth"
     ], 
     "baseStats": {
       "special_attack": 30, 
@@ -304,7 +294,7 @@
   "20": {
     "name": "Salarus", 
     "types": [
-      "ground"
+      "earth"
     ], 
     "baseStats": {
       "special_attack": 33, 
@@ -320,7 +310,7 @@
     "evolveLevel": 25, 
     "name": "Egnal", 
     "types": [
-      "poison"
+      "chaos"
     ], 
     "baseStats": {
       "special_attack": 60, 
@@ -334,7 +324,7 @@
   "22": {
     "name": "Snothys", 
     "types": [
-      "poison"
+      "chaos"
     ], 
     "baseStats": {
       "special_attack": 80, 
@@ -380,8 +370,7 @@
     "evolveTo": "26", 
     "evolveLevel": 23, 
     "types": [
-      "normal",
-      "flying"
+      "air"
     ], 
     "baseStats": {
       "special_attack": 10, 
@@ -396,8 +385,7 @@
   "26": {
     "name": "Gudoro", 
     "types": [
-      "normal",
-      "flying"
+      "air","fighting"
     ], 
     "baseStats": {
       "special_attack": 40, 
@@ -414,8 +402,7 @@
     "evolveTo": "28", 
     "evolveLevel": 33, 
     "types": [
-      "water",
-      "poison"
+      "water"
     ], 
     "baseStats": {
       "special_attack": 40, 
@@ -430,8 +417,7 @@
   "28": {
     "name": "Garosh", 
     "types": [
-      "water",
-      "poison"
+      "water"
     ], 
     "baseStats": {
       "special_attack": 60, 
@@ -448,7 +434,7 @@
     "evolveTo": "30", 
     "evolveLevel": 33, 
     "types": [
-      "poison"
+      "ice","nature"
     ], 
     "baseStats": {
       "special_attack": 70, 
@@ -463,7 +449,7 @@
   "30": {
     "name": "Slopplop", 
     "types": [
-      "poison"
+      "ice","nature"
     ], 
     "baseStats": {
       "special_attack": 100, 
@@ -480,7 +466,7 @@
     "evolveTo": "32", 
     "evolveLevel": 30, 
     "types": [
-      "rock"
+      "earth"
     ], 
     "baseStats": {
       "special_attack": 30, 
@@ -495,11 +481,10 @@
   "32": {
     "name": "Byrock", 
     "types": [
-      "rock",
-      "psychic"
+      "earth","arcane"
     ], 
     "baseStats": {
-      "special_attack": 120, 
+      "special_attack": 105, 
       "hp": 55, 
       "attack": 75, 
       "defense": 65, 
@@ -511,7 +496,7 @@
   "33": {
     "name": "Arasi", 
     "types": [
-      "psychic"
+      "arcane"
     ], 
     "baseStats": {
       "special_attack": 55, 
@@ -544,37 +529,37 @@
     "evolveTo": "36", 
     "evolveLevel": 30, 
     "types": [
-      "fire"
+      "fire","earth"
     ], 
     "baseStats": {
       "special_attack": 40, 
-      "hp": 55, 
+      "hp": 60, 
       "attack": 85, 
-      "defense": 50, 
-      "speed": 70, 
-      "special_defense": 15
+      "defense": 60, 
+      "speed": 30, 
+      "special_defense": 60
     }
   },
   
   "36": {
     "name": "Pyron", 
     "types": [
-      "fire"
+      "fire","earth"
     ], 
     "baseStats": {
       "special_attack": 60, 
-      "hp": 85, 
+      "hp": 95, 
       "attack": 95, 
-      "defense": 45, 
-      "speed": 95, 
-      "special_defense": 60
+      "defense": 85, 
+      "speed": 60, 
+      "special_defense": 85
     }
   },
   
   "37": {
     "name": "Gapsl", 
     "types": [
-      "plant"
+      "nature","air"
     ], 
     "baseStats": {
       "special_attack": 75, 
@@ -589,8 +574,7 @@
   "38": {
     "name": "Gaksor", 
     "types": [
-      "plant",
-      "psychic"
+      "nature","chaos"
     ], 
     "baseStats": {
       "special_attack": 105, 
@@ -608,12 +592,12 @@
       "normal"
     ], 
     "baseStats": {
-      "special_attack": 80, 
-      "hp": 80, 
-      "attack": 80, 
-      "defense": 80, 
-      "speed": 70, 
-      "special_defense": 80
+      "special_attack": 90, 
+      "hp": 90, 
+      "attack": 90, 
+      "defense": 90, 
+      "speed": 90, 
+      "special_defense": 90
     }
   },
   
@@ -650,8 +634,7 @@
   "42": {
     "name": "Ichnark", 
     "types": [
-      "water",
-      "flying"
+      "water","flying"
     ], 
     "baseStats": {
       "special_attack": 55, 
@@ -664,9 +647,9 @@
   },
   
   "43": {
-    "name": "Britische Steckdose", 
+    "name": "Magni", 
     "types": [
-      "electro"
+      "electro","chaos"
     ], 
     "baseStats": {
       "special_attack": 55, 
@@ -679,9 +662,9 @@
   },
   
   "44": {
-    "name": "Deutsche Markensteckdose", 
+    "name": "Magnium", 
     "types": [
-      "electro"
+      "electro","chaos"
     ], 
     "baseStats": {
       "special_attack": 75, 
@@ -693,18 +676,33 @@
     }
   },
   
-  "44": {
-    "name": "Crazy as Plant", 
+  "45": {
+    "name": "Duftel", 
     "types": [
-      "plant"
+      "chaos","fire"
     ], 
     "baseStats": {
-      "special_attack": 75, 
+      "special_attack": 40, 
       "hp": 55, 
-      "attack": 45, 
-      "defense": 155, 
-      "speed": 55, 
+      "attack": 60, 
+      "defense": 55, 
+      "speed": 60, 
       "special_defense": 55
+    }
+  },
+  
+  "46": {
+    "name": "Duflai", 
+    "types": [
+      "chaos","fire"
+    ], 
+    "baseStats": {
+      "special_attack": 71, 
+      "hp": 73, 
+      "attack": 102, 
+      "defense": 63, 
+      "speed": 89, 
+      "special_defense": 73
     }
   }
   
