@@ -1,162 +1,162 @@
 {
   "bug": [
-    "Double-Sting Id:28 Str:25 Acc:100", 
-    "Swarm Attack Id:124 Str:20 Acc:90", 
-    "String-Trap Id:54 Str:None Acc:95", 
-    "Bloodleech Id:80 Str:45 Acc:90"
+    "Double-Sting Id:28 Str:25 Acc:100 cat: physical", 
+    "Swarm Attack Id:124 Str:20 Acc:90 cat: physical", 
+    "String-Trap Id:54 Str:None Acc:95 cat: status", 
+    "Bloodleech Id:80 Str:45 Acc:90 cat: physical"
   ], 
   "dark": [
-    "Night's Fall Id:118 Str:100 Acc:100", 
-    "Crush Id:115 Str:90 Acc:90", 
-    "Bribe Id:89 Str:60 Acc:80", 
-    "Bite Id:30 Str:55 Acc:100", 
-    "Feint Id:94 Str:60 Acc:100"
+    "Night's Fall Id:118 Str:100 Acc:100 cat: special", 
+    "Crush Id:115 Str:90 Acc:90 cat: physical", 
+    "Bribe Id:89 Str:60 Acc:80 cat: special", 
+    "Bite Id:30 Str:55 Acc:100 cat: physical", 
+    "Feint Id:94 Str:60 Acc:100 cat: physical"
   ], 
   "dragon": [
-    "Dragons-Fury Id:55 Str:50 Acc:90", 
-    "Tornado Id:66 Str:40 Acc:100", 
-    "Draconic-Punch Id:98 Str:110 Acc:90", 
-    "Draconic Meltdown Id:116 Str:120 Acc:90"
+    "Dragons-Fury Id:55 Str:50 Acc:90 cat: special", 
+    "Tornado Id:66 Str:40 Acc:100 cat: special", 
+    "Draconic-Punch Id:98 Str:110 Acc:90 cat: physical", 
+    "Draconic Meltdown Id:116 Str:120 Acc:90 cat: special"
   ], 
   "electric": [
-    "Volt-Attack Id:59 Str:None Acc:100", 
-    "Lightning-Strike Id:58 Str:90 Acc:100", 
-    "Electric-Overload Id:57 Str:50 Acc:100", 
-    "Spark Id:101 Str:50 Acc:90", 
-    "Sonic Waves Id:33 Str:None Acc:60", 
-    "Lightning Id:117 Str:120 Acc:80", 
-    "Thunder-Fist Id:9 Str:70 Acc:100"
+    "Volt-Attack Id:59 Str:None Acc:100 cat: status", 
+    "Lightning-Strike Id:58 Str:90 Acc:100 cat: special", 
+    "Electric-Overload Id:57 Str:50 Acc:100 cat: special", 
+    "Spark Id:101 Str:50 Acc:90 cat: physical", 
+    "Sonic Waves Id:33 Str:None Acc:60 cat: status", 
+    "Lightning Id:117 Str:120 Acc:80 cat: special", 
+    "Thunder-Fist Id:9 Str:70 Acc:100 cat: physical"
   ], 
   "fairy": [
-    "Pixie Dust Id:114 Str:60 Acc:90", 
-    "Flirt Id:100 Str:None Acc:100"
+    "Pixie Dust Id:114 Str:60 Acc:90 cat: special", 
+    "Flirt Id:100 Str:None Acc:100 cat: status"
   ], 
   "fighting": [
-    "Saber Attack Id:122 Str:80 Acc:80", 
-    "Dagger Thrust Id:123 Str:50 Acc:90", 
-    "Karate-Punch Id:2 Str:55 Acc:100", 
-    "Double-Kick Id:18 Str:35 Acc:100", 
-    "fast-kick Id:47 Str:60 Acc:100"
+    "Saber Attack Id:122 Str:80 Acc:80 cat: physical", 
+    "Dagger Thrust Id:123 Str:50 Acc:90 cat: physical", 
+    "Karate-Punch Id:2 Str:55 Acc:100 cat: physical", 
+    "Double-Kick Id:18 Str:35 Acc:100 cat: physical", 
+    "fast-kick Id:47 Str:60 Acc:100 cat: physical"
   ], 
   "fire": [
-    "fire-Trap Id:56 Str:30 Acc:85", 
-    "Fiery-Fist Id:7 Str:70 Acc:100", 
-    "Wildfire Id:36 Str:90 Acc:100", 
-    "Fireball Id:35 Str:45 Acc:100", 
-    "Flame-Bombardment Id:90 Str:25 Acc:100", 
-    "flameblast Id:78 Str:110 Acc:85"
+    "fire-Trap Id:56 Str:30 Acc:85 cat: special", 
+    "Fiery-Fist Id:7 Str:70 Acc:100 cat: physical", 
+    "Wildfire Id:36 Str:90 Acc:100 cat: special", 
+    "Fireball Id:35 Str:45 Acc:100 cat: special", 
+    "Flame-Bombardment Id:90 Str:25 Acc:100 cat: physical", 
+    "flameblast Id:78 Str:110 Acc:85 cat: special"
   ], 
   "flying": [
-    "Eagle Eye Id:113 Str:0 Acc:100", 
-    "Hurricane Id:112 Str:150 Acc:65", 
-    "Skyfall Id:81 Str:140 Acc:90", 
-    "Wing-Strike Id:14 Str:70 Acc:100", 
-    "Heavy-Peck Id:46 Str:80 Acc:100", 
-    "Peck Id:45 Str:40 Acc:100"
+    "Eagle Eye Id:113 Str:0 Acc:100 cat: status", 
+    "Hurricane Id:112 Str:150 Acc:65 cat: special", 
+    "Skyfall Id:81 Str:140 Acc:90 cat: physical", 
+    "Wing-Strike Id:14 Str:70 Acc:100 cat: physical", 
+    "Heavy-Peck Id:46 Str:80 Acc:100 cat: physical", 
+    "Peck Id:45 Str:40 Acc:100 cat: physical"
   ], 
   "ghost": [
-    "Shadow Strike Id:108 Str:45 Acc:90", 
-    "Ghostfist Id:109 Str:80 Acc:100", 
-    "Dark Pakt Id:106 Str:150 Acc:100", 
-    "Unbearable-Whispers Id:107 Str:40 Acc:100", 
-    "Haunting Id:105 Str:90 Acc:100", 
-    "Reapers's revenge Id:69 Str:110 Acc:100", 
-    "Wet willy Id:75 Str:30 Acc:100"
+    "Shadow Strike Id:108 Str:45 Acc:90 cat: special", 
+    "Ghostfist Id:109 Str:80 Acc:100 cat: physical", 
+    "Dark Pakt Id:106 Str:150 Acc:100 cat: special", 
+    "Unbearable-Whispers Id:107 Str:40 Acc:100 cat: special", 
+    "Haunting Id:105 Str:90 Acc:100 cat: special", 
+    "Reapers's revenge Id:69 Str:110 Acc:100 cat: special", 
+    "Wet willy Id:75 Str:30 Acc:100 cat: physical"
   ], 
   "grass": [
-    "Storm of leafs Id:51 Str:65 Acc:95", 
-    "Sleep-Potion Id:53 Str:None Acc:65", 
-    "Power-Drain Id:99 Str:80 Acc:100", 
-    "Vine-Whip Id:17 Str:45 Acc:100", 
-    "Absorber Id:48 Str:30 Acc:100", 
-    "mega-drain Id:49 Str:40 Acc:100"
+    "Storm of leafs Id:51 Str:65 Acc:95 cat: physical", 
+    "Sleep-Potion Id:53 Str:None Acc:65 cat: status", 
+    "Power-Drain Id:99 Str:80 Acc:100 cat: special", 
+    "Vine-Whip Id:17 Str:45 Acc:100 cat: physical", 
+    "Absorber Id:48 Str:30 Acc:100 cat: special", 
+    "mega-drain Id:49 Str:40 Acc:100 cat: special"
   ], 
   "ground": [
-    " Landslide Id:111 Str:90 Acc:100", 
-    "Deserts Tomb Id:110 Str:20 Acc:100", 
-    "Earthquake Id:61 Str:110 Acc:100", 
-    "mud-battle Id:96 Str:35 Acc:100", 
-    "Maim Id:77 Str:65 Acc:85"
+    " Landslide Id:111 Str:90 Acc:100 cat: special", 
+    "Deserts Tomb Id:110 Str:20 Acc:100 cat: special", 
+    "Earthquake Id:61 Str:110 Acc:100 cat: physical", 
+    "mud-battle Id:96 Str:35 Acc:100 cat: special", 
+    "Maim Id:77 Str:65 Acc:85 cat: physical"
   ], 
   "ice": [
-    "Frozen-fist Id:8 Str:70 Acc:100", 
-    "snowfall Id:93 Str:35 Acc:100", 
-    "cold-winds Id:97 Str:50 Acc:100", 
-    "Northern-Flowers Id:44 Str:65 Acc:100", 
-    "Phoenix of the North Id:40 Str:95 Acc:100", 
-    "Everfrost Id:41 Str:110 Acc:80"
+    "Frozen-fist Id:8 Str:70 Acc:100 cat: physical", 
+    "snowfall Id:93 Str:35 Acc:100 cat: special", 
+    "cold-winds Id:97 Str:50 Acc:100 cat: special", 
+    "Northern-Flowers Id:44 Str:65 Acc:100 cat: special", 
+    "Phoenix of the North Id:40 Str:95 Acc:100 cat: special", 
+    "Everfrost Id:41 Str:110 Acc:80 cat: special"
   ], 
   "normal": [
-    "thrash Id:24 Str:10 Acc:100", 
-    "double-edge Id:25 Str:120 Acc:100", 
-    "Tail-Whip Id:26 Str:None Acc:100", 
-    "headbutt Id:20 Str:90 Acc:100", 
-    "tackle Id:21 Str:50 Acc:100", 
-    "body-slam Id:22 Str:100 Acc:100", 
-    "wrap Id:23 Str:12 Acc:90", 
-    "Weeping Id:29 Str:None Acc:100", 
-    "Cosmic-Multipunch Id:4 Str:18 Acc:85", 
-    "Growth Id:50 Str:None Acc:100", 
-    "Deep-Scratches Id:88 Str:85 Acc:80", 
-    "Timewaste Id:82 Str:None Acc:100", 
-    "Multihit Id:3 Str:15 Acc:85", 
-    "Sleeping-Song Id:32 Str:None Acc:50", 
-    "Demotivate Id:31 Str:None Acc:100", 
-    "Betrayal Id:68 Str:40 Acc:100", 
-    "pay-day Id:6 Str:20 Acc:100", 
-    "Offensive Trade Id:91 Str:None Acc:100", 
-    "Defensive Trade Id:92 Str:None Acc:100", 
-    "Bloodtrade Id:95 Str:None Acc:100", 
-    "Hammer hit Id:11 Str:55 Acc:100", 
-    "Scratch Id:10 Str:35 Acc:100", 
-    "Hymn of the Sword Id:13 Str:None Acc:None", 
-    "Punishment by gale Id:12 Str:20 Acc:10", 
-    "Bind Id:15 Str:15 Acc:85", 
-    "slam Id:16 Str:80 Acc:75", 
-    "Mega-Kick Id:19 Str:120 Acc:75", 
-    "Pound Id:1 Str:35 Acc:100", 
-    "Ultimate-Punch Id:5 Str:90 Acc:85", 
-    "Kamikaze Id:74 Str:200 Acc:100", 
-    "Shell Id:72 Str:None Acc:100", 
-    "recover Id:71 Str:None Acc:100", 
-    "Unbearable yell Id:70 Str:None Acc:85"
+    "thrash Id:24 Str:10 Acc:100 cat: physical", 
+    "double-edge Id:25 Str:120 Acc:100 cat: physical", 
+    "Tail-Whip Id:26 Str:None Acc:100 cat: status", 
+    "headbutt Id:20 Str:90 Acc:100 cat: physical", 
+    "tackle Id:21 Str:50 Acc:100 cat: physical", 
+    "body-slam Id:22 Str:100 Acc:100 cat: physical", 
+    "wrap Id:23 Str:12 Acc:90 cat: physical", 
+    "Weeping Id:29 Str:None Acc:100 cat: status", 
+    "Cosmic-Multipunch Id:4 Str:18 Acc:85 cat: physical", 
+    "Growth Id:50 Str:None Acc:100 cat: status", 
+    "Deep-Scratches Id:88 Str:85 Acc:80 cat: physical", 
+    "Timewaste Id:82 Str:None Acc:100 cat: status", 
+    "Multihit Id:3 Str:15 Acc:85 cat: physical", 
+    "Sleeping-Song Id:32 Str:None Acc:50 cat: status", 
+    "Demotivate Id:31 Str:None Acc:100 cat: status", 
+    "Betrayal Id:68 Str:40 Acc:100 cat: physical", 
+    "pay-day Id:6 Str:20 Acc:100 cat: physical", 
+    "Offensive Trade Id:91 Str:None Acc:100 cat: status", 
+    "Defensive Trade Id:92 Str:None Acc:100 cat: status", 
+    "Bloodtrade Id:95 Str:None Acc:100 cat: status", 
+    "Hammer hit Id:11 Str:55 Acc:100 cat: physical", 
+    "Scratch Id:10 Str:35 Acc:100 cat: physical", 
+    "Hymn of the Sword Id:13 Str:None Acc:None cat: status", 
+    "Punishment by gale Id:12 Str:20 Acc:10 cat: physical", 
+    "Bind Id:15 Str:15 Acc:85 cat: physical", 
+    "slam Id:16 Str:80 Acc:75 cat: physical", 
+    "Mega-Kick Id:19 Str:120 Acc:75 cat: physical", 
+    "Pound Id:1 Str:35 Acc:100 cat: physical", 
+    "Ultimate-Punch Id:5 Str:90 Acc:85 cat: physical", 
+    "Kamikaze Id:74 Str:200 Acc:100 cat: physical", 
+    "Shell Id:72 Str:None Acc:100 cat: status", 
+    "recover Id:71 Str:None Acc:100 cat: status", 
+    "Unbearable yell Id:70 Str:None Acc:85 cat: status"
   ], 
   "poison": [
-    "Poison Sting Id:27 Str:20 Acc:100", 
-    "Poison-Potion Id:52 Str:None Acc:75", 
-    "Poison-Shell Id:83 Str:None Acc:100", 
-    "Acid Id:34 Str:70 Acc:100", 
-    "Toxic Delivery Id:62 Str:None Acc:100", 
-    "Toxic-Cloud Id:76 Str:25 Acc:80"
+    "Poison Sting Id:27 Str:20 Acc:100 cat: physical", 
+    "Poison-Potion Id:52 Str:None Acc:75 cat: status", 
+    "Poison-Shell Id:83 Str:None Acc:100 cat: status", 
+    "Acid Id:34 Str:70 Acc:100 cat: special", 
+    "Toxic Delivery Id:62 Str:None Acc:100 cat: status", 
+    "Toxic-Cloud Id:76 Str:25 Acc:80 cat: special"
   ], 
   "psychic": [
-    "Powernap Id:86 Str:None Acc:100", 
-    "Mental-Disorder Id:63 Str:50 Acc:100", 
-    "Ying-Yang-Attack Id:64 Str:100 Acc:100", 
-    "Warcry Id:65 Str:None Acc:100", 
-    "Inner-Peace Id:67 Str:None Acc:100", 
-    "Ying-Attack Id:42 Str:65 Acc:100", 
-    "Yang-Attack Id:43 Str:120 Acc:100", 
-    "Spirit-Shield Id:73 Str:None Acc:100", 
-    "Soulforce Id:79 Str:None Acc:100"
+    "Powernap Id:86 Str:None Acc:100 cat: status", 
+    "Mental-Disorder Id:63 Str:50 Acc:100 cat: special", 
+    "Ying-Yang-Attack Id:64 Str:100 Acc:100 cat: special", 
+    "Warcry Id:65 Str:None Acc:100 cat: status", 
+    "Inner-Peace Id:67 Str:None Acc:100 cat: status", 
+    "Ying-Attack Id:42 Str:65 Acc:100 cat: special", 
+    "Yang-Attack Id:43 Str:120 Acc:100 cat: special", 
+    "Spirit-Shield Id:73 Str:None Acc:100 cat: status", 
+    "Soulforce Id:79 Str:None Acc:100 cat: status"
   ], 
   "rock": [
-    "rock-fall Id:87 Str:60 Acc:85", 
-    "Bonemerang Id:85 Str:45 Acc:95", 
-    "Boulder-Throw Id:60 Str:100 Acc:90"
+    "rock-fall Id:87 Str:60 Acc:85 cat: physical", 
+    "Bonemerang Id:85 Str:45 Acc:95 cat: physical", 
+    "Boulder-Throw Id:60 Str:100 Acc:90 cat: physical"
   ], 
   "steel": [
-    "Metal Shell Id:119 Str:0 Acc:100", 
-    "Metal Club Id:120 Str:60 Acc:80", 
-    "Metal Club Id:121 Str:60 Acc:80", 
-    "Metal-Push Id:102 Str:60 Acc:85"
+    "Metal Shell Id:119 Str:0 Acc:100 cat: status", 
+    "Metal Club Id:120 Str:60 Acc:80 cat: physical", 
+    "Metal Club Id:121 Str:60 Acc:80 cat: physical", 
+    "Metal-Push Id:102 Str:60 Acc:85 cat: physical"
   ], 
   "water": [
-    "Water-Bullet Id:84 Str:90 Acc:80", 
-    "Splash Id:103 Str:40 Acc:100", 
-    "Water Cannon Id:104 Str:120 Acc:80", 
-    "Surf Id:39 Str:85 Acc:100", 
-    "Waterfall Id:38 Str:110 Acc:80", 
-    "Water-Gun Id:37 Str:50 Acc:100"
+    "Water-Bullet Id:84 Str:90 Acc:80 cat: physical", 
+    "Splash Id:103 Str:40 Acc:100 cat: special", 
+    "Water Cannon Id:104 Str:120 Acc:80 cat: physical", 
+    "Surf Id:39 Str:85 Acc:100 cat: special", 
+    "Waterfall Id:38 Str:110 Acc:80 cat: special", 
+    "Water-Gun Id:37 Str:50 Acc:100 cat: special"
   ]
 }
