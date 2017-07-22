@@ -584,6 +584,128 @@
       "speed": 55, 
       "special_defense": 55
     }
+  },
+  
+  "38": {
+    "name": "Gaksor", 
+    "types": [
+      "plant",
+      "psychic"
+    ], 
+    "baseStats": {
+      "special_attack": 105, 
+      "hp": 75, 
+      "attack": 65, 
+      "defense": 85, 
+      "speed": 85, 
+      "special_defense": 95
+    }
+  },
+  
+  "39": {
+    "name": "Schhhhtinki", 
+    "types": [
+      "normal"
+    ], 
+    "baseStats": {
+      "special_attack": 80, 
+      "hp": 80, 
+      "attack": 80, 
+      "defense": 80, 
+      "speed": 70, 
+      "special_defense": 80
+    }
+  },
+  
+  "40": {
+    "name": "Daruchi", 
+    "types": [
+      "dragon"
+    ], 
+    "baseStats": {
+      "special_attack": 45, 
+      "hp": 45, 
+      "attack": 45, 
+      "defense": 55, 
+      "speed": 45, 
+      "special_defense": 23
+    }
+  },
+  
+  "41": {
+    "name": "Daruchon", 
+    "types": [
+      "dragon"
+    ], 
+    "baseStats": {
+      "special_attack": 95, 
+      "hp": 85, 
+      "attack": 75, 
+      "defense": 85, 
+      "speed": 95, 
+      "special_defense": 75
+    }
+  },
+  
+  "42": {
+    "name": "Ichnark", 
+    "types": [
+      "water",
+      "flying"
+    ], 
+    "baseStats": {
+      "special_attack": 55, 
+      "hp": 65, 
+      "attack": 95, 
+      "defense": 53, 
+      "speed": 97, 
+      "special_defense": 57
+    }
+  },
+  
+  "43": {
+    "name": "Britische Steckdose", 
+    "types": [
+      "electro"
+    ], 
+    "baseStats": {
+      "special_attack": 55, 
+      "hp": 55, 
+      "attack": 55, 
+      "defense": 55, 
+      "speed": 55, 
+      "special_defense": 55
+    }
+  },
+  
+  "44": {
+    "name": "Deutsche Markensteckdose", 
+    "types": [
+      "electro"
+    ], 
+    "baseStats": {
+      "special_attack": 75, 
+      "hp": 75, 
+      "attack": 75, 
+      "defense": 75, 
+      "speed": 75, 
+      "special_defense": 75
+    }
+  },
+  
+  "44": {
+    "name": "Crazy as Plant", 
+    "types": [
+      "plant"
+    ], 
+    "baseStats": {
+      "special_attack": 75, 
+      "hp": 55, 
+      "attack": 45, 
+      "defense": 155, 
+      "speed": 55, 
+      "special_defense": 55
+    }
   }
   
 }
