@@ -117,7 +117,7 @@
 				}
 			],
 			"reward": [
-				[21, 2],[11, 3]
+				[21, 2],[11, 3],[31,1]
 			],
 			"engageText": "DUDUDUDUDUDUDUDUDUDUUDUDUDUDUDUDUDDUUDUDUDUDUDUDUDUDUDUDUDUUDUDUDUDUDUDUUDUDUDUDUDUDUD",
 			"loseText": "You listening to Darude Sandstorm too?",
@@ -135,7 +135,7 @@
 				}
 			],
 			"reward": [
-				[11, 5],[2, 5]
+				[11, 5],[2, 5],[34,1]
 			],
 			"engageText": "Can you knock them down?",
 			"loseText": "You can",
@@ -157,7 +157,7 @@
 				}
 			],
 			"reward": [
-				[32, 1]
+				[32, 1], [60, 2]
 			],
 			"engageText": "Maybe, Maybe not?",
 			"loseText": "The Chinese cant have them!",
