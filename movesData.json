@@ -98,12 +98,12 @@
 		"cat": "physical",
 		"dmg": 20,
 		"meta": {
-			"aligmentChanceS": 100,
-			"aligmentChanceT": 100,
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
 			"crit_rate": 1,
 			"flinch_chance": 50,
-			"statChanceS": 0,
-			"statChanceT": 0
+			"statChanceS": 100,
+			"statChanceT": 100
 		},
 		"statChangesT": [{
 			"stat": "atk",
@@ -432,8 +432,7 @@
 		"dmg": 12,
 		"meta": {
 			"aligmentChanceS": 0,
-			"aligmentChanceT": 100,
-			"aligmentT": "trap",
+			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
 			"max_turns": 6,
@@ -452,12 +451,12 @@
 		"cat": "physical",
 		"dmg": 10,
 		"meta": {
-			"aligmentChanceS": 100,
-			"aligmentChanceT": 100,
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 50,
-			"statChanceS": 0,
-			"statChanceT": 0
+			"statChanceS": 100,
+			"statChanceT": 100
 		},
         "statChangesT": [{
             "stat": "armor",
@@ -504,11 +503,11 @@
 		"dmg": null,
 		"meta": {
 			"aligmentChanceS": 0,
-			"aligmentChanceT": 100,
+			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
 			"statChanceS": 0,
-			"statChanceT": 0
+			"statChanceT": 100
 		},
 		"statChangesT": [{
 			"stat": "armor",
@@ -1053,13 +1052,13 @@
 		"dmg": null,
 		"meta": {
 			"aligmentChanceS": 0,
-			"aligmentChanceT": 100,
+			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
 			"statChanceS": 0,
-			"statChanceT": 0
+			"statChanceT": 100
 		},
-		"statChangesS": [{
+		"statChangesT": [{
 			"stat": "speed",
 			"change": -2
 		}],
@@ -1093,8 +1092,7 @@
 		"dmg": 30,
 		"meta": {
 			"aligmentChanceS": 0,
-			"aligmentChanceT": 100,
-			"aligmentT": "trap",
+			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
 			"max_turns": 3,
@@ -1313,11 +1311,11 @@
 		"cat": "status",
 		"dmg": null,
 		"meta": {
-			"aligmentChanceS": 100,
+			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
-			"statChanceS": 0,
+			"statChanceS": 100,
 			"statChanceT": 0
 		},
 		"statChangesS": [{
@@ -1336,11 +1334,11 @@
 		"dmg": 40,
 		"meta": {
 			"aligmentChanceS": 0,
-			"aligmentChanceT": 100,
+			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
 			"statChanceS": 0,
-			"statChanceT": 0
+			"statChanceT": 100
 		},
 		"statChangesT": [{
 			"stat": "armor",
@@ -1376,11 +1374,11 @@
 		"dmg": null,
 		"meta": {
 			"aligmentChanceS": 0,
-			"aligmentChanceT": 100,
+			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
 			"statChanceS": 0,
-			"statChanceT": 0
+			"statChanceT": 100
 		},
 		"statChangesT": [{
 			"stat": "armor",
@@ -1416,11 +1414,11 @@
 		"cat": "status",
 		"dmg": null,
 		"meta": {
-			"aligmentChanceS": 100,
+			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
-			"statChanceS": 0,
+			"statChanceS": 100,
 			"statChanceT": 0
 		},
 		"statChangesS": [{
@@ -1434,15 +1432,15 @@
 		"type": "normal"
 	},
 	"73": {
-		"acc": 100,
+		"acc": 95,
 		"cat": "status",
 		"dmg": null,
 		"meta": {
-			"aligmentChanceS": 100,
+			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
-			"statChanceS": 0,
+			"statChanceS": 100,
 			"statChanceT": 0
 		},
 		"statChangesS": [{
@@ -1559,11 +1557,11 @@
 		"cat": "status",
 		"dmg": null,
 		"meta": {
-			"aligmentChanceS": 100,
+			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
-			"statChanceS": 0,
+			"statChanceS": 100,
 			"statChanceT": 0
 		},
 		"statChangesS": [{
@@ -1633,15 +1631,15 @@
 		"type": "normal"
 	},
 	"83": {
-		"acc": 100,
+		"acc": 90,
 		"cat": "status",
 		"dmg": null,
 		"meta": {
-			"aligmentChanceS": 100,
+			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
-			"statChanceS": 0,
+			"statChanceS": 100,
 			"statChanceT": 0
 		},
 		"statChangesS": [{
@@ -1709,7 +1707,7 @@
 		"name": "Powernap",
 		"pp": 10,
 		"prio": 0,
-		"text": "User falls to sleep and immediately regains all its HP.two turns.",
+		"text": "User falls to sleep and immediately regains all its HP.",
 		"type": "arcane"
 	},
 	"87": {
@@ -1753,12 +1751,12 @@
 		"cat": "magic",
 		"dmg": 60,
 		"meta": {
-			"aligmentChanceS": 100,
-			"aligmentChanceT": 100,
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
-			"statChanceS": 0,
-			"statChanceT": 0
+			"statChanceS": 100,
+			"statChanceT": 100
 		},
 		"statChangesT": [{
 			"stat": "atk",
@@ -1806,14 +1804,14 @@
 		"cat": "status",
 		"dmg": null,
 		"meta": {
-			"aligmentChanceS": 100,
+			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
-			"statChanceS": 0,
+			"statChanceS": 100,
 			"statChanceT": 0
 		},
-		"statChangesT": [{
+		"statChangesS": [{
 			"stat": "armor",
 			"change": -3
 		}, {
@@ -1831,14 +1829,14 @@
 		"cat": "status",
 		"dmg": null,
 		"meta": {
-			"aligmentChanceS": 100,
+			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
-			"statChanceS": 0,
+			"statChanceS": 100,
 			"statChanceT": 0
 		},
-		"statChangesT": [{
+		"statChangesS": [{
 			"stat": "atk",
 			"change": -3
 		}, {
@@ -1893,12 +1891,12 @@
 		"cat": "status",
 		"dmg": null,
 		"meta": {
-			"aligmentChanceS": 100,
+			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
 			"healing": -50,
 			"crit_rate": 0,
 			"flinch_chance": 0,
-			"statChanceS": 0,
+			"statChanceS": 100,
 			"statChanceT": 0
 		},
 		"statChangesS": [{
@@ -1994,11 +1992,11 @@
 		"dmg": null,
 		"meta": {
 			"aligmentChanceS": 0,
-			"aligmentChanceT": 100,
+			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
 			"statChanceS": 0,
-			"statChanceT": 0
+			"statChanceT": 100
 		},
 		"statChangesT": [{
 			"stat": "atk",
@@ -2034,11 +2032,11 @@
 		"cat": "physical",
 		"dmg": 60,
 		"meta": {
-			"aligmentChanceS": 100,
+			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
-			"statChanceS": 0,
+			"statChanceS": 100,
 			"statChanceT": 10
 		},
 		"statChangesS": [{
@@ -2250,7 +2248,7 @@
 		"cat": "status",
 		"dmg": 0,
 		"meta": {
-			"aligmentChanceS": 100,
+			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
