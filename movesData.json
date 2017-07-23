@@ -274,7 +274,7 @@
 		"pp": 15,
 		"prio": 0,
 		"text": "Inflicts regular damage.",
-		"type": "flying"
+		"type": "air"
 	},
 	"15": {
 		"acc": 85,
@@ -330,7 +330,7 @@
 		"pp": 20,
 		"prio": 0,
 		"text": "Regulare atk.",
-		"type": "grass"
+		"type": "nature"
 	},
 	"18": {
 		"acc": 100,
@@ -558,7 +558,7 @@
 		"pp": 15,
 		"prio": 0,
 		"text": "Hits twice in the same turn.  Has a chance to poison the target.",
-		"type": "bug"
+		"type": "nature"
 	},
 	"29": {
 		"acc": 100,
@@ -598,7 +598,7 @@
 		"pp": 25,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
-		"type": "dark"
+		"type": "chaos"
 	},
 	"31": {
 		"acc": 100,
@@ -829,7 +829,7 @@
 		"pp": 20,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Heals user by 25% of its hp",
-		"type": "psychic"
+		"type": "arcane"
 	},
 	"43": {
 		"acc": 100,
@@ -848,7 +848,7 @@
 		"pp": 20,
 		"prio": 0,
 		"text": "Inflicts heavy damage.  Damages user by 25% of its hp",
-		"type": "psychic"
+		"type": "arcane"
 	},
 	"44": {
 		"acc": 100,
@@ -888,7 +888,7 @@
 		"pp": 35,
 		"prio": 0,
 		"text": "Inflicts regular damage.",
-		"type": "flying"
+		"type": "air"
 	},
 	"46": {
 		"acc": 100,
@@ -906,7 +906,7 @@
 		"pp": 15,
 		"prio": 0,
 		"text": "Inflicts heavy damage.",
-		"type": "flying"
+		"type": "air"
 	},
 	"47": {
 		"acc": 100,
@@ -943,7 +943,7 @@
 		"pp": 25,
 		"prio": 0,
 		"text": "Drains half the damage inflicted to heal the user.",
-		"type": "grass"
+		"type": "nature"
 	},
 	"49": {
 		"acc": 100,
@@ -962,7 +962,7 @@
 		"pp": 15,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
-		"type": "grass"
+		"type": "nature"
 	},
 	"50": {
 		"acc": 100,
@@ -1005,7 +1005,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "Critical hit rate is one level higher when using this move.",
-		"type": "grass"
+		"type": "nature"
 	},
 	"52": {
 		"acc": 75,
@@ -1045,7 +1045,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "Puts the target to sleep.",
-		"type": "grass"
+		"type": "nature"
 	},
 	"54": {
 		"acc": 95,
@@ -1067,7 +1067,7 @@
 		"pp": 40,
 		"prio": 0,
 		"text": "Lowers the target's Speed by two stage.",
-		"type": "bug"
+		"type": "nature"
 	},
 	"55": {
 		"acc": 90,
@@ -1181,7 +1181,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "Inflicts regular damage.",
-		"type": "rock"
+		"type": "earth"
 	},
 	"61": {
 		"acc": 100,
@@ -1199,7 +1199,7 @@
 		"pp": 5,
 		"prio": 0,
 		"text": "Inflicts heavy damage.",
-		"type": "ground"
+		"type": "earth"
 	},
 	"62": {
 		"acc": 100,
@@ -1241,7 +1241,7 @@
 		"pp": 25,
 		"prio": 0,
 		"text": "Inflicts regular damage.  High Chance to confuse the target.",
-		"type": "psychic"
+		"type": "arcane"
 	},
 	"64": {
 		"acc": 100,
@@ -1259,7 +1259,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "Inflicts heavy damage.  Chance to lower the target's magic armor by one stage.",
-		"type": "psychic"
+		"type": "arcane"
 	},
 	"65": {
 		"acc": 100,
@@ -1288,7 +1288,7 @@
 		"pp": 40,
 		"prio": 0,
 		"text": "Raises the user's atk by one stage. High chance to lower targets atk and speed by one",
-		"type": "psychic"
+		"type": "arcane"
 	},
 	"66": {
 		"acc": 100,
@@ -1328,7 +1328,7 @@
 		"pp": 30,
 		"prio": 0,
 		"text": "Raises the user's Speed by two stages.",
-		"type": "psychic"
+		"type": "arcane"
 	},
 	"68": {
 		"acc": 100,
@@ -1368,7 +1368,7 @@
 		"pp": 5,
 		"prio": 0,
 		"text": "Evil atk.",
-		"type": "ghost"
+		"type": "chaos"
 	},
 	"70": {
 		"acc": 85,
@@ -1453,7 +1453,7 @@
 		"pp": 20,
 		"prio": 0,
 		"text": "Raises the user's armor by two stages.",
-		"type": "psychic"
+		"type": "arcane"
 	},
 	"74": {
 		"acc": 100,
@@ -1491,7 +1491,7 @@
 		"pp": 30,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Has a chance to shock the target.",
-		"type": "ghost"
+		"type": "chaos"
 	},
 	"76": {
 		"acc": 80,
@@ -1532,7 +1532,7 @@
 		"pp": 20,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Higher chance to make the target flinch. High Cance to lower targets speed",
-		"type": "ground"
+		"type": "earth"
 	},
 	"78": {
 		"acc": 85,
@@ -1574,7 +1574,7 @@
 		"pp": 20,
 		"prio": 0,
 		"text": "Raises the user's magic atk by two stages.",
-		"type": "psychic"
+		"type": "arcane"
 	},
 	"80": {
 		"acc": 90,
@@ -1593,7 +1593,7 @@
 		"pp": 15,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
-		"type": "bug"
+		"type": "nature"
 	},
 	"81": {
 		"acc": 90,
@@ -1612,7 +1612,7 @@
 		"pp": 5,
 		"prio": 0,
 		"text": "Inflicts Heavy damage.  Critical hit chance is one level higher than normal. Target may flinch, 30% damage recoil",
-		"type": "flying"
+		"type": "air"
 	},
 	"82": {
 		"acc": 100,
@@ -1690,7 +1690,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Hits twice in one turn.",
-		"type": "rock"
+		"type": "earth"
 	},
 	"86": {
 		"acc": 100,
@@ -1710,7 +1710,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "User falls to sleep and immediately regains all its HP.two turns.",
-		"type": "psychic"
+		"type": "arcane"
 	},
 	"87": {
 		"acc": 85,
@@ -1724,11 +1724,11 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "rock-fall",
+		"name": "earth-fall",
 		"pp": 10,
 		"prio": 0,
 		"text": "Chance to make the target flinch.",
-		"type": "rock"
+		"type": "earth"
 	},
 	"88": {
 		"acc": 80,
@@ -1778,7 +1778,7 @@
 		"pp": 25,
 		"prio": 0,
 		"text": "User trades mAtk for atk",
-		"type": "dark"
+		"type": "chaos"
 	},
 	"90": {
 		"acc": 100,
@@ -1886,7 +1886,7 @@
 		"pp": 20,
 		"prio": 2,
 		"text": "Prio +1.",
-		"type": "dark"
+		"type": "chaos"
 	},
 	"95": {
 		"acc": 100,
@@ -1927,7 +1927,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "Inflicts regular damage. ",
-		"type": "ground"
+		"type": "earth"
 	},
 	"97": {
 		"acc": 100,
@@ -1986,7 +1986,7 @@
 		"pp": 5,
 		"prio": 0,
 		"text": "Drains half the damage inflicted to heal the user.",
-		"type": "grass"
+		"type": "nature"
 	},
 	"100": {
 		"acc": 100,
@@ -2008,7 +2008,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "Lowers the target's atk by two stages.",
-		"type": "fairy"
+		"type": "arcane"
 	},
 	"101": {
 		"acc": 90,
@@ -2049,7 +2049,7 @@
 		"pp": 25,
 		"prio": 0,
 		"text": "Raise the user's armor one stage.",
-		"type": "steel"
+		"type": "earth"
 	},
 	"103": {
 		"acc": 100,
@@ -2107,7 +2107,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "High chance target losing magic armor.",
-		"type": "ghost"
+		"type": "chaos"
 	},
 	"106": {
 		"acc": 100,
@@ -2122,11 +2122,11 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Dark Pact",
+		"name": "chaos Pact",
 		"pp": 30,
 		"prio": 0,
 		"text": "User loses 50% of his hp",
-		"type": "ghost"
+		"type": "chaos"
 	},
 	"107": {
 		"acc": 100,
@@ -2150,7 +2150,7 @@
 		"pp": 30,
 		"prio": 0,
 		"text": "Target may start sleeping, may faint, looses atk",
-		"type": "ghost"
+		"type": "chaos"
 	},
 	"108": {
 		"acc": 90,
@@ -2169,7 +2169,7 @@
 		"pp": 30,
 		"prio": 2,
 		"text": "Prio +2",
-		"type": "ghost"
+		"type": "chaos"
 	},
 	"109": {
 		"acc": 100,
@@ -2183,11 +2183,11 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Ghostfist",
+		"name": "chaosfist",
 		"pp": 10,
 		"prio": 0,
 		"text": "Regular damage. Defender may fint",
-		"type": "ghost"
+		"type": "chaos"
 	},
 	"110": {
 		"acc": 100,
@@ -2207,7 +2207,7 @@
 		"pp": 20,
 		"prio": 0,
 		"text": "Damages over 3-6 turns",
-		"type": "ground"
+		"type": "earth"
 	},
 	"111": {
 		"acc": 100,
@@ -2225,7 +2225,7 @@
 		"pp": 5,
 		"prio": 0,
 		"text": "Heavy damage, Higher crit chance",
-		"type": "ground"
+		"type": "earth"
 	},
 	"112": {
 		"acc": 65,
@@ -2243,7 +2243,7 @@
 		"pp": 5,
 		"prio": 0,
 		"text": "Heavy damage",
-		"type": "flying"
+		"type": "air"
 	},
 	"113": {
 		"acc": 100,
@@ -2271,7 +2271,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "Increases speed and atk",
-		"type": "flying"
+		"type": "air"
 	},
 	"114": {
 		"acc": 90,
@@ -2295,7 +2295,7 @@
 		"pp": 15,
 		"prio": 0,
 		"text": "Regular Damage, chance to shock, chance to lower targets magic armor",
-		"type": "fairy"
+		"type": "arcane"
 	},
 	"115": {
 		"acc": 90,
@@ -2313,7 +2313,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "Heavy damage",
-		"type": "dark"
+		"type": "chaos"
 	},
 	"116": {
 		"acc": 90,
@@ -2368,7 +2368,7 @@
 		"pp": 5,
 		"prio": 0,
 		"text": "Heavy damage",
-		"type": "dark"
+		"type": "chaos"
 	},
 	"119": {
 		"acc": 100,
@@ -2391,7 +2391,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "increases armor by 2",
-		"type": "steel"
+		"type": "earth"
 	},
 	"120": {
 		"acc": 80,
@@ -2409,7 +2409,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "Higher crit rate",
-		"type": "steel"
+		"type": "earth"
 	},
 	"121": {
 		"acc": 80,
@@ -2427,7 +2427,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "Higher crit rate",
-		"type": "steel"
+		"type": "earth"
 	},
 	"122": {
 		"acc": 80,
@@ -2483,7 +2483,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "atks 4-5 Times",
-		"type": "bug"
+		"type": "nature"
 	}
 }
     
