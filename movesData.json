@@ -2482,24 +2482,128 @@
 		"prio": 0,
 		"text": "atks 4-5 Times",
 		"type": "nature"
+	},
+	"125": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 100,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 35,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "atk",
+			"change": -1
+		}],
+		"name": "Knockdown",
+		"pp": 10,
+		"prio": 0,
+		"text": "Can decrease your Attack",
+		"type": "fighting"
+	},
+	"126": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 150,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "speed",
+			"change": -3
+		}, {
+			"stat": "atk",
+			"change": -3
+		}, {
+			"stat": "armor",
+			"change": -3
+		}, {
+			"stat": "mRes",
+			"change": -3
+		}],
+		"name": "Heavy-Punch",
+		"pp": 5,
+		"prio": 0,
+		"text": "Drecreases your stats by 3",
+		"type": "fighting"
+	},
+	"127": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": 0,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "atk",
+			"change": 1
+		}, {
+			"stat": "speed",
+			"change": 1
+		}],
+		"name": "Preparation",
+		"pp": 20,
+		"prio": 0,
+		"text": "Gives you a Attack and Speed boost",
+		"type": "fighting"
+	},
+	"128": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": 20,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "armor",
+			"change": 1
+		}, {
+			"stat": "mRes",
+			"change": 1
+		}],
+		"name": "Defense-Stance",
+		"pp": 20,
+		"prio": 1,
+		"text": "Got priority 1 and gives you Armor and mRes",
+		"type": "fighting"
+	},
+	"129": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 30,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"drain": 75,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Draincut",
+		"pp": 20,
+		"prio": 0,
+		"text": "Drains 75% the damage inflicted to heal the user.",
+		"type": "fighting"
 	}
+
 }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
