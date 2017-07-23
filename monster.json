@@ -9,7 +9,7 @@
     "baseStats": {
       "mAtk": 58, 
       "hp": 38, 
-      "attack": 55, 
+      "atk": 55, 
       "armor": 32, 
       "speed": 66, 
       "mRes": 43
@@ -25,7 +25,7 @@
     "baseStats": {
       "mAtk": 78, 
       "hp": 59, 
-      "attack": 75, 
+      "atk": 75, 
       "armor": 56, 
       "speed": 83, 
       "mRes": 61
@@ -39,7 +39,7 @@
     "baseStats": {
       "mAtk": 97, 
       "hp": 76, 
-      "attack": 78, 
+      "atk": 78, 
       "armor": 63, 
       "speed": 99, 
       "mRes": 70
@@ -55,7 +55,7 @@
     "baseStats": {
       "mAtk": 33, 
       "hp": 51, 
-      "attack": 55, 
+      "atk": 55, 
       "armor": 85, 
       "speed": 33, 
       "mRes": 50
@@ -71,7 +71,7 @@
     "baseStats": {
       "mAtk": 58, 
       "hp": 70, 
-      "attack": 89, 
+      "atk": 89, 
       "armor": 90, 
       "speed": 53, 
       "mRes": 72
@@ -85,7 +85,7 @@
     "baseStats": {
       "mAtk": 75, 
       "hp": 80, 
-      "attack": 93, 
+      "atk": 93, 
       "armor": 95, 
       "speed": 63, 
       "mRes": 99
@@ -101,7 +101,7 @@
     "baseStats": {
       "mAtk": 60, 
       "hp": 65, 
-      "attack": 35, 
+      "atk": 35, 
       "armor": 34, 
       "speed": 31, 
       "mRes": 51
@@ -117,7 +117,7 @@
     "baseStats": {
       "mAtk": 85, 
       "hp": 74, 
-      "attack": 51, 
+      "atk": 51, 
       "armor": 67, 
       "speed": 45, 
       "mRes": 83
@@ -131,7 +131,7 @@
     "baseStats": {
       "mAtk": 95, 
       "hp": 98, 
-      "attack": 54, 
+      "atk": 54, 
       "armor": 70, 
       "speed": 63, 
       "mRes": 105
@@ -147,7 +147,7 @@
     "baseStats": {
       "mAtk": 30, 
       "hp": 40, 
-      "attack": 58, 
+      "atk": 58, 
       "armor": 48, 
       "speed": 60, 
       "mRes": 38
@@ -163,7 +163,7 @@
     "baseStats": {
       "mAtk": 55, 
       "hp": 61, 
-      "attack": 85, 
+      "atk": 85, 
       "armor": 53, 
       "speed": 83, 
       "mRes": 53
@@ -177,7 +177,7 @@
     "baseStats": {
       "mAtk": 70, 
       "hp": 82, 
-      "attack": 105, 
+      "atk": 105, 
       "armor": 73, 
       "speed": 105, 
       "mRes": 73
@@ -193,7 +193,7 @@
     "baseStats": {
       "mAtk": 10, 
       "hp": 40, 
-      "attack": 32, 
+      "atk": 32, 
       "armor": 25, 
       "speed": 42, 
       "mRes": 45
@@ -209,7 +209,7 @@
     "baseStats": {
       "mAtk": 20, 
       "hp": 55, 
-      "attack": 25, 
+      "atk": 25, 
       "armor": 100, 
       "speed": 10, 
       "mRes": 80
@@ -223,7 +223,7 @@
     "baseStats": {
       "mAtk": 125, 
       "hp": 59, 
-      "attack": 50, 
+      "atk": 50, 
       "armor": 40, 
       "speed": 77, 
       "mRes": 85
@@ -239,7 +239,7 @@
     "baseStats": {
       "mAtk": 22, 
       "hp": 40, 
-      "attack": 33, 
+      "atk": 33, 
       "armor": 25, 
       "speed": 45, 
       "mRes": 30
@@ -255,7 +255,7 @@
     "baseStats": {
       "mAtk": 43, 
       "hp": 50, 
-      "attack": 29, 
+      "atk": 29, 
       "armor": 55, 
       "speed": 25, 
       "mRes": 90
@@ -269,7 +269,7 @@
     "baseStats": {
       "mAtk": 65, 
       "hp": 63, 
-      "attack": 105, 
+      "atk": 105, 
       "armor": 69, 
       "speed": 87, 
       "mRes": 77
@@ -285,7 +285,7 @@
     "baseStats": {
       "mAtk": 30, 
       "hp": 60, 
-      "attack": 60, 
+      "atk": 60, 
       "armor": 40, 
       "speed": 50, 
       "mRes": 40
@@ -299,7 +299,7 @@
     "baseStats": {
       "mAtk": 33, 
       "hp": 60, 
-      "attack": 100, 
+      "atk": 100, 
       "armor": 100, 
       "speed": 103, 
       "mRes": 73
@@ -315,7 +315,7 @@
     "baseStats": {
       "mAtk": 60, 
       "hp": 35, 
-      "attack": 50, 
+      "atk": 50, 
       "armor": 20, 
       "speed": 60, 
       "mRes": 25
@@ -329,7 +329,7 @@
     "baseStats": {
       "mAtk": 80, 
       "hp": 55, 
-      "attack": 120, 
+      "atk": 120, 
       "armor": 55, 
       "speed": 110, 
       "mRes": 30
@@ -345,7 +345,7 @@
     "baseStats": {
       "mAtk": 15, 
       "hp": 45, 
-      "attack": 50, 
+      "atk": 50, 
       "armor": 30, 
       "speed": 50, 
       "mRes": 25
@@ -359,7 +359,7 @@
     "baseStats": {
       "mAtk": 20, 
       "hp": 53, 
-      "attack": 60, 
+      "atk": 60, 
       "armor": 55, 
       "speed": 66, 
       "mRes": 30
@@ -375,7 +375,7 @@
     "baseStats": {
       "mAtk": 10, 
       "hp": 45, 
-      "attack": 45, 
+      "atk": 45, 
       "armor": 35, 
       "speed": 75, 
       "mRes": 20
@@ -390,7 +390,7 @@
     "baseStats": {
       "mAtk": 40, 
       "hp": 75, 
-      "attack": 75, 
+      "atk": 75, 
       "armor": 53, 
       "speed": 95, 
       "mRes": 30
@@ -407,7 +407,7 @@
     "baseStats": {
       "mAtk": 40, 
       "hp": 55, 
-      "attack": 45, 
+      "atk": 45, 
       "armor": 53, 
       "speed": 40, 
       "mRes": 35
@@ -422,7 +422,7 @@
     "baseStats": {
       "mAtk": 60, 
       "hp": 85, 
-      "attack": 95, 
+      "atk": 95, 
       "armor": 73, 
       "speed": 70, 
       "mRes": 55
@@ -439,7 +439,7 @@
     "baseStats": {
       "mAtk": 70, 
       "hp": 65, 
-      "attack": 45, 
+      "atk": 45, 
       "armor": 33, 
       "speed": 40, 
       "mRes": 45
@@ -454,7 +454,7 @@
     "baseStats": {
       "mAtk": 100, 
       "hp": 95, 
-      "attack": 55, 
+      "atk": 55, 
       "armor": 53, 
       "speed": 51, 
       "mRes": 65
@@ -471,7 +471,7 @@
     "baseStats": {
       "mAtk": 30, 
       "hp": 45, 
-      "attack": 35, 
+      "atk": 35, 
       "armor": 33, 
       "speed": 15, 
       "mRes": 10
@@ -486,7 +486,7 @@
     "baseStats": {
       "mAtk": 105, 
       "hp": 55, 
-      "attack": 75, 
+      "atk": 75, 
       "armor": 65, 
       "speed": 80, 
       "mRes": 60
@@ -501,7 +501,7 @@
     "baseStats": {
       "mAtk": 55, 
       "hp": 45, 
-      "attack": 45, 
+      "atk": 45, 
       "armor": 35, 
       "speed": 60, 
       "mRes": 50
@@ -516,7 +516,7 @@
     "baseStats": {
       "mAtk": 80, 
       "hp": 80, 
-      "attack": 85, 
+      "atk": 85, 
       "armor": 85, 
       "speed": 85, 
       "mRes": 80
@@ -534,7 +534,7 @@
     "baseStats": {
       "mAtk": 40, 
       "hp": 60, 
-      "attack": 85, 
+      "atk": 85, 
       "armor": 60, 
       "speed": 30, 
       "mRes": 60
@@ -549,7 +549,7 @@
     "baseStats": {
       "mAtk": 60, 
       "hp": 95, 
-      "attack": 95, 
+      "atk": 95, 
       "armor": 85, 
       "speed": 60, 
       "mRes": 85
@@ -564,7 +564,7 @@
     "baseStats": {
       "mAtk": 75, 
       "hp": 55, 
-      "attack": 45, 
+      "atk": 45, 
       "armor": 55, 
       "speed": 55, 
       "mRes": 55
@@ -579,7 +579,7 @@
     "baseStats": {
       "mAtk": 105, 
       "hp": 75, 
-      "attack": 65, 
+      "atk": 65, 
       "armor": 85, 
       "speed": 85, 
       "mRes": 95
@@ -594,7 +594,7 @@
     "baseStats": {
       "mAtk": 90, 
       "hp": 90, 
-      "attack": 90, 
+      "atk": 90, 
       "armor": 90, 
       "speed": 90, 
       "mRes": 90
@@ -609,7 +609,7 @@
     "baseStats": {
       "mAtk": 45, 
       "hp": 45, 
-      "attack": 45, 
+      "atk": 45, 
       "armor": 55, 
       "speed": 45, 
       "mRes": 23
@@ -624,7 +624,7 @@
     "baseStats": {
       "mAtk": 95, 
       "hp": 85, 
-      "attack": 75, 
+      "atk": 75, 
       "armor": 85, 
       "speed": 95, 
       "mRes": 75
@@ -639,7 +639,7 @@
     "baseStats": {
       "mAtk": 55, 
       "hp": 65, 
-      "attack": 95, 
+      "atk": 95, 
       "armor": 53, 
       "speed": 97, 
       "mRes": 57
@@ -654,7 +654,7 @@
     "baseStats": {
       "mAtk": 55, 
       "hp": 55, 
-      "attack": 55, 
+      "atk": 55, 
       "armor": 55, 
       "speed": 55, 
       "mRes": 55
@@ -669,7 +669,7 @@
     "baseStats": {
       "mAtk": 75, 
       "hp": 75, 
-      "attack": 75, 
+      "atk": 75, 
       "armor": 75, 
       "speed": 75, 
       "mRes": 75
@@ -684,7 +684,7 @@
     "baseStats": {
       "mAtk": 40, 
       "hp": 55, 
-      "attack": 60, 
+      "atk": 60, 
       "armor": 55, 
       "speed": 60, 
       "mRes": 55
@@ -699,7 +699,7 @@
     "baseStats": {
       "mAtk": 71, 
       "hp": 73, 
-      "attack": 102, 
+      "atk": 102, 
       "armor": 63, 
       "speed": 89, 
       "mRes": 73
