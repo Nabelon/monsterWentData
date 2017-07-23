@@ -537,7 +537,7 @@
 		"pp": 30,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Has a chance to poison the target.",
-		"type": "poison"
+		"type": "chaos"
 	},
 	"28": {
 		"acc": 100,
@@ -680,7 +680,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "Chance to lower the target's magic armor by one stage.",
-		"type": "poison"
+		"type": "chaos"
 	},
 	"35": {
 		"acc": 100,
@@ -1024,7 +1024,7 @@
 		"pp": 35,
 		"prio": 0,
 		"text": "Poisons the target.",
-		"type": "poison"
+		"type": "chaos"
 	},
 	"53": {
 		"acc": 65,
@@ -1220,7 +1220,7 @@
 		"pp": 10,
 		"prio": 0,
 		"text": "Poisons the target.",
-		"type": "poison"
+		"type": "chaos"
 	},
 	"63": {
 		"acc": 100,
@@ -1510,7 +1510,7 @@
 		"pp": 20,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Has a high chance to poison the target.",
-		"type": "poison"
+		"type": "chaos"
 	},
 	"77": {
 		"acc": 85,
@@ -1652,7 +1652,7 @@
 		"pp": 20,
 		"prio": 0,
 		"text": "Raises the user's armor by two stages.",
-		"type": "poison"
+		"type": "chaos"
 	},
 	"84": {
 		"acc": 80,
