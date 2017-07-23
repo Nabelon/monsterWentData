@@ -17,7 +17,7 @@
     "Inner-Peace Id:67 Str:None Acc:100 cat: status", 
     "Ying-atk Id:42 Str:65 Acc:100 cat: magic", 
     "Yang-atk Id:43 Str:120 Acc:100 cat: magic", 
-    "Spirit-Shield Id:73 Str:None Acc:100 cat: status", 
+    "Spirit-Shield Id:73 Str:None Acc:95 cat: status", 
     "Soulforce Id:79 Str:None Acc:100 cat: status"
   ], 
   "chaos": [
@@ -26,7 +26,7 @@
     "Poison-Potion Id:52 Str:None Acc:75 cat: status", 
     "Crush Id:115 Str:90 Acc:90 cat: physical", 
     "Bribe Id:89 Str:60 Acc:80 cat: magic", 
-    "Poison-Shell Id:83 Str:None Acc:100 cat: status", 
+    "Poison-Shell Id:83 Str:None Acc:90 cat: status", 
     "Shadow Strike Id:108 Str:45 Acc:90 cat: magic", 
     "chaosfist Id:109 Str:80 Acc:100 cat: physical", 
     "chaos Pact Id:106 Str:150 Acc:100 cat: magic", 
