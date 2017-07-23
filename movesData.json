@@ -213,7 +213,7 @@
 		"type": "normal"
 	},
 	"12": {
-		"acc": 10,
+		"acc": 100,
 		"cat": "physical",
 		"dmg": 20,
 		"meta": {
@@ -228,7 +228,7 @@
 		},
 		"statChangesT": [{
 			"stat": "armor",
-			"change": 1
+			"change": -1
 		}],
 		"name": "Punishment by gale",
 		"pp": 5,
@@ -237,9 +237,9 @@
 		"type": "normal"
 	},
 	"13": {
-		"acc": null,
+		"acc": 100,
 		"cat": "status",
-		"dmg": null,
+		"dmg": 0,
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
@@ -500,7 +500,7 @@
 	"26": {
 		"acc": 100,
 		"cat": "status",
-		"dmg": null,
+		"dmg": 0,
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
