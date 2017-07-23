@@ -106,11 +106,11 @@
 			"statChanceT": 0
 		},
 		"statChangesT": [{
-			"stat": "attack",
+			"stat": "atk",
 			"change": -1
 		}],
 		"statChangesS": [{
-			"stat": "attack",
+			"stat": "atk",
 			"change": 1
 		}],
 		"name": "pay-day",
@@ -191,7 +191,7 @@
 		"name": "Scratch",
 		"pp": 30,
 		"prio": 0,
-		"text": "Regular attack.",
+		"text": "Regular atk.",
 		"type": "normal"
 	},
 	"11": {
@@ -209,7 +209,7 @@
 		"name": "Hammer hit",
 		"pp": 25,
 		"prio": 0,
-		"text": "Regular attack.",
+		"text": "Regular atk.",
 		"type": "normal"
 	},
 	"12": {
@@ -227,13 +227,13 @@
 			"statChanceT": 100
 		},
 		"statChangesT": [{
-			"stat": "defense",
+			"stat": "armor",
 			"change": 1
 		}],
 		"name": "Punishment by gale",
 		"pp": 5,
 		"prio": 0,
-		"text": "Lowers targets defense, high flinch chance, deals damage over several turns",
+		"text": "Lowers targets armor, high flinch chance, deals damage over several turns",
 		"type": "normal"
 	},
 	"13": {
@@ -249,13 +249,13 @@
 			"statChanceT": 0
 		},
 		"statChangesS": [{
-			"stat": "attack",
+			"stat": "atk",
 			"change": 2
 		}],
 		"name": "Hymn of the Sword",
 		"pp": 20,
 		"prio": 0,
-		"text": "Raises the user's Attack by two stages.",
+		"text": "Raises the user's atk by two stages.",
 		"type": "normal"
 	},
 	"14": {
@@ -311,7 +311,7 @@
 		"name": "slam",
 		"pp": 10,
 		"prio": 0,
-		"text": "Regular attack.",
+		"text": "Regular atk.",
 		"type": "normal"
 	},
 	"17": {
@@ -329,7 +329,7 @@
 		"name": "Vine-Whip",
 		"pp": 20,
 		"prio": 0,
-		"text": "Regulare attack.",
+		"text": "Regulare atk.",
 		"type": "grass"
 	},
 	"18": {
@@ -367,7 +367,7 @@
 		"name": "Mega-Kick",
 		"pp": 5,
 		"prio": 0,
-		"text": "Regular attack.",
+		"text": "Regular atk.",
 		"type": "normal"
 	},
 	"20": {
@@ -404,7 +404,7 @@
 		"name": "tackle",
 		"pp": 35,
 		"prio": 0,
-		"text": "The most basic of all attacks",
+		"text": "The most basic of all atks",
 		"type": "normal"
 	},
 	"22": {
@@ -460,17 +460,17 @@
 			"statChanceT": 0
 		},
         "statChangesT": [{
-            "stat": "defense",
+            "stat": "armor",
             "change": -1
         }, {
-            "stat": "attack",
+            "stat": "atk",
             "change": -1
         }],
 	"statChangesS": [{
-		"stat": "attack",
+		"stat": "atk",
 		"change": 1
 	}, {
-		"stat": "defense",
+		"stat": "armor",
 		"change": -2
 	}],
 		"name": "thrash",
@@ -511,13 +511,13 @@
 			"statChanceT": 0
 		},
 		"statChangesT": [{
-			"stat": "defense",
+			"stat": "armor",
 			"change": -1
 		}],
 		"name": "Tail-Whip",
 		"pp": 30,
 		"prio": 0,
-		"text": "Lowers the target's defense by one stage.",
+		"text": "Lowers the target's armor by one stage.",
 		"type": "normal"
 	},
 	"27": {
@@ -573,13 +573,13 @@
 			"statChanceT": 100
 		},
 		"statChangesT": [{
-			"stat": "attack",
+			"stat": "atk",
 			"change": 1
 		}],
 		"name": "Weeping",
 		"pp": 30,
 		"prio": 0,
-		"text": "Lowers the target's attack by one stage.",
+		"text": "Lowers the target's atk by one stage.",
 		"type": "normal"
 	},
 	"30": {
@@ -613,13 +613,13 @@
 			"statChanceT": 100
 		},
 		"statChangesT": [{
-			"stat": "defense",
+			"stat": "armor",
 			"change": -2
 		}],
 		"name": "Demotivate",
 		"pp": 40,
 		"prio": 0,
-		"text": "Lowers the target's defense by two stages.",
+		"text": "Lowers the target's armor by two stages.",
 		"type": "normal"
 	},
 	"32": {
@@ -662,7 +662,7 @@
 	},
 	"34": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 70,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -673,18 +673,18 @@
 			"statChanceT": 10
 		},
 		"statChangesT": [{
-			"stat": "special-defense",
+			"stat": "mRes",
 			"change": -1
 		}],
 		"name": "Acid",
 		"pp": 10,
 		"prio": 0,
-		"text": "Chance to lower the target's special defense by one stage.",
+		"text": "Chance to lower the target's magic armor by one stage.",
 		"type": "poison"
 	},
 	"35": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 45,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -703,7 +703,7 @@
 	},
 	"36": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 90,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -722,7 +722,7 @@
 	},
 	"37": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 50,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -740,7 +740,7 @@
 	},
 	"38": {
 		"acc": 80,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 110,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -758,7 +758,7 @@
 	},
 	"39": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 85,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -771,12 +771,12 @@
 		"name": "Surf",
 		"pp": 15,
 		"prio": 0,
-		"text": "Regular attack",
+		"text": "Regular atk",
 		"type": "water"
 	},
 	"40": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 95,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -795,7 +795,7 @@
 	},
 	"41": {
 		"acc": 80,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 110,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -814,7 +814,7 @@
 	},
 	"42": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 65,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -825,7 +825,7 @@
 			"statChanceT": 0,
 			"healing": 25
 		},
-		"name": "Ying-Attack",
+		"name": "Ying-atk",
 		"pp": 20,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Heals user by 25% of its hp",
@@ -833,7 +833,7 @@
 	},
 	"43": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 120,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -844,7 +844,7 @@
 			"statChanceT": 0,
 			"healing": -25
 		},
-		"name": "Yang-Attack",
+		"name": "Yang-atk",
 		"pp": 20,
 		"prio": 0,
 		"text": "Inflicts heavy damage.  Damages user by 25% of its hp",
@@ -852,7 +852,7 @@
 	},
 	"44": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 65,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -863,13 +863,13 @@
 			"statChanceT": 10
 		},
 		"statChangesT": [{
-			"stat": "Attack",
+			"stat": "atk",
 			"change": -1
 		}],
 		"name": "Northern-Flowers",
 		"pp": 15,
 		"prio": 0,
-		"text": "Chance to lower the target's Attack by one stage.",
+		"text": "Chance to lower the target's atk by one stage.",
 		"type": "ice"
 	},
 	"45": {
@@ -928,7 +928,7 @@
 	},
 	"48": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 30,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -947,7 +947,7 @@
 	},
 	"49": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 40,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -977,16 +977,16 @@
 			"statChanceT": 0
 		},
 		"statChangesS": [{
-			"stat": "attack",
+			"stat": "atk",
 			"change": 1
 		}, {
-			"stat": "special-attack",
+			"stat": "mAtk",
 			"change": 1
 		}],
 		"name": "Growth",
 		"pp": 20,
 		"prio": 0,
-		"text": "Raises the user's Attack and Special Attack by one stage each.",
+		"text": "Raises the user's atk and magic atk by one stage each.",
 		"type": "normal"
 	},
 	"51": {
@@ -1071,7 +1071,7 @@
 	},
 	"55": {
 		"acc": 90,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 50,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -1084,12 +1084,12 @@
 		"name": "Dragons-Fury",
 		"pp": 10,
 		"prio": 0,
-		"text": "Regulare attack.",
+		"text": "Regulare atk.",
 		"type": "dragon"
 	},
 	"56": {
 		"acc": 85,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 30,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -1110,7 +1110,7 @@
 	},
 	"57": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 50,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -1129,7 +1129,7 @@
 	},
 	"58": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 90,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -1159,7 +1159,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Volt-Attack",
+		"name": "Volt-atk",
 		"pp": 10,
 		"prio": 0,
 		"text": "Paralyzes the target.",
@@ -1224,7 +1224,7 @@
 	},
 	"63": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 50,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -1245,7 +1245,7 @@
 	},
 	"64": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 100,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -1255,10 +1255,10 @@
 			"statChanceS": 0,
 			"statChanceT": 10
 		},
-		"name": "Ying-Yang-Attack",
+		"name": "Ying-Yang-atk",
 		"pp": 10,
 		"prio": 0,
-		"text": "Inflicts heavy damage.  Chance to lower the target's Special Defense by one stage.",
+		"text": "Inflicts heavy damage.  Chance to lower the target's magic armor by one stage.",
 		"type": "psychic"
 	},
 	"65": {
@@ -1274,25 +1274,25 @@
 			"statChanceT": 50
 		},
 		"statChangesT": [{
-			"stat": "attack",
+			"stat": "atk",
 			"change": -1
 		}, {
 			"stat": "speed",
 			"change": -1
 		}],
 		"statChangesS": [{
-			"stat": "attack",
+			"stat": "atk",
 			"change": 1
 		}],
 		"name": "Warcry",
 		"pp": 40,
 		"prio": 0,
-		"text": "Raises the user's Attack by one stage. High chance to lower targets attack and speed by one",
+		"text": "Raises the user's atk by one stage. High chance to lower targets atk and speed by one",
 		"type": "psychic"
 	},
 	"66": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 40,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -1343,18 +1343,18 @@
 			"statChanceT": 0
 		},
 		"statChangesT": [{
-			"stat": "defense",
+			"stat": "armor",
 			"change": -1
 		}],
 		"name": "Betrayal",
 		"pp": 15,
 		"prio": 2,
-		"text": "Inflicts regular damage. Prio +2. Lower targets defense by 1 stage",
+		"text": "Inflicts regular damage. Prio +2. Lower targets armor by 1 stage",
 		"type": "normal"
 	},
 	"69": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 110,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -1367,7 +1367,7 @@
 		"name": "Reapers's revenge",
 		"pp": 5,
 		"prio": 0,
-		"text": "Evil attack.",
+		"text": "Evil atk.",
 		"type": "ghost"
 	},
 	"70": {
@@ -1383,13 +1383,13 @@
 			"statChanceT": 0
 		},
 		"statChangesT": [{
-			"stat": "defense",
+			"stat": "armor",
 			"change": -2
 		}],
 		"name": "Unbearable yell",
 		"pp": 40,
 		"prio": 0,
-		"text": "Lowers the target's Defense by two stages.",
+		"text": "Lowers the target's armor by two stages.",
 		"type": "normal"
 	},
 	"71": {
@@ -1424,13 +1424,13 @@
 			"statChanceT": 0
 		},
 		"statChangesS": [{
-			"stat": "defense",
+			"stat": "armor",
 			"change": 1
 		}],
 		"name": "Shell",
 		"pp": 30,
 		"prio": 0,
-		"text": "Raises the user's Defense by one stage.",
+		"text": "Raises the user's armor by one stage.",
 		"type": "normal"
 	},
 	"73": {
@@ -1446,13 +1446,13 @@
 			"statChanceT": 0
 		},
 		"statChangesS": [{
-			"stat": "defense",
+			"stat": "armor",
 			"change": 2
 		}],
 		"name": "Spirit-Shield",
 		"pp": 20,
 		"prio": 0,
-		"text": "Raises the user's defense by two stages.",
+		"text": "Raises the user's armor by two stages.",
 		"type": "psychic"
 	},
 	"74": {
@@ -1495,7 +1495,7 @@
 	},
 	"76": {
 		"acc": 80,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 25,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -1536,7 +1536,7 @@
 	},
 	"78": {
 		"acc": 85,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 110,
 		"meta": {
 			"aligmentChanceS": 20,
@@ -1567,13 +1567,13 @@
 			"statChanceT": 0
 		},
 		"statChangesS": [{
-			"stat": "special-attack",
+			"stat": "mAtk",
 			"change": -1
 		}],
 		"name": "Soulforce",
 		"pp": 20,
 		"prio": 0,
-		"text": "Raises the user's Special Attack by two stages.",
+		"text": "Raises the user's magic atk by two stages.",
 		"type": "psychic"
 	},
 	"80": {
@@ -1645,13 +1645,13 @@
 			"statChanceT": 0
 		},
 		"statChangesS": [{
-			"stat": "defense",
+			"stat": "armor",
 			"change": 2
 		}],
 		"name": "Poison-Shell",
 		"pp": 20,
 		"prio": 0,
-		"text": "Raises the user's Defense by two stages.",
+		"text": "Raises the user's armor by two stages.",
 		"type": "poison"
 	},
 	"84": {
@@ -1750,7 +1750,7 @@
 	},
 	"89": {
 		"acc": 80,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 60,
 		"meta": {
 			"aligmentChanceS": 100,
@@ -1761,23 +1761,23 @@
 			"statChanceT": 0
 		},
 		"statChangesT": [{
-			"stat": "attack",
+			"stat": "atk",
 			"change": -3
 		}, {
-			"stat": "special-attack",
+			"stat": "mAtk",
 			"change": 3
 		}],
 		"statChangesS": [{
-			"stat": "attack",
+			"stat": "atk",
 			"change": 3
 		}, {
-			"stat": "special-attack",
+			"stat": "mAtk",
 			"change": -3
 		}],
 		"name": "Bribe",
 		"pp": 25,
 		"prio": 0,
-		"text": "User trades special-attack for attack",
+		"text": "User trades mAtk for atk",
 		"type": "dark"
 	},
 	"90": {
@@ -1814,16 +1814,16 @@
 			"statChanceT": 0
 		},
 		"statChangesT": [{
-			"stat": "defense",
+			"stat": "armor",
 			"change": -3
 		}, {
-			"stat": "attack",
+			"stat": "atk",
 			"change": 3
 		}],
 		"name": "Offensive Trade",
 		"pp": 10,
 		"prio": 0,
-		"text": "User trades 3 defense for 3 attack",
+		"text": "User trades 3 armor for 3 atk",
 		"type": "normal"
 	},
 	"92": {
@@ -1839,21 +1839,21 @@
 			"statChanceT": 0
 		},
 		"statChangesT": [{
-			"stat": "attack",
+			"stat": "atk",
 			"change": -3
 		}, {
-			"stat": "defense",
+			"stat": "armor",
 			"change": 3
 		}],
 		"name": "Defensive Trade",
 		"pp": 10,
 		"prio": 0,
-		"text": "User trades 3 attack for 3 defense",
+		"text": "User trades 3 atk for 3 armor",
 		"type": "normal"
 	},
 	"93": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 35,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -1902,18 +1902,18 @@
 			"statChanceT": 0
 		},
 		"statChangesS": [{
-			"stat": "attack",
+			"stat": "atk",
 			"change": 6
 		}],
 		"name": "Bloodtrade",
 		"pp": 10,
 		"prio": 0,
-		"text": "User takes 50% hp as damage, user's attack raises by 6",
+		"text": "User takes 50% hp as damage, user's atk raises by 6",
 		"type": "normal"
 	},
 	"96": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 35,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -1931,7 +1931,7 @@
 	},
 	"97": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 50,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -1971,7 +1971,7 @@
 	},
 	"99": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 80,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -2001,13 +2001,13 @@
 			"statChanceT": 0
 		},
 		"statChangesT": [{
-			"stat": "attack",
+			"stat": "atk",
 			"change": -2
 		}],
 		"name": "Flirt",
 		"pp": 10,
 		"prio": 0,
-		"text": "Lowers the target's Attack by two stages.",
+		"text": "Lowers the target's atk by two stages.",
 		"type": "fairy"
 	},
 	"101": {
@@ -2042,18 +2042,18 @@
 			"statChanceT": 10
 		},
 		"statChangesS": [{
-			"stat": "defense",
+			"stat": "armor",
 			"change": 1
 		}],
 		"name": "Metal-Push",
 		"pp": 25,
 		"prio": 0,
-		"text": "Raise the user's Defense one stage.",
+		"text": "Raise the user's armor one stage.",
 		"type": "steel"
 	},
 	"103": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 40,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -2089,7 +2089,7 @@
 	},
 	"105": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 90,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -2100,18 +2100,18 @@
 			"statChanceT": 50
 		},
 		"statChangesT": [{
-			"stat": "special-defense",
+			"stat": "mRes",
 			"change": -1
 		}],
 		"name": "Haunting",
 		"pp": 10,
 		"prio": 0,
-		"text": "High chance target losing special defense.",
+		"text": "High chance target losing magic armor.",
 		"type": "ghost"
 	},
 	"106": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 150,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -2130,7 +2130,7 @@
 	},
 	"107": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 40,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -2143,18 +2143,18 @@
 			"statChanceT": 100
 		},
 		"statChangesT": [{
-			"stat": "attack",
+			"stat": "atk",
 			"change": -1
 		}],
 		"name": "Unbearable-Whispers",
 		"pp": 30,
 		"prio": 0,
-		"text": "Target may start sleeping, may faint, looses attack",
+		"text": "Target may start sleeping, may faint, looses atk",
 		"type": "ghost"
 	},
 	"108": {
 		"acc": 90,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 45,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -2191,7 +2191,7 @@
 	},
 	"110": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 20,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -2211,7 +2211,7 @@
 	},
 	"111": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 90,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -2229,7 +2229,7 @@
 	},
 	"112": {
 		"acc": 65,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 150,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -2259,7 +2259,7 @@
 		},
         "statChangesS": [
         {
-            "stat": "attack", 
+            "stat": "atk", 
             "change": 1
         },
         {
@@ -2270,12 +2270,12 @@
 		"name": "Eagle Eye",
 		"pp": 10,
 		"prio": 0,
-		"text": "Increases speed and attack",
+		"text": "Increases speed and atk",
 		"type": "flying"
 	},
 	"114": {
 		"acc": 90,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 60,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -2288,13 +2288,13 @@
 		},
         "statChangesT": [
         {
-            "stat": "special-defense", 
+            "stat": "mRes", 
             "change": 1
         }], 
 		"name": "Pixie Dust",
 		"pp": 15,
 		"prio": 0,
-		"text": "Regular Damage, chance to shock, chance to lower targets special defense",
+		"text": "Regular Damage, chance to shock, chance to lower targets magic armor",
 		"type": "fairy"
 	},
 	"115": {
@@ -2317,7 +2317,7 @@
 	},
 	"116": {
 		"acc": 90,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 120,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -2335,7 +2335,7 @@
 	},
 	"117": {
 		"acc": 80,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 120,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -2354,7 +2354,7 @@
 	},
 	"118": {
 		"acc": 100,
-		"cat": "special",
+		"cat": "magic",
 		"dmg": 100,
 		"meta": {
 			"aligmentChanceS": 0,
@@ -2384,13 +2384,13 @@
 		},
         "statChangesS": [
         {
-            "stat": "defense", 
+            "stat": "armor", 
             "change": 2
         }], 
 		"name": "Metal Shell",
 		"pp": 10,
 		"prio": 0,
-		"text": "increases defense by 2",
+		"text": "increases armor by 2",
 		"type": "steel"
 	},
 	"120": {
@@ -2441,7 +2441,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Saber Attack",
+		"name": "Saber atk",
 		"pp": 5,
 		"prio": 0,
 		"text": "Higher crit rate",
@@ -2479,10 +2479,10 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Swarm Attack",
+		"name": "Swarm atk",
 		"pp": 10,
 		"prio": 0,
-		"text": "Attacks 4-5 Times",
+		"text": "atks 4-5 Times",
 		"type": "bug"
 	}
 }

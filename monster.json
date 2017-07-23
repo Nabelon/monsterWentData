@@ -7,12 +7,12 @@
       "fire","air"
     ], 
     "baseStats": {
-      "special_attack": 58, 
+      "mAtk": 58, 
       "hp": 38, 
       "attack": 55, 
-      "defense": 32, 
+      "armor": 32, 
       "speed": 66, 
-      "special_defense": 43
+      "mRes": 43
     }
   }, 
   "2": {
@@ -23,12 +23,12 @@
       "fire","air"
     ], 
     "baseStats": {
-      "special_attack": 78, 
+      "mAtk": 78, 
       "hp": 59, 
       "attack": 75, 
-      "defense": 56, 
+      "armor": 56, 
       "speed": 83, 
-      "special_defense": 61
+      "mRes": 61
     }
   }, 
   "3": {
@@ -37,12 +37,12 @@
       "fire","air"
     ], 
     "baseStats": {
-      "special_attack": 97, 
+      "mAtk": 97, 
       "hp": 76, 
       "attack": 78, 
-      "defense": 63, 
+      "armor": 63, 
       "speed": 99, 
-      "special_defense": 70
+      "mRes": 70
     }
   },  
   "4": {
@@ -53,12 +53,12 @@
       "water","arcane"
     ], 
     "baseStats": {
-      "special_attack": 33, 
+      "mAtk": 33, 
       "hp": 51, 
       "attack": 55, 
-      "defense": 85, 
+      "armor": 85, 
       "speed": 33, 
-      "special_defense": 50
+      "mRes": 50
     }
   }, 
   "5": {
@@ -69,12 +69,12 @@
       "water","arcane"
     ], 
     "baseStats": {
-      "special_attack": 58, 
+      "mAtk": 58, 
       "hp": 70, 
       "attack": 89, 
-      "defense": 90, 
+      "armor": 90, 
       "speed": 53, 
-      "special_defense": 72
+      "mRes": 72
     }
   }, 
   "6": {
@@ -83,12 +83,12 @@
       "water","arcane"
     ], 
     "baseStats": {
-      "special_attack": 75, 
+      "mAtk": 75, 
       "hp": 80, 
       "attack": 93, 
-      "defense": 95, 
+      "armor": 95, 
       "speed": 63, 
-      "special_defense": 99
+      "mRes": 99
     }
     },
   "7": {
@@ -99,12 +99,12 @@
       "nature","fighting"
     ], 
     "baseStats": {
-      "special_attack": 60, 
+      "mAtk": 60, 
       "hp": 65, 
       "attack": 35, 
-      "defense": 34, 
+      "armor": 34, 
       "speed": 31, 
-      "special_defense": 51
+      "mRes": 51
     }
   }, 
   "8": {
@@ -115,12 +115,12 @@
       "nature","fighting" 
     ], 
     "baseStats": {
-      "special_attack": 85, 
+      "mAtk": 85, 
       "hp": 74, 
       "attack": 51, 
-      "defense": 67, 
+      "armor": 67, 
       "speed": 45, 
-      "special_defense": 83
+      "mRes": 83
     }
   }, 
   "9": {
@@ -129,12 +129,12 @@
       "nature","fighting" 
     ], 
     "baseStats": {
-      "special_attack": 95, 
+      "mAtk": 95, 
       "hp": 98, 
       "attack": 54, 
-      "defense": 70, 
+      "armor": 70, 
       "speed": 63, 
-      "special_defense": 105
+      "mRes": 105
     }
   }, 
   "10": {
@@ -145,12 +145,12 @@
       "air","normal"
     ], 
     "baseStats": {
-      "special_attack": 30, 
+      "mAtk": 30, 
       "hp": 40, 
       "attack": 58, 
-      "defense": 48, 
+      "armor": 48, 
       "speed": 60, 
-      "special_defense": 38
+      "mRes": 38
     }
   }, 
   "11": {
@@ -161,12 +161,12 @@
       "air","normal"
     ], 
     "baseStats": {
-      "special_attack": 55, 
+      "mAtk": 55, 
       "hp": 61, 
       "attack": 85, 
-      "defense": 53, 
+      "armor": 53, 
       "speed": 83, 
-      "special_defense": 53
+      "mRes": 53
     }
   },
   "12": {
@@ -175,12 +175,12 @@
       "air","normal"
     ], 
     "baseStats": {
-      "special_attack": 70, 
+      "mAtk": 70, 
       "hp": 82, 
       "attack": 105, 
-      "defense": 73, 
+      "armor": 73, 
       "speed": 105, 
-      "special_defense": 73
+      "mRes": 73
     }
   }, 
   "13": {
@@ -191,12 +191,12 @@
       "nature"
     ], 
     "baseStats": {
-      "special_attack": 10, 
+      "mAtk": 10, 
       "hp": 40, 
       "attack": 32, 
-      "defense": 25, 
+      "armor": 25, 
       "speed": 42, 
-      "special_defense": 45
+      "mRes": 45
     }
   }, 
   "14": {
@@ -207,12 +207,12 @@
       "nature"
     ], 
     "baseStats": {
-      "special_attack": 20, 
+      "mAtk": 20, 
       "hp": 55, 
       "attack": 25, 
-      "defense": 100, 
+      "armor": 100, 
       "speed": 10, 
-      "special_defense": 80
+      "mRes": 80
     }
   }, 
   "15": {
@@ -221,12 +221,12 @@
       "nature","arcane"
     ], 
     "baseStats": {
-      "special_attack": 125, 
+      "mAtk": 125, 
       "hp": 59, 
       "attack": 50, 
-      "defense": 40, 
+      "armor": 40, 
       "speed": 77, 
-      "special_defense": 85
+      "mRes": 85
     }
   },
   "16": {
@@ -237,12 +237,12 @@
       "nature" 
     ], 
     "baseStats": {
-      "special_attack": 22, 
+      "mAtk": 22, 
       "hp": 40, 
       "attack": 33, 
-      "defense": 25, 
+      "armor": 25, 
       "speed": 45, 
-      "special_defense": 30
+      "mRes": 30
     }
   },
   "17": {
@@ -253,12 +253,12 @@
       "nature"
     ], 
     "baseStats": {
-      "special_attack": 43, 
+      "mAtk": 43, 
       "hp": 50, 
       "attack": 29, 
-      "defense": 55, 
+      "armor": 55, 
       "speed": 25, 
-      "special_defense": 90
+      "mRes": 90
     }
   },
   "18": {
@@ -267,12 +267,12 @@
       "nature","chaos"
     ], 
     "baseStats": {
-      "special_attack": 65, 
+      "mAtk": 65, 
       "hp": 63, 
       "attack": 105, 
-      "defense": 69, 
+      "armor": 69, 
       "speed": 87, 
-      "special_defense": 77
+      "mRes": 77
     }
   },
   "19": {
@@ -283,12 +283,12 @@
       "earth"
     ], 
     "baseStats": {
-      "special_attack": 30, 
+      "mAtk": 30, 
       "hp": 60, 
       "attack": 60, 
-      "defense": 40, 
+      "armor": 40, 
       "speed": 50, 
-      "special_defense": 40
+      "mRes": 40
     }
   },
   "20": {
@@ -297,12 +297,12 @@
       "earth"
     ], 
     "baseStats": {
-      "special_attack": 33, 
+      "mAtk": 33, 
       "hp": 60, 
       "attack": 100, 
-      "defense": 100, 
+      "armor": 100, 
       "speed": 103, 
-      "special_defense": 73
+      "mRes": 73
     }
   },
   "21": {
@@ -313,12 +313,12 @@
       "chaos"
     ], 
     "baseStats": {
-      "special_attack": 60, 
+      "mAtk": 60, 
       "hp": 35, 
       "attack": 50, 
-      "defense": 20, 
+      "armor": 20, 
       "speed": 60, 
-      "special_defense": 25
+      "mRes": 25
     }
   },
   "22": {
@@ -327,12 +327,12 @@
       "chaos"
     ], 
     "baseStats": {
-      "special_attack": 80, 
+      "mAtk": 80, 
       "hp": 55, 
       "attack": 120, 
-      "defense": 55, 
+      "armor": 55, 
       "speed": 110, 
-      "special_defense": 30
+      "mRes": 30
     }
   },
   "23": {
@@ -343,12 +343,12 @@
       "normal"
     ], 
     "baseStats": {
-      "special_attack": 15, 
+      "mAtk": 15, 
       "hp": 45, 
       "attack": 50, 
-      "defense": 30, 
+      "armor": 30, 
       "speed": 50, 
-      "special_defense": 25
+      "mRes": 25
     }
   },
   "24": {
@@ -357,12 +357,12 @@
       "normal"
     ], 
     "baseStats": {
-      "special_attack": 20, 
+      "mAtk": 20, 
       "hp": 53, 
       "attack": 60, 
-      "defense": 55, 
+      "armor": 55, 
       "speed": 66, 
-      "special_defense": 30
+      "mRes": 30
     }
   },
   "25": {
@@ -373,12 +373,12 @@
       "air"
     ], 
     "baseStats": {
-      "special_attack": 10, 
+      "mAtk": 10, 
       "hp": 45, 
       "attack": 45, 
-      "defense": 35, 
+      "armor": 35, 
       "speed": 75, 
-      "special_defense": 20
+      "mRes": 20
     }
   },
   
@@ -388,12 +388,12 @@
       "air","fighting"
     ], 
     "baseStats": {
-      "special_attack": 40, 
+      "mAtk": 40, 
       "hp": 75, 
       "attack": 75, 
-      "defense": 53, 
+      "armor": 53, 
       "speed": 95, 
-      "special_defense": 30
+      "mRes": 30
     }
   },
   
@@ -405,12 +405,12 @@
       "water"
     ], 
     "baseStats": {
-      "special_attack": 40, 
+      "mAtk": 40, 
       "hp": 55, 
       "attack": 45, 
-      "defense": 53, 
+      "armor": 53, 
       "speed": 40, 
-      "special_defense": 35
+      "mRes": 35
     }
   },
   
@@ -420,12 +420,12 @@
       "water"
     ], 
     "baseStats": {
-      "special_attack": 60, 
+      "mAtk": 60, 
       "hp": 85, 
       "attack": 95, 
-      "defense": 73, 
+      "armor": 73, 
       "speed": 70, 
-      "special_defense": 55
+      "mRes": 55
     }
   },
   
@@ -437,12 +437,12 @@
       "ice","nature"
     ], 
     "baseStats": {
-      "special_attack": 70, 
+      "mAtk": 70, 
       "hp": 65, 
       "attack": 45, 
-      "defense": 33, 
+      "armor": 33, 
       "speed": 40, 
-      "special_defense": 45
+      "mRes": 45
     }
   },
   
@@ -452,12 +452,12 @@
       "ice","nature"
     ], 
     "baseStats": {
-      "special_attack": 100, 
+      "mAtk": 100, 
       "hp": 95, 
       "attack": 55, 
-      "defense": 53, 
+      "armor": 53, 
       "speed": 51, 
-      "special_defense": 65
+      "mRes": 65
     }
   },
   
@@ -469,12 +469,12 @@
       "earth"
     ], 
     "baseStats": {
-      "special_attack": 30, 
+      "mAtk": 30, 
       "hp": 45, 
       "attack": 35, 
-      "defense": 33, 
+      "armor": 33, 
       "speed": 15, 
-      "special_defense": 10
+      "mRes": 10
     }
   },
   
@@ -484,12 +484,12 @@
       "earth","arcane"
     ], 
     "baseStats": {
-      "special_attack": 105, 
+      "mAtk": 105, 
       "hp": 55, 
       "attack": 75, 
-      "defense": 65, 
+      "armor": 65, 
       "speed": 80, 
-      "special_defense": 60
+      "mRes": 60
     }
   },
   
@@ -499,12 +499,12 @@
       "arcane"
     ], 
     "baseStats": {
-      "special_attack": 55, 
+      "mAtk": 55, 
       "hp": 45, 
       "attack": 45, 
-      "defense": 35, 
+      "armor": 35, 
       "speed": 60, 
-      "special_defense": 50
+      "mRes": 50
     }
   },
   
@@ -514,12 +514,12 @@
       "water"
     ], 
     "baseStats": {
-      "special_attack": 80, 
+      "mAtk": 80, 
       "hp": 80, 
       "attack": 85, 
-      "defense": 85, 
+      "armor": 85, 
       "speed": 85, 
-      "special_defense": 80
+      "mRes": 80
     }
   },
   
@@ -532,12 +532,12 @@
       "fire","earth"
     ], 
     "baseStats": {
-      "special_attack": 40, 
+      "mAtk": 40, 
       "hp": 60, 
       "attack": 85, 
-      "defense": 60, 
+      "armor": 60, 
       "speed": 30, 
-      "special_defense": 60
+      "mRes": 60
     }
   },
   
@@ -547,12 +547,12 @@
       "fire","earth"
     ], 
     "baseStats": {
-      "special_attack": 60, 
+      "mAtk": 60, 
       "hp": 95, 
       "attack": 95, 
-      "defense": 85, 
+      "armor": 85, 
       "speed": 60, 
-      "special_defense": 85
+      "mRes": 85
     }
   },
   
@@ -562,12 +562,12 @@
       "nature","air"
     ], 
     "baseStats": {
-      "special_attack": 75, 
+      "mAtk": 75, 
       "hp": 55, 
       "attack": 45, 
-      "defense": 55, 
+      "armor": 55, 
       "speed": 55, 
-      "special_defense": 55
+      "mRes": 55
     }
   },
   
@@ -577,12 +577,12 @@
       "nature","chaos"
     ], 
     "baseStats": {
-      "special_attack": 105, 
+      "mAtk": 105, 
       "hp": 75, 
       "attack": 65, 
-      "defense": 85, 
+      "armor": 85, 
       "speed": 85, 
-      "special_defense": 95
+      "mRes": 95
     }
   },
   
@@ -592,12 +592,12 @@
       "normal"
     ], 
     "baseStats": {
-      "special_attack": 90, 
+      "mAtk": 90, 
       "hp": 90, 
       "attack": 90, 
-      "defense": 90, 
+      "armor": 90, 
       "speed": 90, 
-      "special_defense": 90
+      "mRes": 90
     }
   },
   
@@ -607,12 +607,12 @@
       "dragon"
     ], 
     "baseStats": {
-      "special_attack": 45, 
+      "mAtk": 45, 
       "hp": 45, 
       "attack": 45, 
-      "defense": 55, 
+      "armor": 55, 
       "speed": 45, 
-      "special_defense": 23
+      "mRes": 23
     }
   },
   
@@ -622,12 +622,12 @@
       "dragon"
     ], 
     "baseStats": {
-      "special_attack": 95, 
+      "mAtk": 95, 
       "hp": 85, 
       "attack": 75, 
-      "defense": 85, 
+      "armor": 85, 
       "speed": 95, 
-      "special_defense": 75
+      "mRes": 75
     }
   },
   
@@ -637,12 +637,12 @@
       "water","flying"
     ], 
     "baseStats": {
-      "special_attack": 55, 
+      "mAtk": 55, 
       "hp": 65, 
       "attack": 95, 
-      "defense": 53, 
+      "armor": 53, 
       "speed": 97, 
-      "special_defense": 57
+      "mRes": 57
     }
   },
   
@@ -652,12 +652,12 @@
       "electro","chaos"
     ], 
     "baseStats": {
-      "special_attack": 55, 
+      "mAtk": 55, 
       "hp": 55, 
       "attack": 55, 
-      "defense": 55, 
+      "armor": 55, 
       "speed": 55, 
-      "special_defense": 55
+      "mRes": 55
     }
   },
   
@@ -667,12 +667,12 @@
       "electro","chaos"
     ], 
     "baseStats": {
-      "special_attack": 75, 
+      "mAtk": 75, 
       "hp": 75, 
       "attack": 75, 
-      "defense": 75, 
+      "armor": 75, 
       "speed": 75, 
-      "special_defense": 75
+      "mRes": 75
     }
   },
   
@@ -682,12 +682,12 @@
       "chaos","fire"
     ], 
     "baseStats": {
-      "special_attack": 40, 
+      "mAtk": 40, 
       "hp": 55, 
       "attack": 60, 
-      "defense": 55, 
+      "armor": 55, 
       "speed": 60, 
-      "special_defense": 55
+      "mRes": 55
     }
   },
   
@@ -697,12 +697,12 @@
       "chaos","fire"
     ], 
     "baseStats": {
-      "special_attack": 71, 
+      "mAtk": 71, 
       "hp": 73, 
       "attack": 102, 
-      "defense": 63, 
+      "armor": 63, 
       "speed": 89, 
-      "special_defense": 73
+      "mRes": 73
     }
   }
   
