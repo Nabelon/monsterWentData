@@ -126,7 +126,7 @@
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 15,
-			"aligmentT": "ignited",
+			"aligmentT": "ignite",
 			"crit_rate": 0,
 			"flinch_chance": 0,
 			"statChanceS": 0,
@@ -135,7 +135,7 @@
 		"name": "Fiery-Fist",
 		"pp": 15,
 		"prio": 0,
-		"text": "Chance to ignited the target.",
+		"text": "Chance to ignite the target.",
 		"type": "fire"
 	},
 	"8": {
@@ -688,7 +688,7 @@
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 10,
-			"aligmentT": "ignited",
+			"aligmentT": "ignite",
 			"crit_rate": 0,
 			"flinch_chance": 0,
 			"statChanceS": 0,
@@ -697,7 +697,7 @@
 		"name": "Fireball",
 		"pp": 25,
 		"prio": 0,
-		"text": "Chance to ignited the target.",
+		"text": "Chance to ignite the target.",
 		"type": "fire"
 	},
 	"36": {
@@ -707,7 +707,7 @@
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 50,
-			"aligmentT": "ignited",
+			"aligmentT": "ignite",
 			"crit_rate": 0,
 			"flinch_chance": 0,
 			"statChanceS": 0,
@@ -716,7 +716,7 @@
 		"name": "Wildfire",
 		"pp": 5,
 		"prio": 0,
-		"text": "High chance to ignited the target.",
+		"text": "High chance to ignite the target.",
 		"type": "fire"
 	},
 	"37": {
@@ -1539,8 +1539,8 @@
 		"meta": {
 			"aligmentChanceS": 20,
 			"aligmentChanceT": 20,
-			"aligmentT": "ignited",
-			"aligmentS": "ignited",
+			"aligmentT": "ignite",
+			"aligmentS": "ignite",
 			"crit_rate": 0,
 			"flinch_chance": 0,
 			"statChanceS": 0,
@@ -1549,7 +1549,7 @@
 		"name": "flameblast",
 		"pp": 5,
 		"prio": 0,
-		"text": "Inflicts regular damage.  Chance to ignited the target or user.",
+		"text": "Inflicts regular damage.  Chance to ignite the target or user.",
 		"type": "fire"
 	},
 	"79": {
@@ -1785,7 +1785,7 @@
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 10,
-			"aligmentT": "ignited",
+			"aligmentT": "ignite",
 			"min_hits": 3,
 			"max_hits": 5,
 			"crit_rate": 0,
