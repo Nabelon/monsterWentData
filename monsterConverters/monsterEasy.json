@@ -4,7 +4,7 @@
 		"evolveLevel": 16,
 		"name": "Fiuro",
 		"types": [
-			"fire",
+			"fire"
 		],
 		"baseStats": {
 			"total": 300,
@@ -21,7 +21,7 @@
 		"evolveLevel": 999,
 		"name": "Explodio",
 		"types": [
-			"fire",
+			"fire"
 		],
 		"baseStats": {
 			"total": 400,
@@ -53,7 +53,7 @@
 		"evolveLevel": 14,
 		"name": "Agutta",
 		"types": [
-			"water",
+			"water"
 		],
 		"baseStats": {
 			"total": 300,
@@ -70,7 +70,7 @@
 		"evolveLevel": 999,
 		"name": "Rivus",
 		"types": [
-			"water",
+			"water"
 		],
 		"baseStats": {
 			"total": 400,
@@ -102,7 +102,7 @@
 		"evolveLevel": 16,
 		"name": "Glanduli",
 		"types": [
-			"nature",
+			"nature"
 		],
 		"baseStats": {
 			"total": 300,
@@ -119,7 +119,7 @@
 		"evolveLevel": 999,
 		"name": "Ovyser",
 		"types": [
-			"nature",
+			"nature"
 		],
 		"baseStats": {
 			"total": 400,
@@ -542,9 +542,11 @@
 	},
 
 	"34": {
-		"name": "Krabsy",
+		"name": "Duftel",
+		"evolveTo": "35",
+		"evolveLevel": 28,
 		"types": [
-			"water"
+			"chaos", "fire"
 		],
 		"baseStats": {
 			"total": 320,
@@ -556,8 +558,24 @@
 			"mRes": 80
 		}
 	},
-
+	
 	"35": {
+		"name": "Duflai",
+		"types": [
+			"chaos", "fire"
+		],
+		"baseStats": {
+			"total": 260,
+			"mAtk": 30,
+			"hp": 45,
+			"atk": 45,
+			"armor": 45,
+			"speed": 75,
+			"mRes": 30
+		}
+	},
+	
+	"36": {
 		"name": "Pypion",
 		"evolveTo": "36",
 		"evolveLevel": 30,
@@ -575,7 +593,7 @@
 		}
 	},
 
-	"36": {
+	"37": {
 		"name": "Pyron",
 		"types": [
 			"fire", "earth"
@@ -591,8 +609,10 @@
 		}
 	},
 
-	"37": {
+	"38": {
 		"name": "Gapsl",
+		"evolveTo": "39",
+		"evolveLevel": 32,
 		"types": [
 			"nature", "air"
 		],
@@ -607,23 +627,23 @@
 		}
 	},
 
-	"38": {
+	"39": {
 		"name": "Gaksor",
 		"types": [
-			"nature", "chaos"
+			"nature", "air"
 		],
 		"baseStats": {
-			"total": 500,
-			"mAtk": 105,
-			"hp": 75,
-			"atk": 65,
+			"total": 470,
+			"mAtk": 60,
+			"hp": 95,
+			"atk": 95,
 			"armor": 85,
-			"speed": 85,
-			"mRes": 95
+			"speed": 60,
+			"mRes": 85
 		}
 	},
 
-	"39": {
+	"40": {
 		"name": "Schhhhtinki",
 		"types": [
 			"normal"
@@ -639,9 +659,9 @@
 		}
 	},
 
-	"40": {
+	"41": {
 		"name": "Daruchi",
-		"evolveTo": "41",
+		"evolveTo": "42",
 		"evolveLevel": 40,
 		"types": [
 			"dragon"
@@ -657,7 +677,7 @@
 		}
 	},
 
-	"41": {
+	"42": {
 		"name": "Daruchon",
 		"types": [
 			"dragon"
@@ -670,22 +690,6 @@
 			"armor": 85,
 			"speed": 95,
 			"mRes": 75
-		}
-	},
-
-	"42": {
-		"name": "Ichnark",
-		"types": [
-			"water", "flying"
-		],
-		"baseStats": {
-			"total": 440,
-			"mAtk": 55,
-			"hp": 65,
-			"atk": 95,
-			"armor": 53,
-			"speed": 97,
-			"mRes": 57
 		}
 	},
 
@@ -724,14 +728,14 @@
 	},
 
 	"45": {
-		"name": "Duftel",
+		"name": "Lara1",
 		"evolveTo": "46",
-		"evolveLevel": 28,
+		"evolveLevel": 24,
 		"types": [
-			"chaos", "fire"
+			"dragon"
 		],
 		"baseStats": {
-			"total": 310,
+			"total": 280,
 			"mAtk": 40,
 			"hp": 55,
 			"atk": 60,
@@ -742,9 +746,11 @@
 	},
 
 	"46": {
-		"name": "Duflai",
+		"name": "Lara2",
+		"evolveTo": "47",
+		"evolveLevel": 44,
 		"types": [
-			"chaos", "fire"
+			"dragon"
 		],
 		"baseStats": {
 			"total": 350,
@@ -754,6 +760,119 @@
 			"armor": 63,
 			"speed": 89,
 			"mRes": 73
+		}
+	},
+	"47": {
+		"name": "Lara3",
+		"types": [
+			"dragon"
+		],
+		"baseStats": {
+			"total": 510,
+			"mAtk": 30,
+			"hp": 45,
+			"atk": 45,
+			"armor": 45,
+			"speed": 75,
+			"mRes": 30
+		}
+	},
+	"48": {
+		"name": "Anki",
+		"evolveTo": "49",
+		"evolveLevel": 23,
+		"types": [
+			"electro", "earth"
+		],
+		"baseStats": {
+			"total": 290,
+			"mAtk": 30,
+			"hp": 45,
+			"atk": 45,
+			"armor": 45,
+			"speed": 75,
+			"mRes": 30
+		}
+	},
+	"49": {
+		"name": "Ankel",
+		"evolveTo": "50",
+		"evolveLevel": 46,
+		"types": [
+			"electro", "earth"
+		],
+		"baseStats": {
+			"total": 360,
+			"mAtk": 30,
+			"hp": 45,
+			"atk": 45,
+			"armor": 45,
+			"speed": 75,
+			"mRes": 30
+		}
+	},
+	"50": {
+		"name": "Ankylo",
+		"types": [
+			"electro", "earth"
+		],
+		"baseStats": {
+			"total": 495,
+			"mAtk": 30,
+			"hp": 45,
+			"atk": 45,
+			"armor": 45,
+			"speed": 75,
+			"mRes": 30
+		}
+	},
+	"51": {
+		"name": "Tedie",
+		"evolveTo": "52",
+		"evolveLevel": 26,
+		"types": [
+			"ice"
+		],
+		"baseStats": {
+			"total": 270,
+			"mAtk": 30,
+			"hp": 45,
+			"atk": 45,
+			"armor": 45,
+			"speed": 75,
+			"mRes": 30
+		}
+	},
+	"52": {
+		"name": "Tedice",
+		"evolveTo": "53",
+		"evolveLevel": 48,
+		"types": [
+			"ice"
+		],
+		"baseStats": {
+			"total": 370,
+			"mAtk": 30,
+			"hp": 45,
+			"atk": 45,
+			"armor": 45,
+			"speed": 75,
+			"mRes": 30
+		}
+	},
+	"53": {
+		"name": "Tedsno",
+		"types": [
+			"ice"
+		],
+		"baseStats": {
+			"total": 480,
+			"mAtk": 30,
+			"hp": 45,
+			"atk": 45,
+			"armor": 45,
+			"speed": 75,
+			"mRes": 30
 		}
 	}
 }
