@@ -1,0 +1,487 @@
+{
+  "1": {
+    "1": "45 Peck", 
+    "13": "29 Weeping", 
+    "21": "56 fire-Trap", 
+    "25": "14 Wing-Strike", 
+    "28": "66 Tornado", 
+    "39": "36 Wildfire", 
+    "45": "81 Skyfall", 
+    "55": "78 flameblast", 
+    "8": "35 Fireball"
+  }, 
+  "2": {
+    "1": "45 Peck", 
+    "10": "35 Fireball", 
+    "25": "56 fire-Trap", 
+    "29": "14 Wing-Strike", 
+    "35": "66 Tornado", 
+    "41": "36 Wildfire", 
+    "48": "81 Skyfall", 
+    "60": "78 flameblast"
+  }, 
+  "3": {
+    "1": "45 Peck", 
+    "13": "35 Fireball", 
+    "27": "56 fire-Trap", 
+    "31": "14 Wing-Strike", 
+    "40": "66 Tornado", 
+    "46": "36 Wildfire", 
+    "51": "81 Skyfall", 
+    "63": "78 flameblast"
+  }, 
+  "4": {
+    "1": "21 tackle", 
+    "15": "79 Soulforce", 
+    "18": "1 Pound", 
+    "20": "95 Bloodtrade", 
+    "29": "39 Surf", 
+    "37": "20 headbutt", 
+    "45": "93 snowfall", 
+    "50": "38 Waterfall", 
+    "7": "37 Water-Gun"
+  }, 
+  "5": {
+    "1": "21 tackle", 
+    "15": "79 Soulforce", 
+    "18": "1 Pound", 
+    "20": "95 Bloodtrade", 
+    "29": "39 Surf", 
+    "37": "20 headbutt", 
+    "45": "93 snowfall", 
+    "50": "38 Waterfall", 
+    "7": "37 Water-Gun"
+  }, 
+  "6": {
+    "1": "21 tackle", 
+    "15": "79 Soulforce", 
+    "18": "1 Pound", 
+    "20": "95 Bloodtrade", 
+    "29": "39 Surf", 
+    "37": "20 headbutt", 
+    "45": "93 snowfall", 
+    "50": "38 Waterfall", 
+    "7": "37 Water-Gun"
+  }, 
+  "7": {
+    "1": "10 Scratch", 
+    "13": "52 Poison-Potion", 
+    "20": "48 Absorber", 
+    "27": "53 Sleep-Potion", 
+    "35": "51 Storm of leafs", 
+    "40": "49 mega-drain", 
+    "44": "20 headbutt", 
+    "53": "88 Deep-Scratches", 
+    "71": "99 Power-Drain", 
+    "9": "29 Weeping"
+  }, 
+  "8": {
+    "1": "10 Scratch", 
+    "17": "52 Poison-Potion", 
+    "23": "48 Absorber", 
+    "30": "53 Sleep-Potion", 
+    "39": "51 Storm of leafs", 
+    "43": "49 mega-drain", 
+    "44": "20 headbutt", 
+    "56": "88 Deep-Scratches", 
+    "74": "99 Power-Drain"
+  }, 
+  "9": {
+    "1": "10 Scratch", 
+    "17": "52 Poison-Potion", 
+    "23": "48 Absorber", 
+    "31": "53 Sleep-Potion", 
+    "43": "51 Storm of leafs", 
+    "44": "20 headbutt", 
+    "46": "49 mega-drain", 
+    "63": "88 Deep-Scratches", 
+    "76": "99 Power-Drain"
+  }, 
+  "10": {
+    "1": "45 Peck", 
+    "15": "26 Tail-Whip", 
+    "22": "47 fast-kick", 
+    "3": "10 Scratch", 
+    "30": "14 Wing-Strike", 
+    "37": "46 Heavy-Peck", 
+    "50": "82 Timewaste", 
+    "61": "112 Hurricane", 
+    "7": "29 Weeping"
+  }, 
+  "11": {
+    "1": "45 Peck", 
+    "16": "26 Tail-Whip", 
+    "23": "47 fast-kick", 
+    "3": "10 Scratch", 
+    "33": "14 Wing-Strike", 
+    "38": "46 Heavy-Peck", 
+    "52": "82 Timewaste", 
+    "63": "112 Hurricane", 
+    "7": "29 Weeping"
+  }, 
+  "12": {
+    "1": "45 Peck", 
+    "15": "26 Tail-Whip", 
+    "22": "47 fast-kick", 
+    "3": "10 Scratch", 
+    "33": "14 Wing-Strike", 
+    "39": "46 Heavy-Peck", 
+    "52": "82 Timewaste", 
+    "66": "112 Hurricane", 
+    "7": "29 Weeping"
+  }, 
+  "13": {
+    "1": "23 wrap", 
+    "15": "48 Absorber", 
+    "3": "29 Weeping", 
+    "9": "21 tackle"
+  }, 
+  "14": {
+    "1": "29 Weeping", 
+    "2": "21 tackle"
+  }, 
+  "15": {
+    "1": "29 Weeping", 
+    "15": "50 Growth", 
+    "23": "32 Sleeping-Song", 
+    "24": "49 mega-drain", 
+    "33": "67 Inner-Peace", 
+    "38": "14 Wing-Strike", 
+    "45": "114 Pixie Dust", 
+    "9": "38 Waterfall"
+  }, 
+  "16": {
+    "1": "27 Poison Sting", 
+    "13": "72 Shell", 
+    "7": "54 String-Trap"
+  }, 
+  "17": {
+    "1": "29 Weeping", 
+    "2": "27 Poison Sting"
+  }, 
+  "18": {
+    "1": "27 Poison Sting", 
+    "10": "21 tackle", 
+    "17": "68 Betrayal", 
+    "20": "52 Poison-Potion", 
+    "21": "28 Double-Sting", 
+    "25": "14 Wing-Strike", 
+    "33": "124 Swarm atk", 
+    "45": "34 Acid", 
+    "53": "81 Skyfall"
+  }, 
+  "19": {
+    "1": "21 tackle", 
+    "10": "10 Scratch", 
+    "17": "30 Bite", 
+    "23": "110 Deserts Tomb", 
+    "30": "88 Deep-Scratches", 
+    "40": "60 Boulder-Throw", 
+    "43": "61 Earthquake", 
+    "7": "96 mud-battle"
+  }, 
+  "20": {
+    "1": "21 tackle", 
+    "10": "10 Scratch", 
+    "17": "30 Bite", 
+    "23": "110 Deserts Tomb", 
+    "30": "88 Deep-Scratches", 
+    "40": "60 Boulder-Throw", 
+    "43": "61 Earthquake", 
+    "7": "96 mud-battle"
+  }, 
+  "21": {
+    "1": "27 Poison Sting", 
+    "10": "67 Inner-Peace", 
+    "13": "94 Feint", 
+    "21": "80 Bloodleech", 
+    "34": "34 Acid"
+  }, 
+  "22": {
+    "1": "27 Poison Sting", 
+    "10": "67 Inner-Peace", 
+    "13": "94 Feint", 
+    "21": "80 Bloodleech", 
+    "34": "34 Acid"
+  }, 
+  "23": {
+    "1": "21 tackle", 
+    "16": "26 Tail-Whip", 
+    "23": "88 Deep-Scratches", 
+    "27": "3 Multihit", 
+    "33": "85 Bonemerang", 
+    "7": "10 Scratch", 
+    "75": "4 Cosmic-Multipunch"
+  }, 
+  "24": {
+    "1": "21 tackle", 
+    "16": "26 Tail-Whip", 
+    "23": "88 Deep-Scratches", 
+    "27": "3 Multihit", 
+    "33": "85 Bonemerang", 
+    "7": "10 Scratch", 
+    "75": "4 Cosmic-Multipunch"
+  }, 
+  "25": {
+    "1": "21 tackle", 
+    "16": "26 Tail-Whip", 
+    "23": "88 Deep-Scratches", 
+    "24": "14 Wing-Strike", 
+    "27": "3 Multihit", 
+    "33": "85 Bonemerang", 
+    "45": "81 Skyfall", 
+    "7": "10 Scratch", 
+    "75": "4 Cosmic-Multipunch"
+  }, 
+  "26": {
+    "1": "21 tackle", 
+    "14": "75 Wet willy", 
+    "16": "26 Tail-Whip", 
+    "20": "113 Eagle Eye", 
+    "3": "10 Scratch", 
+    "30": "47 fast-kick", 
+    "44": "14 Wing-Strike", 
+    "55": "112 Hurricane", 
+    "7": "45 Peck", 
+    "75": "4 Cosmic-Multipunch"
+  }, 
+  "27": {
+    "1": "103 Splash", 
+    "10": "37 Water-Gun", 
+    "17": "83 Poison-Shell", 
+    "23": "84 Water-Bullet", 
+    "3": "21 tackle", 
+    "35": "62 Toxic Delivery", 
+    "45": "39 Surf", 
+    "7": "76 Toxic-Cloud"
+  }, 
+  "28": {
+    "1": "103 Splash", 
+    "12": "37 Water-Gun", 
+    "19": "83 Poison-Shell", 
+    "25": "84 Water-Bullet", 
+    "38": "62 Toxic Delivery", 
+    "4": "21 tackle", 
+    "47": "39 Surf", 
+    "8": "76 Toxic-Cloud"
+  }, 
+  "29": {
+    "1": "76 Toxic-Cloud", 
+    "13": "86 Powernap", 
+    "17": "16 slam", 
+    "23": "34 Acid", 
+    "25": "52 Poison-Potion", 
+    "35": "62 Toxic Delivery", 
+    "37": "76 Toxic-Cloud", 
+    "7": "83 Poison-Shell"
+  }, 
+  "30": {
+    "1": "76 Toxic-Cloud", 
+    "15": "86 Powernap", 
+    "19": "16 slam", 
+    "26": "34 Acid", 
+    "29": "52 Poison-Potion", 
+    "38": "62 Toxic Delivery", 
+    "40": "76 Toxic-Cloud", 
+    "8": "83 Poison-Shell"
+  }, 
+  "31": {
+    "1": "15 Bind", 
+    "10": "87 earth-fall", 
+    "3": "50 Growth", 
+    "7": "71 recover"
+  }, 
+  "32": {
+    "1": "63 Mental-Disorder", 
+    "20": "42 Ying-atk", 
+    "25": "43 Yang-atk", 
+    "33": "85 Bonemerang", 
+    "38": "94 Feint", 
+    "40": "65 Warcry", 
+    "47": "61 Earthquake", 
+    "50": "67 Inner-Peace", 
+    "60": "118 Night's Fall", 
+    "70": "64 Ying-Yang-atk"
+  }, 
+  "33": {
+    "1": "21 tackle", 
+    "10": "16 slam", 
+    "13": "73 Spirit-Shield", 
+    "20": "42 Ying-atk", 
+    "33": "19 Mega-Kick", 
+    "40": "64 Ying-Yang-atk", 
+    "5": "63 Mental-Disorder"
+  }, 
+  "34": {
+    "1": "10 Scratch", 
+    "11": "100 Flirt", 
+    "17": "32 Sleeping-Song", 
+    "27": "67 Inner-Peace", 
+    "31": "3 Multihit", 
+    "33": "88 Deep-Scratches", 
+    "47": "20 headbutt", 
+    "7": "21 tackle"
+  }, 
+  "35": {
+    "1": "10 Scratch", 
+    "11": "100 Flirt", 
+    "17": "32 Sleeping-Song", 
+    "27": "67 Inner-Peace", 
+    "31": "3 Multihit", 
+    "33": "88 Deep-Scratches", 
+    "47": "20 headbutt", 
+    "7": "21 tackle"
+  }, 
+  "36": {
+    "1": "21 tackle", 
+    "10": "35 Fireball", 
+    "22": "86 Powernap", 
+    "27": "88 Deep-Scratches", 
+    "3": "56 fire-Trap", 
+    "33": "90 Flame-Bombardment", 
+    "49": "36 Wildfire"
+  }, 
+  "37": {
+    "1": "21 tackle", 
+    "10": "35 Fireball", 
+    "22": "86 Powernap", 
+    "27": "88 Deep-Scratches", 
+    "3": "56 fire-Trap", 
+    "33": "90 Flame-Bombardment", 
+    "49": "36 Wildfire"
+  }, 
+  "38": {
+    "1": "21 tackle", 
+    "17": "52 Poison-Potion", 
+    "23": "48 Absorber", 
+    "30": "53 Sleep-Potion", 
+    "39": "51 Storm of leafs", 
+    "43": "49 mega-drain", 
+    "44": "20 headbutt", 
+    "55": "99 Power-Drain"
+  }, 
+  "39": {
+    "1": "21 tackle", 
+    "17": "52 Poison-Potion", 
+    "23": "48 Absorber", 
+    "30": "53 Sleep-Potion", 
+    "39": "51 Storm of leafs", 
+    "43": "49 mega-drain", 
+    "44": "20 headbutt", 
+    "55": "99 Power-Drain"
+  }, 
+  "40": {
+    "1": "24 thrash", 
+    "10": "94 Feint", 
+    "17": "75 Wet willy", 
+    "23": "71 recover", 
+    "30": "6 pay-day", 
+    "39": "43 Yang-atk", 
+    "44": "89 Bribe", 
+    "55": "74 Kamikaze"
+  }, 
+  "41": {
+    "1": "16 slam", 
+    "13": "70 Unbearable yell", 
+    "20": "2 Karate-Punch", 
+    "31": "19 Mega-Kick", 
+    "37": "79 Soulforce", 
+    "43": "18 Double-Kick", 
+    "55": "98 Draconic-Punch", 
+    "7": "10 Scratch"
+  }, 
+  "42": {
+    "1": "16 slam", 
+    "13": "70 Unbearable yell", 
+    "20": "2 Karate-Punch", 
+    "31": "19 Mega-Kick", 
+    "37": "79 Soulforce", 
+    "43": "18 Double-Kick", 
+    "55": "98 Draconic-Punch", 
+    "7": "10 Scratch"
+  }, 
+  "43": {
+    "1": "101 Spark", 
+    "12": "33 Sonic Waves", 
+    "20": "119 Metal Shell", 
+    "27": "91 Offensive Trade", 
+    "37": "48 Absorber", 
+    "53": "117 Lightning", 
+    "9": "59 Volt-atk"
+  }, 
+  "44": {
+    "1": "101 Spark", 
+    "12": "33 Sonic Waves", 
+    "20": "119 Metal Shell", 
+    "27": "91 Offensive Trade", 
+    "37": "48 Absorber", 
+    "53": "117 Lightning", 
+    "9": "59 Volt-atk"
+  }, 
+  "45": {
+    "1": "10 Scratch", 
+    "15": "21 tackle", 
+    "22": "55 Dragons-Fury", 
+    "29": "85 Bonemerang", 
+    "36": "13 Hymn of the Sword", 
+    "44": "19 Mega-Kick", 
+    "51": "98 Draconic-Punch", 
+    "8": "96 mud-battle"
+  }, 
+  "46": {
+    "1": "10 Scratch", 
+    "15": "21 tackle", 
+    "22": "55 Dragons-Fury", 
+    "29": "85 Bonemerang", 
+    "36": "13 Hymn of the Sword", 
+    "44": "19 Mega-Kick", 
+    "51": "98 Draconic-Punch", 
+    "8": "96 mud-battle"
+  }, 
+  "47": {
+    "1": "10 Scratch", 
+    "15": "21 tackle", 
+    "22": "55 Dragons-Fury", 
+    "29": "85 Bonemerang", 
+    "36": "13 Hymn of the Sword", 
+    "44": "19 Mega-Kick", 
+    "51": "98 Draconic-Punch", 
+    "8": "96 mud-battle"
+  }, 
+  "48": {
+    "1": "96 mud-battle", 
+    "12": "72 Shell", 
+    "18": "87 earth-fall", 
+    "26": "12 Punishment by gale", 
+    "27": "70 Unbearable yell", 
+    "33": "59 Volt-atk", 
+    "37": "57 Electric-Overload", 
+    "45": "61 Earthquake", 
+    "57": "117 Lightning", 
+    "7": "101 Spark"
+  }, 
+  "49": {
+    "1": "96 mud-battle", 
+    "12": "72 Shell", 
+    "18": "87 earth-fall", 
+    "26": "12 Punishment by gale", 
+    "27": "70 Unbearable yell", 
+    "33": "59 Volt-atk", 
+    "37": "57 Electric-Overload", 
+    "45": "61 Earthquake", 
+    "57": "117 Lightning", 
+    "7": "101 Spark"
+  }, 
+  "50": {
+    "1": "96 mud-battle", 
+    "12": "72 Shell", 
+    "18": "87 earth-fall", 
+    "26": "12 Punishment by gale", 
+    "27": "70 Unbearable yell", 
+    "33": "59 Volt-atk", 
+    "37": "57 Electric-Overload", 
+    "45": "61 Earthquake", 
+    "57": "117 Lightning", 
+    "7": "101 Spark"
+  }
+}
