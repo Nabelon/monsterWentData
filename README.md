@@ -1,4 +1,4 @@
 # monsterWentData  
 Moves: 124  
-Spawns Written: 36/151  
-MonsterMoves: 35/151
+Spawns Written: 55/100  
+MonsterMoves: 50/100
