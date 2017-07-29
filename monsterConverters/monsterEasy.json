@@ -542,7 +542,7 @@
 	},
 
 	"34": {
-		"name": "Duftel",
+		"name": "Dadchi",
 		"evolveTo": "35",
 		"evolveLevel": 28,
 		"types": [
@@ -560,7 +560,7 @@
 	},
 	
 	"35": {
-		"name": "Duflai",
+		"name": "Dadchiki",
 		"types": [
 			"chaos", "fire"
 		],
@@ -580,7 +580,7 @@
 		"evolveTo": "36",
 		"evolveLevel": 30,
 		"types": [
-			"fire", "earth"
+			"fire"
 		],
 		"baseStats": {
 			"total": 340,
@@ -596,7 +596,7 @@
 	"37": {
 		"name": "Pyron",
 		"types": [
-			"fire", "earth"
+			"fire"
 		],
 		"baseStats": {
 			"total": 470,
@@ -728,7 +728,7 @@
 	},
 
 	"45": {
-		"name": "Lara1",
+		"name": "Larvior",
 		"evolveTo": "46",
 		"evolveLevel": 24,
 		"types": [
@@ -746,7 +746,7 @@
 	},
 
 	"46": {
-		"name": "Lara2",
+		"name": "Papion",
 		"evolveTo": "47",
 		"evolveLevel": 44,
 		"types": [
@@ -763,7 +763,7 @@
 		}
 	},
 	"47": {
-		"name": "Lara3",
+		"name": "Despartos",
 		"types": [
 			"dragon"
 		],
@@ -873,6 +873,36 @@
 			"armor": 45,
 			"speed": 75,
 			"mRes": 30
+		}
+	},
+	"54": {
+		"name": "Nepfatus",
+		"types": [
+			"water","earth"
+		],
+		"baseStats": {
+			"total": 410,
+			"mAtk": 1,
+			"hp": 1.2,
+			"atk": 0.8,
+			"armor": 0.8,
+			"speed": 1,
+			"mRes": 1
+		}
+	},
+	"55": {
+		"name": "Neplaro",
+		"types": [
+			"water","earth"
+		],
+		"baseStats": {
+			"total": 480,
+			"mAtk": 1,
+			"hp": 1.2,
+			"atk": 0.8,
+			"armor": 0.8,
+			"speed": 1,
+			"mRes": 1
 		}
 	}
 }

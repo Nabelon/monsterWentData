@@ -72,6 +72,11 @@
   "fighting": [
     "Saber atk Id:122 Str:80 Acc:80 cat: physical", 
     "Dagger Thrust Id:123 Str:50 Acc:90 cat: physical", 
+    "Knockdown Id:125 Str:100 Acc:100 cat: physical", 
+    "Heavy-Punch Id:126 Str:150 Acc:100 cat: physical", 
+    "Preparation Id:127 Str:0 Acc:100 cat: status", 
+    "Defense-Stance Id:128 Str:20 Acc:100 cat: status", 
+    "Draincut Id:129 Str:30 Acc:100 cat: physical", 
     "Karate-Punch Id:2 Str:55 Acc:100 cat: physical", 
     "Double-Kick Id:18 Str:35 Acc:100 cat: physical", 
     "fast-kick Id:47 Str:60 Acc:100 cat: physical"
@@ -107,7 +112,7 @@
   "normal": [
     "thrash Id:24 Str:10 Acc:100 cat: physical", 
     "double-edge Id:25 Str:120 Acc:100 cat: physical", 
-    "Tail-Whip Id:26 Str:None Acc:100 cat: status", 
+    "Tail-Whip Id:26 Str:0 Acc:100 cat: status", 
     "headbutt Id:20 Str:90 Acc:100 cat: physical", 
     "tackle Id:21 Str:50 Acc:100 cat: physical", 
     "body-slam Id:22 Str:100 Acc:100 cat: physical", 
@@ -127,8 +132,8 @@
     "Bloodtrade Id:95 Str:None Acc:100 cat: status", 
     "Hammer hit Id:11 Str:55 Acc:100 cat: physical", 
     "Scratch Id:10 Str:35 Acc:100 cat: physical", 
-    "Hymn of the Sword Id:13 Str:None Acc:None cat: status", 
-    "Punishment by gale Id:12 Str:20 Acc:10 cat: physical", 
+    "Hymn of the Sword Id:13 Str:0 Acc:100 cat: status", 
+    "Punishment by gale Id:12 Str:20 Acc:100 cat: physical", 
     "Bind Id:15 Str:15 Acc:85 cat: physical", 
     "slam Id:16 Str:80 Acc:75 cat: physical", 
     "Mega-Kick Id:19 Str:120 Acc:75 cat: physical", 

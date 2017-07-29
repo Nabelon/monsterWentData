@@ -4,7 +4,7 @@
 		"landuse": ["urban area","residential","park"],
         "weather": ["sun"],
         "time": ["day","evening","night"],
-        "rarity": 4
+        "rarity": 3
 	},
 	"2": {
 		"landuse": ["urban area","residential"],
@@ -22,7 +22,7 @@
 		"landuse": ["water","riverbank","park"],
         "weather": ["cloud","rain","sun"],
         "time": ["day","evening","night"],
-        "rarity": 4
+        "rarity": 3
 	},
 	"5": {
 		"landuse": ["water","riverbank","ocean"],
