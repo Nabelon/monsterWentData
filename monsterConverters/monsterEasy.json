@@ -8,12 +8,12 @@
 		],
 		"baseStats": {
 			"total": 300,
-			"mAtk": 58,
-			"hp": 38,
-			"atk": 55,
-			"armor": 30,
-			"speed": 66,
-			"mRes": 43
+			"mAtk": 1.3,
+			"hp": 1,
+			"atk": 1.2,
+			"armor": 0.7,
+			"speed": 1.2,
+			"mRes": 0.8
 		}
 	},
 	"2": {
@@ -25,12 +25,12 @@
 		],
 		"baseStats": {
 			"total": 400,
-			"mAtk": 78,
-			"hp": 59,
-			"atk": 75,
-			"armor": 54,
-			"speed": 83,
-			"mRes": 61
+			"mAtk": 1.3,
+			"hp": 1,
+			"atk": 1.2,
+			"armor": 0.7,
+			"speed": 1.2,
+			"mRes": 0.8
 		}
 	},
 	"3": {
@@ -40,12 +40,12 @@
 		],
 		"baseStats": {
 			"total": 500,
-			"mAtk": 94,
-			"hp": 76,
-			"atk": 78,
-			"armor": 63,
-			"speed": 99,
-			"mRes": 70
+			"mAtk": 1.3,
+			"hp": 1,
+			"atk": 1.2,
+			"armor": 0.7,
+			"speed": 1.2,
+			"mRes": 0.8
 		}
 	},
 	"4": {
@@ -57,12 +57,12 @@
 		],
 		"baseStats": {
 			"total": 300,
-			"mAtk": 33,
-			"hp": 51,
-			"atk": 55,
-			"armor": 68,
-			"speed": 33,
-			"mRes": 50
+			"mAtk": 1.3,
+			"hp": 1.2,
+			"atk": 0.7,
+			"armor": 0.8,
+			"speed": 1,
+			"mRes": 1.1
 		}
 	},
 	"5": {
@@ -74,12 +74,12 @@
 		],
 		"baseStats": {
 			"total": 400,
-			"mAtk": 58,
-			"hp": 70,
-			"atk": 77,
-			"armor": 80,
-			"speed": 53,
-			"mRes": 72
+			"mAtk": 1.3,
+			"hp": 1.2,
+			"atk": 0.7,
+			"armor": 0.8,
+			"speed": 1,
+			"mRes": 1.1
 		}
 	},
 	"6": {
@@ -89,12 +89,12 @@
 		],
 		"baseStats": {
 			"total": 500,
-			"mAtk": 75,
-			"hp": 80,
-			"atk": 93,
-			"armor": 95,
-			"speed": 63,
-			"mRes": 74
+			"mAtk": 1.3,
+			"hp": 1.2,
+			"atk": 0.7,
+			"armor": 0.8,
+			"speed": 1,
+			"mRes": 1.1
 		}
 	},
 	"7": {
@@ -106,12 +106,12 @@
 		],
 		"baseStats": {
 			"total": 300,
-			"mAtk": 35,
-			"hp": 65,
-			"atk": 60,
-			"armor": 34,
-			"speed": 31,
-			"mRes": 65
+			"mAtk": 0.6,
+			"hp": 1.1,
+			"atk": 1.4,
+			"armor": 0.8,
+			"speed": 1,
+			"mRes": 1.1
 		}
 	},
 	"8": {
@@ -123,12 +123,12 @@
 		],
 		"baseStats": {
 			"total": 400,
-			"mAtk": 85,
-			"hp": 74,
-			"atk": 51,
-			"armor": 67,
-			"speed": 45,
-			"mRes": 83
+			"mAtk": 0.6,
+			"hp": 1.1,
+			"atk": 1.4,
+			"armor": 0.8,
+			"speed": 1,
+			"mRes": 1.1
 		}
 	},
 	"9": {
@@ -138,12 +138,12 @@
 		],
 		"baseStats": {
 			"total": 500,
-			"mAtk": 54,
-			"hp": 98,
-			"atk": 95,
-			"armor": 75,
-			"speed": 63,
-			"mRes": 105
+			"mAtk": 0.6,
+			"hp": 1.1,
+			"atk": 1.4,
+			"armor": 0.8,
+			"speed": 1,
+			"mRes": 1.1
 		}
 	},
 	"10": {
@@ -155,12 +155,12 @@
 		],
 		"baseStats": {
 			"total": 230,
-			"mAtk": 30,
-			"hp": 40,
-			"atk": 58,
-			"armor": 48,
-			"speed": 60,
-			"mRes": 38
+			"mAtk": 0.7,
+			"hp": 0.8,
+			"atk": 1.2,
+			"armor": 0.9,
+			"speed": 1.3,
+			"mRes": 1
 		}
 	},
 	"11": {
@@ -172,12 +172,12 @@
 		],
 		"baseStats": {
 			"total": 340,
-			"mAtk": 55,
-			"hp": 61,
-			"atk": 85,
-			"armor": 53,
-			"speed": 83,
-			"mRes": 53
+			"mAtk": 0.7,
+			"hp": 0.8,
+			"atk": 1.2,
+			"armor": 0.9,
+			"speed": 1.3,
+			"mRes": 1
 		}
 	},
 	"12": {
@@ -187,12 +187,12 @@
 		],
 		"baseStats": {
 			"total": 450,
-			"mAtk": 70,
-			"hp": 82,
-			"atk": 95,
-			"armor": 53,
-			"speed": 95,
-			"mRes": 73
+			"mAtk": 0.7,
+			"hp": 0.8,
+			"atk": 1.2,
+			"armor": 0.9,
+			"speed": 1.3,
+			"mRes": 1
 		}
 	},
 	"13": {
@@ -204,12 +204,12 @@
 		],
 		"baseStats": {
 			"total": 200,
-			"mAtk": 10,
-			"hp": 40,
-			"atk": 32,
-			"armor": 25,
-			"speed": 42,
-			"mRes": 45
+			"mAtk": 0.7,
+			"hp": 1,
+			"atk": 0.7,
+			"armor": 0.8,
+			"speed": 1.2,
+			"mRes": 1.3
 		}
 	},
 	"14": {
@@ -221,12 +221,12 @@
 		],
 		"baseStats": {
 			"total": 250,
-			"mAtk": 20,
-			"hp": 55,
-			"atk": 25,
-			"armor": 100,
-			"speed": 10,
-			"mRes": 80
+			"mAtk": 0.6,
+			"hp": 1.5,
+			"atk": 0.6,
+			"armor": 2,
+			"speed": 0.5,
+			"mRes": 1.4
 		}
 	},
 	"15": {
@@ -236,12 +236,12 @@
 		],
 		"baseStats": {
 			"total": 490,
-			"mAtk": 125,
-			"hp": 59,
-			"atk": 67,
-			"armor": 53,
-			"speed": 79,
-			"mRes": 85
+			"mAtk": 1.4,
+			"hp": 0.9,
+			"atk": 0.7,
+			"armor": 0.7,
+			"speed": 1.2,
+			"mRes": 1.3
 		}
 	},
 	"16": {
@@ -546,7 +546,7 @@
 		"evolveTo": "35",
 		"evolveLevel": 28,
 		"types": [
-			"chaos", "fire"
+			"normal"
 		],
 		"baseStats": {
 			"total": 320,
@@ -562,7 +562,7 @@
 	"35": {
 		"name": "Dadchiki",
 		"types": [
-			"chaos", "fire"
+			"normal"
 		],
 		"baseStats": {
 			"total": 260,
@@ -614,7 +614,7 @@
 		"evolveTo": "39",
 		"evolveLevel": 32,
 		"types": [
-			"nature", "air"
+			"nature"
 		],
 		"baseStats": {
 			"total": 400,
@@ -630,7 +630,7 @@
 	"39": {
 		"name": "Gaksor",
 		"types": [
-			"nature", "air"
+			"nature"
 		],
 		"baseStats": {
 			"total": 470,
@@ -698,7 +698,7 @@
 		"evolveTo": "44",
 		"evolveLevel": 30,
 		"types": [
-			"electro", "chaos"
+			"electro"
 		],
 		"baseStats": {
 			"total": 390,
@@ -714,7 +714,7 @@
 	"44": {
 		"name": "Magnium",
 		"types": [
-			"electro", "chaos"
+			"electro"
 		],
 		"baseStats": {
 			"total": 480,
