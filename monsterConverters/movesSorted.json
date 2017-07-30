@@ -114,7 +114,7 @@
     "double-edge Id:25 Str:120 Acc:100 cat: physical", 
     "Tail-Whip Id:26 Str:0 Acc:100 cat: status", 
     "headbutt Id:20 Str:90 Acc:100 cat: physical", 
-    "tackle Id:21 Str:50 Acc:100 cat: physical", 
+    "tackle Id:21 Str:40 Acc:100 cat: physical", 
     "body-slam Id:22 Str:100 Acc:100 cat: physical", 
     "wrap Id:23 Str:12 Acc:90 cat: physical", 
     "Weeping Id:29 Str:None Acc:100 cat: status", 
