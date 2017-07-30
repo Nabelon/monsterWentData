@@ -483,5 +483,64 @@
     "45": "61 Earthquake", 
     "57": "117 Lightning", 
     "7": "101 Spark"
+  }, 
+  "51": {
+    "1": "10 Scratch", 
+    "12": "30 Bite", 
+    "17": "97 cold-winds", 
+    "27": "94 Feint", 
+    "3": "93 snowfall", 
+    "32": "44 Northern-Flowers", 
+    "45": "115 Crush", 
+    "57": "41 Everfrost", 
+    "7": "26 Tail-Whip"
+  }, 
+  "52": {
+    "1": "10 Scratch", 
+    "12": "30 Bite", 
+    "17": "97 cold-winds", 
+    "27": "94 Feint", 
+    "3": "93 snowfall", 
+    "32": "44 Northern-Flowers", 
+    "45": "115 Crush", 
+    "57": "41 Everfrost", 
+    "7": "26 Tail-Whip"
+  }, 
+  "53": {
+    "1": "10 Scratch", 
+    "12": "30 Bite", 
+    "17": "97 cold-winds", 
+    "27": "94 Feint", 
+    "3": "93 snowfall", 
+    "32": "44 Northern-Flowers", 
+    "45": "115 Crush", 
+    "57": "41 Everfrost", 
+    "7": "26 Tail-Whip"
+  }, 
+  "54": {
+    "1": "48 Absorber", 
+    "13": "15 Bind", 
+    "17": "17 Vine-Whip", 
+    "26": "39 Surf", 
+    "31": "49 mega-drain", 
+    "35": "57 Electric-Overload", 
+    "37": "38 Waterfall", 
+    "41": "51 Storm of leafs", 
+    "47": "61 Earthquake", 
+    "55": "86 Powernap", 
+    "6": "103 Splash"
+  }, 
+  "55": {
+    "1": "48 Absorber", 
+    "13": "15 Bind", 
+    "17": "17 Vine-Whip", 
+    "26": "39 Surf", 
+    "31": "49 mega-drain", 
+    "35": "57 Electric-Overload", 
+    "37": "38 Waterfall", 
+    "41": "51 Storm of leafs", 
+    "47": "61 Earthquake", 
+    "55": "86 Powernap", 
+    "6": "103 Splash"
   }
 }
