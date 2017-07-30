@@ -392,7 +392,7 @@
 	"21": {
 		"acc": 100,
 		"cat": "physical",
-		"dmg": 50,
+		"dmg": 40,
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
