@@ -148,7 +148,7 @@
     "33": "67 Inner-Peace", 
     "38": "14 Wing-Strike", 
     "45": "114 Pixie Dust", 
-    "9": "38 Waterfall"
+    "59": "38 Waterfall"
   }, 
   "16": {
     "1": "27 Poison Sting", 
@@ -161,8 +161,8 @@
   }, 
   "18": {
     "1": "27 Poison Sting", 
-    "10": "21 tackle", 
-    "17": "68 Betrayal", 
+    "10": "68 Betrayal", 
+    "17": "95 Bloodtrade", 
     "20": "52 Poison-Potion", 
     "21": "28 Double-Sting", 
     "25": "14 Wing-Strike", 
@@ -420,9 +420,9 @@
   }, 
   "45": {
     "1": "10 Scratch", 
-    "15": "21 tackle", 
-    "22": "55 Dragons-Fury", 
-    "29": "85 Bonemerang", 
+    "15": "55 Dragons-Fury", 
+    "22": "85 Bonemerang", 
+    "29": "88 Deep-Scratches", 
     "36": "13 Hymn of the Sword", 
     "44": "19 Mega-Kick", 
     "51": "98 Draconic-Punch", 
@@ -430,9 +430,9 @@
   }, 
   "46": {
     "1": "10 Scratch", 
-    "15": "21 tackle", 
-    "22": "55 Dragons-Fury", 
-    "29": "85 Bonemerang", 
+    "15": "55 Dragons-Fury", 
+    "22": "85 Bonemerang", 
+    "29": "88 Deep-Scratches", 
     "36": "13 Hymn of the Sword", 
     "44": "19 Mega-Kick", 
     "51": "98 Draconic-Punch", 
@@ -440,9 +440,9 @@
   }, 
   "47": {
     "1": "10 Scratch", 
-    "15": "21 tackle", 
-    "22": "55 Dragons-Fury", 
-    "29": "85 Bonemerang", 
+    "15": "55 Dragons-Fury", 
+    "22": "85 Bonemerang", 
+    "29": "88 Deep-Scratches", 
     "36": "13 Hymn of the Sword", 
     "44": "19 Mega-Kick", 
     "51": "98 Draconic-Punch", 

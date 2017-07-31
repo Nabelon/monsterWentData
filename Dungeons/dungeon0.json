@@ -64,11 +64,11 @@
 			"name": "Crying Singlemom Anabel",
 			"team": [{
 					"id": 15,
-					"lvl": 18
+					"lvl": 16
 				},
 				{
 					"id": 33,
-					"lvl": 20
+					"lvl": 18
 				}
 			],
 			"reward": [
@@ -113,7 +113,7 @@
 		{
 			"name": "Toddler Kim",
 			"team": [{
-					"id": 11,
+					"id": 45,
 					"lvl": 25
 				},
 				{
@@ -131,16 +131,16 @@
 		{
 			"name": "Toddler leader Justus",
 			"team": [{
-					"id": 1,
-					"lvl": 25
+					"id": 34,
+					"lvl": 26
 				},
 				{
-					"id": 4,
-					"lvl": 25
+					"id": 46,
+					"lvl": 26
 				},
 				{
-					"id": 8,
-					"lvl": 27
+					"id": 52,
+					"lvl": 28
 				}
 			],
 			"reward": [

@@ -1,0 +1,20 @@
+{
+  "0": {
+    "fileName": "dungeon0", 
+    "name": "Playground", 
+    "requirement": 0, 
+    "size": 8
+  }, 
+  "1": {
+    "fileName": "dungeon1", 
+    "name": "School", 
+    "requirement": 5, 
+    "size": 8
+  }, 
+  "2": {
+    "fileName": "dungeon2", 
+    "name": "Adventure Park", 
+    "requirement": 12, 
+    "size": 8
+  }
+}
