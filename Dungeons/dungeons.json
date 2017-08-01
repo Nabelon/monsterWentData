@@ -16,5 +16,11 @@
     "name": "Adventure Park", 
     "requirement": 12, 
     "size": 8
+  }, 
+  "3": {
+    "fileName": "dungeon3", 
+    "name": "University", 
+    "requirement": 17, 
+    "size": 8
   }
 }
