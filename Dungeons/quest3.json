@@ -31,7 +31,7 @@
 				[1, 5], [60, 1]
 			],
 			"engageText": "I like my beautiful hair",
-			"loseText": "Why you cut them?",
+			"loseText": "Why did you cut them?",
 			"winText": "Beauuuutiful"
 		},
 		{
@@ -54,7 +54,7 @@
 			],
 			"engageText": "Learning is all you need",
 			"loseText": "I Misslearned",
-			"winText": "i told you"
+			"winText": "I told you"
 		},
 		{
 			"name": "Disgusting canteen",
@@ -75,8 +75,8 @@
 				[61, 1],[10,5]
 			],
 			"engageText": "You need something to eat?",
-			"loseText": "You got the healthy one",
-			"winText": "Eat some yukky fish!"
+			"loseText": "Pizza Day!",
+			"winText": "Yesterdays leftover is all a nobody like you will ever get"
 		},
 		{
 			"name": "Bad boy named Exames",
@@ -134,7 +134,7 @@
 			],
 			"engageText": "Can Nabelon handle it?",
 			"loseText": "He is the best computer scientist i ever saw",
-			"winText": "He sucks at computer scientist"
+			"winText": "He sucks at computerscience"
 		},
 		{
 			"name": "Doctor YouNeedForMoney",
