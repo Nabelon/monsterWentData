@@ -1,0 +1,162 @@
+{
+	"name": "University",
+	"id": 3,
+    "requirement": 17,
+	"trainers": [{
+			"name": "Strange Dude",
+			"team": [{
+					"id": 39,
+					"lvl": 40
+				}	
+			],
+			"reward": [
+				[0, 10],[10, 5]
+			],
+			"engageText": "I want to sniff at you!",
+			"loseText": "Disgusting",
+			"winText": "Thats so sweet"
+		},
+		{
+			"name": "Beautiful Susi",
+			"team": [{
+					"id": 35,
+					"lvl": 43
+				},
+				{
+					"id": 52,
+					"lvl": 45
+				}
+			],
+			"reward": [
+				[1, 5], [60, 1]
+			],
+			"engageText": "I like my beautiful hair",
+			"loseText": "Why you cut them?",
+			"winText": "Beauuuutiful"
+		},
+		{
+			"name": "Lecture Georg",
+			"team": [{
+					"id": 43,
+					"lvl": 45
+				},
+				{
+					"id": 38,
+					"lvl": 47
+				},
+				{
+					"id": 46,
+					"lvl": 47
+				}
+			],
+			"reward": [
+				[40, 2],[50, 2],[20, 2],[33, 1]
+			],
+			"engageText": "Learning is all you need",
+			"loseText": "I Misslearned",
+			"winText": "i told you"
+		},
+		{
+			"name": "Disgusting canteen",
+			"team": [{
+					"id": 54,
+					"lvl": 50
+				},
+				{
+					"id": 48,
+					"lvl": 50
+				},
+				{
+					"id": 22,
+					"lvl": 52
+				}
+			],
+			"reward": [
+				[61, 1],[10,5]
+			],
+			"engageText": "You need something to eat?",
+			"loseText": "You got the healthy one",
+			"winText": "Eat some yukky fish!"
+		},
+		{
+			"name": "Bad boy named Exames",
+			"team": [{
+					"id": 44,
+					"lvl": 55
+				},
+				{
+					"id": 37,
+					"lvl": 56
+				}
+			],
+			"reward": [
+				[20, 3],[2, 3],[60, 1]
+			],
+			"engageText": "No chance",
+			"loseText": "You passed",
+			"winText": "You failed"
+		},
+		{
+			"name": "Bachelorette",
+			"team": [{
+					"id": 40,
+					"lvl": 57
+				},
+				{
+					"id": 41,
+					"lvl": 57
+				},
+				{
+					"id": 42,
+					"lvl": 59
+				}
+			],
+			"reward": [
+				[21, 3],[11, 3],[2, 5]
+			],
+			"engageText": "You want a rose",
+			"loseText": "You took all?!?!",
+			"winText": "No one for you ;)"
+		},
+		{
+			"name": "Master Unity",
+			"team": [{
+					"id": 33,
+					"lvl": 60
+				},
+				{
+					"id": 15,
+					"lvl": 62
+				}
+			],
+			"reward": [
+				[11, 5],[2, 5],[40, 2],[50, 2]
+			],
+			"engageText": "Can Nabelon handle it?",
+			"loseText": "He is the best computer scientist i ever saw",
+			"winText": "He sucks at computer scientist"
+		},
+		{
+			"name": "Doctor YouNeedForMoney",
+			"team": [{
+					"id": 50,
+					"lvl": 60
+				},
+				{
+					"id": 53,
+					"lvl": 63
+				},
+				{
+					"id": 47,
+					"lvl": 65
+				}
+			],
+			"reward": [
+				[61, 2],[2, 10]
+			],
+			"engageText": "When you win you will be rich",
+			"loseText": "There is your money",
+			"winText": "You dont get any money"
+		}
+	]
+}
