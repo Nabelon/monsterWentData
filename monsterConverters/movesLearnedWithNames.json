@@ -141,14 +141,14 @@
     "2": "21 tackle"
   }, 
   "15": {
-    "1": "29 Weeping", 
+    "1": "48 Absorber", 
     "15": "50 Growth", 
     "23": "32 Sleeping-Song", 
     "24": "49 mega-drain", 
     "33": "67 Inner-Peace", 
     "38": "14 Wing-Strike", 
-    "45": "114 Pixie Dust", 
-    "59": "38 Waterfall"
+    "59": "38 Waterfall", 
+    "9": "114 Pixie Dust"
   }, 
   "16": {
     "1": "27 Poison Sting", 
@@ -205,21 +205,21 @@
     "34": "34 Acid"
   }, 
   "23": {
-    "1": "21 tackle", 
+    "1": "10 Scratch", 
     "16": "26 Tail-Whip", 
     "23": "88 Deep-Scratches", 
     "27": "3 Multihit", 
     "33": "85 Bonemerang", 
-    "7": "10 Scratch", 
+    "7": "21 tackle", 
     "75": "4 Cosmic-Multipunch"
   }, 
   "24": {
-    "1": "21 tackle", 
+    "1": "10 Scratch", 
     "16": "26 Tail-Whip", 
     "23": "88 Deep-Scratches", 
     "27": "3 Multihit", 
     "33": "85 Bonemerang", 
-    "7": "10 Scratch", 
+    "7": "21 tackle", 
     "75": "4 Cosmic-Multipunch"
   }, 
   "25": {
