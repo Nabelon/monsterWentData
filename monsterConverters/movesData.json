@@ -65,32 +65,32 @@
 			"crit_rate": 0,
 			"flinch_chance": 0,
 			"max_hits": 5,
-			"min_hits": 2,
+			"min_hits": 3,
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
 		"name": "Cosmic-Multipunch",
 		"pp": 15,
 		"prio": 0,
-		"text": "2 - 5 hits fall from the sky",
+		"text": "3 - 5 hits fall from the sky",
 		"type": "normal"
 	},
 	"5": {
 		"acc": 85,
 		"cat": "physical",
-		"dmg": 90,
+		"dmg": 100,
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
 			"crit_rate": 0,
-			"flinch_chance": 0,
+			"flinch_chance": 20,
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
 		"name": "Ultimate-Punch",
 		"pp": 10,
 		"prio": 0,
-		"text": "Inflicts much damage.",
+		"text": "Inflicts much damage. Enemy has a chance to flinch",
 		"type": "normal"
 	},
 	"6": {

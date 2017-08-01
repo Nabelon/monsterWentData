@@ -63,12 +63,12 @@
 		{
 			"name": "Crying Singlemom Anabel",
 			"team": [{
-					"id": 15,
-					"lvl": 16
+					"id": 33,
+					"lvl": 14
 				},
 				{
-					"id": 33,
-					"lvl": 18
+					"id": 34,
+					"lvl": 16
 				}
 			],
 			"reward": [
@@ -82,11 +82,11 @@
 			"name": "Shady Guy Dog",
 			"team": [{
 					"id": 29,
-					"lvl": 20
+					"lvl": 18
 				},
 				{
 					"id": 21,
-					"lvl": 21
+					"lvl": 20
 				}
 			],
 			"reward": [
@@ -114,11 +114,11 @@
 			"name": "Toddler Kim",
 			"team": [{
 					"id": 45,
-					"lvl": 25
+					"lvl": 22
 				},
 				{
 					"id": 25,
-					"lvl": 25
+					"lvl": 24
 				}
 			],
 			"reward": [
