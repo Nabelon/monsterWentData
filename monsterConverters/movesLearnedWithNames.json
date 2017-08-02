@@ -65,14 +65,14 @@
   }, 
   "7": {
     "1": "10 Scratch", 
+    "11": "130 Thorn thrust", 
     "13": "52 Poison-Potion", 
     "20": "48 Absorber", 
-    "27": "53 Sleep-Potion", 
-    "35": "51 Storm of leafs", 
-    "40": "49 mega-drain", 
+    "27": "131 Grassdagger", 
+    "35": "53 Sleep-Potion", 
+    "40": "51 Storm of leafs", 
     "44": "20 headbutt", 
     "53": "88 Deep-Scratches", 
-    "71": "99 Power-Drain", 
     "9": "29 Weeping"
   }, 
   "8": {
@@ -147,6 +147,7 @@
     "24": "49 mega-drain", 
     "33": "67 Inner-Peace", 
     "38": "14 Wing-Strike", 
+    "42": "132 Natures Grip", 
     "59": "38 Waterfall", 
     "9": "114 Pixie Dust"
   }, 
@@ -353,22 +354,26 @@
   "38": {
     "1": "21 tackle", 
     "17": "52 Poison-Potion", 
-    "23": "48 Absorber", 
+    "23": "130 Thorn thrust", 
     "30": "53 Sleep-Potion", 
     "39": "51 Storm of leafs", 
     "43": "49 mega-drain", 
     "44": "20 headbutt", 
-    "55": "99 Power-Drain"
+    "55": "99 Power-Drain", 
+    "61": "132 Natures Grip", 
+    "7": "48 Absorber"
   }, 
   "39": {
     "1": "21 tackle", 
     "17": "52 Poison-Potion", 
-    "23": "48 Absorber", 
+    "23": "130 Thorn thrust", 
     "30": "53 Sleep-Potion", 
     "39": "51 Storm of leafs", 
     "43": "49 mega-drain", 
     "44": "20 headbutt", 
-    "55": "99 Power-Drain"
+    "55": "99 Power-Drain", 
+    "61": "132 Natures Grip", 
+    "7": "48 Absorber"
   }, 
   "40": {
     "1": "24 thrash", 

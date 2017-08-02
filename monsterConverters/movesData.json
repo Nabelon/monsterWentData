@@ -2583,7 +2583,7 @@
 		"name": "Defense-Stance",
 		"pp": 20,
 		"prio": 1,
-		"text": "Got priority 1 and gives you Armor and mRes",
+		"text": "Got priority 1 and gives you armor and mRes",
 		"type": "fighting"
 	},
 	"129": {
@@ -2604,6 +2604,64 @@
 		"prio": 0,
 		"text": "Drains 75% the damage inflicted to heal the user.",
 		"type": "fighting"
+	},
+	"130": {
+		"acc": 90,
+		"cat": "physical",
+		"dmg": 30,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 1,
+			"flinch_chance": 20,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Thorn thrust",
+		"pp": 30,
+		"prio": 0,
+		"text": "Critical hit rate is one level higher when using this move. Enemy may flinch",
+		"type": "nature"
+	},
+	"131": {
+		"acc": 95,
+		"cat": "physical",
+		"dmg": 60,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 30,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Grassdagger",
+		"pp": 25,
+		"prio": 0,
+		"text": "Enemy may flinch",
+		"type": "nature"
+	},
+	"132": {
+		"acc": 70,
+		"cat": "magic",
+		"dmg": 110,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "speed",
+			"change": -1
+		}],
+		"name": "Natures Grip",
+		"pp": 5,
+		"prio": 0,
+		"text": "Reduced users speed",
+		"type": "nature"
 	}
 
 }

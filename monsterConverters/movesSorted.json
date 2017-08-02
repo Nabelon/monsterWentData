@@ -98,6 +98,9 @@
     "Everfrost Id:41 Str:110 Acc:80 cat: magic"
   ], 
   "nature": [
+    "Natures Grip Id:132 Str:110 Acc:70 cat: magic", 
+    "Grassdagger Id:131 Str:60 Acc:95 cat: physical", 
+    "Thorn thrust Id:130 Str:30 Acc:90 cat: physical", 
     "Double-Sting Id:28 Str:25 Acc:100 cat: physical", 
     "Swarm atk Id:124 Str:20 Acc:90 cat: physical", 
     "String-Trap Id:54 Str:None Acc:95 cat: status", 
@@ -138,7 +141,7 @@
     "slam Id:16 Str:80 Acc:75 cat: physical", 
     "Mega-Kick Id:19 Str:120 Acc:75 cat: physical", 
     "Pound Id:1 Str:35 Acc:100 cat: physical", 
-    "Ultimate-Punch Id:5 Str:90 Acc:85 cat: physical", 
+    "Ultimate-Punch Id:5 Str:100 Acc:85 cat: physical", 
     "Kamikaze Id:74 Str:200 Acc:100 cat: physical", 
     "Shell Id:72 Str:None Acc:100 cat: status", 
     "recover Id:71 Str:None Acc:100 cat: status", 
