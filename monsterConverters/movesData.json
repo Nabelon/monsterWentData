@@ -1566,7 +1566,7 @@
 		},
 		"statChangesS": [{
 			"stat": "mAtk",
-			"change": -1
+			"change": 2
 		}],
 		"name": "Soulforce",
 		"pp": 20,
@@ -2287,7 +2287,7 @@
         "statChangesT": [
         {
             "stat": "mRes", 
-            "change": 1
+            "change": -1
         }], 
 		"name": "Pixie Dust",
 		"pp": 15,
