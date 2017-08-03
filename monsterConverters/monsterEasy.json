@@ -701,13 +701,13 @@
 			"electro"
 		],
 		"baseStats": {
-			"total": 390,
-			"mAtk": 55,
-			"hp": 55,
-			"atk": 55,
-			"armor": 55,
-			"speed": 55,
-			"mRes": 55
+			"total": 360,
+			"mAtk": 50,
+			"hp": 50,
+			"atk": 50,
+			"armor": 50,
+			"speed": 50,
+			"mRes": 50
 		}
 	},
 
@@ -881,7 +881,7 @@
 			"water","earth"
 		],
 		"baseStats": {
-			"total": 410,
+			"total": 400,
 			"mAtk": 1,
 			"hp": 1.2,
 			"atk": 0.8,
