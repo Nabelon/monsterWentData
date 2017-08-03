@@ -203,7 +203,7 @@
 			"nature"
 		],
 		"baseStats": {
-			"total": 200,
+			"total": 240,
 			"mAtk": 0.7,
 			"hp": 1,
 			"atk": 0.7,
@@ -220,7 +220,7 @@
 			"nature"
 		],
 		"baseStats": {
-			"total": 250,
+			"total": 280,
 			"mAtk": 0.6,
 			"hp": 1.5,
 			"atk": 0.6,
@@ -252,13 +252,13 @@
 			"nature"
 		],
 		"baseStats": {
-			"total": 200,
-			"mAtk": 22,
-			"hp": 40,
-			"atk": 33,
-			"armor": 25,
-			"speed": 45,
-			"mRes": 30
+			"total": 240,
+			"mAtk": 0.7,
+			"hp": 1.0,
+			"atk": 1.3,
+			"armor": 0.8,
+			"speed": 1.3,
+			"mRes": 0.8
 		}
 	},
 	"17": {
@@ -269,13 +269,13 @@
 			"nature"
 		],
 		"baseStats": {
-			"total": 250,
-			"mAtk": 43,
-			"hp": 50,
-			"atk": 29,
-			"armor": 55,
-			"speed": 25,
-			"mRes": 90
+			"total": 280,
+			"mAtk": 0.7,
+			"hp": 1.0,
+			"atk": 1.3,
+			"armor": 0.8,
+			"speed": 1.3,
+			"mRes": 0.8
 		}
 	},
 	"18": {
@@ -285,12 +285,12 @@
 		],
 		"baseStats": {
 			"total": 450,
-			"mAtk": 65,
-			"hp": 63,
-			"atk": 105,
-			"armor": 69,
-			"speed": 87,
-			"mRes": 77
+			"mAtk": 0.7,
+			"hp": 1.0,
+			"atk": 1.3,
+			"armor": 0.8,
+			"speed": 1.3,
+			"mRes": 0.8
 		}
 	},
 	"19": {
@@ -301,13 +301,13 @@
 			"earth"
 		],
 		"baseStats": {
-			"total": 360,
-			"mAtk": 30,
-			"hp": 60,
-			"atk": 60,
+			"total": 330,
+			"mAtk": 25,
+			"hp": 50,
+			"atk": 50,
 			"armor": 40,
 			"speed": 50,
-			"mRes": 40
+			"mRes": 35
 		}
 	},
 	"20": {
@@ -617,13 +617,13 @@
 			"nature"
 		],
 		"baseStats": {
-			"total": 400,
-			"mAtk": 75,
-			"hp": 55,
-			"atk": 45,
-			"armor": 55,
-			"speed": 55,
-			"mRes": 55
+			"total": 360,
+			"mAtk": 1.1,
+			"hp": 0.8,
+			"atk": 1.1,
+			"armor": 0.8,
+			"speed": 1.1,
+			"mRes": 0.8
 		}
 	},
 
@@ -634,12 +634,12 @@
 		],
 		"baseStats": {
 			"total": 470,
-			"mAtk": 60,
-			"hp": 95,
-			"atk": 95,
-			"armor": 85,
-			"speed": 60,
-			"mRes": 85
+			"mAtk": 1.1,
+			"hp": 0.8,
+			"atk": 1.1,
+			"armor": 0.8,
+			"speed": 1.1,
+			"mRes": 0.8
 		}
 	},
 
