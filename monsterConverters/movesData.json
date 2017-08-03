@@ -429,21 +429,21 @@
 	"23": {
 		"acc": 90,
 		"cat": "physical",
-		"dmg": 12,
+		"dmg": 25,
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
-			"max_turns": 6,
-			"min_turns": 4,
+			"max_turns": 3,
+			"min_turns": 2,
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
 		"name": "wrap",
 		"pp": 20,
 		"prio": 0,
-		"text": "Deals damage over 4-6 turns",
+		"text": "Deals damage over 2-3 turns",
 		"type": "normal"
 	},
 	"24": {
