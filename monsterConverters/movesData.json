@@ -928,7 +928,7 @@
 	"48": {
 		"acc": 100,
 		"cat": "magic",
-		"dmg": 30,
+		"dmg": 40,
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
@@ -947,7 +947,7 @@
 	"49": {
 		"acc": 100,
 		"cat": "magic",
-		"dmg": 40,
+		"dmg": 50,
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
