@@ -109,8 +109,8 @@
     "Bloodleech Id:80 Str:45 Acc:90 cat: physical", 
     "Power-Drain Id:99 Str:80 Acc:100 cat: magic", 
     "Vine-Whip Id:17 Str:45 Acc:100 cat: physical", 
-    "Absorber Id:48 Str:30 Acc:100 cat: magic", 
-    "mega-drain Id:49 Str:40 Acc:100 cat: magic"
+    "Absorber Id:48 Str:40 Acc:100 cat: magic", 
+    "mega-drain Id:49 Str:50 Acc:100 cat: magic"
   ], 
   "normal": [
     "thrash Id:24 Str:10 Acc:100 cat: physical", 
@@ -119,7 +119,7 @@
     "headbutt Id:20 Str:90 Acc:100 cat: physical", 
     "tackle Id:21 Str:40 Acc:100 cat: physical", 
     "body-slam Id:22 Str:100 Acc:100 cat: physical", 
-    "wrap Id:23 Str:12 Acc:90 cat: physical", 
+    "wrap Id:23 Str:20 Acc:90 cat: physical", 
     "Weeping Id:29 Str:None Acc:100 cat: status", 
     "Cosmic-Multipunch Id:4 Str:18 Acc:85 cat: physical", 
     "Growth Id:50 Str:None Acc:100 cat: status", 

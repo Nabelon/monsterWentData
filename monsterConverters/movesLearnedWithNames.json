@@ -100,13 +100,13 @@
   "10": {
     "1": "45 Peck", 
     "15": "26 Tail-Whip", 
+    "2": "29 Weeping", 
     "22": "47 fast-kick", 
     "3": "10 Scratch", 
     "30": "14 Wing-Strike", 
     "37": "46 Heavy-Peck", 
     "50": "82 Timewaste", 
-    "61": "112 Hurricane", 
-    "7": "29 Weeping"
+    "61": "112 Hurricane"
   }, 
   "11": {
     "1": "45 Peck", 
@@ -131,14 +131,17 @@
     "7": "29 Weeping"
   }, 
   "13": {
-    "1": "23 wrap", 
+    "1": "15 Bind", 
+    "13": "23 wrap", 
     "15": "48 Absorber", 
     "3": "29 Weeping", 
     "9": "21 tackle"
   }, 
   "14": {
     "1": "29 Weeping", 
-    "2": "21 tackle"
+    "2": "21 tackle", 
+    "3": "15 Bind", 
+    "4": "50 Growth"
   }, 
   "15": {
     "1": "48 Absorber", 
