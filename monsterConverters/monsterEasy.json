@@ -410,7 +410,7 @@
 	"26": {
 		"name": "Pteromy",
 		"types": [
-			"air", "fighting"
+			"air"
 		],
 		"baseStats": {
 			"total": 410,

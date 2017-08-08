@@ -295,13 +295,13 @@
 		"landuse": ["generator","park"],
         "weather": ["sun"],
         "time": ["day","evening","morning"],
-        "rarity": 4
+        "rarity": 3
 	},
 	"50": {
 		"landuse": ["generator"],
         "weather": ["sun"],
         "time": ["day","evening","morning"],
-        "rarity": 4
+        "rarity": 2
 	},
 	"51": {
 		"landuse": ["village_green","glacier","petting_zoo"],

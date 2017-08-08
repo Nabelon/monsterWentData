@@ -429,7 +429,7 @@
 	"23": {
 		"acc": 90,
 		"cat": "physical",
-		"dmg": 25,
+		"dmg": 20,
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
@@ -456,14 +456,11 @@
 			"crit_rate": 0,
 			"flinch_chance": 50,
 			"statChanceS": 100,
-			"statChanceT": 100
+			"statChanceT": 50
 		},
         "statChangesT": [{
-            "stat": "armor",
-            "change": -1
-        }, {
             "stat": "atk",
-            "change": -1
+            "change": -2
         }],
 	"statChangesS": [{
 		"stat": "atk",
