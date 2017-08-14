@@ -878,7 +878,7 @@
 	"54": {
 		"name": "Nepfatus",
 		"types": [
-			"water","earth"
+			"water","nature"
 		],
 		"baseStats": {
 			"total": 400,
@@ -893,7 +893,7 @@
 	"55": {
 		"name": "Neplaro",
 		"types": [
-			"water","earth"
+			"water","nature"
 		],
 		"baseStats": {
 			"total": 480,

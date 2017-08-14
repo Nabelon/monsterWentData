@@ -2,25 +2,25 @@
 	
 	"1": {
 		"landuse": ["urban area","residential","park"],
-        "weather": ["sun"],
+        "weather": ["clear"],
         "time": ["day","evening","night"],
         "rarity": 3
 	},
 	"2": {
 		"landuse": ["urban area","residential"],
-        "weather": ["sun"],
+        "weather": ["clear"],
         "time": ["day","evening","night"],
         "rarity": 2
 	},
 	"3": {
 		"landuse": ["residential"],
-        "weather": ["sun"],
+        "weather": ["clear"],
         "time": ["day","evening","night"],
         "rarity": 1
 	},
 	"4": {
 		"landuse": ["water","riverbank","park"],
-        "weather": ["cloud","rain","sun"],
+        "weather": ["cloud","rain","clear"],
         "time": ["day","evening","night"],
         "rarity": 3
 	},
@@ -38,105 +38,105 @@
 	},
     "7": {
 		"landuse": ["park","grass","forest","recreation_ground"],
-        "weather": ["sun","cloud"],
+        "weather": ["clear","cloud"],
         "time": ["day","morning"],
         "rarity": 3
 	},
 	"8": {
 		"landuse": ["park","grass","forest"],
-        "weather": ["sun"],
+        "weather": ["clear"],
         "time": ["day","morning"],
         "rarity": 2
 	},
 	"9": {
 		"landuse": ["grass","forest","wood"],
-        "weather": ["sun"],
+        "weather": ["clear"],
         "time": ["day"],
         "rarity": 1
 	},
 	"10": {
 		"landuse": ["residential"],
-        "weather": ["sun","cloud","rain"],
+        "weather": ["clear","cloud","rain"],
         "time": ["day","evening","morning","night"],
         "rarity": 5
 	},
 	"11": {
 		"landuse": ["residential"],
-        "weather": ["sun","cloud"],
+        "weather": ["clear","cloud"],
         "time": ["day","evening","morning","night"],
         "rarity": 2
 	},
 	"12": {
 		"landuse": ["residential"],
-        "weather": ["sun","cloud"],
+        "weather": ["clear","cloud"],
         "time": ["day","evening","morning","night"],
         "rarity": 1
 	},
 	"13": {
 		"landuse": ["park","grass","forest","wood"],
-        "weather": ["sun","cloud"],
+        "weather": ["clear","cloud"],
         "time": ["day","morning"],
         "rarity": 5
     },
 	"14": {
 		"landuse": ["park","grass","forest","wood"],
-        "weather": ["sun","cloud"],
+        "weather": ["clear","cloud"],
         "time": ["day","morning"],
         "rarity": 4
     },
 	"15": {
 		"landuse": ["park","grass"],
-        "weather": ["sun"],
+        "weather": ["clear"],
         "time": ["morning","day"],
         "rarity": 2
 	},
 	"16": {
 		"landuse": ["grass","forest","wood"],
-        "weather": ["sun","cloud"],
+        "weather": ["clear","cloud"],
         "time": ["evening","night"],
         "rarity": 5
 	},
 	"17": {
 		"landuse": ["grass","forest","wood"],
-        "weather": ["sun","cloud"],
+        "weather": ["clear","cloud"],
         "time": ["evening","night"],
         "rarity": 4
 	},
 	"18": {
 		"landuse": ["park","grass","forest","wood"],
-        "weather": ["sun","cloud"],
+        "weather": ["clear","cloud"],
         "time": ["day","evening","night"],
         "rarity": 2
 	},
 	"19": {
 		"landuse": ["farmland","pitch"],
-        "weather": ["sun","cloud"],
+        "weather": ["clear","cloud"],
         "time": ["day","evening","morning"],
         "rarity": 5
 	},
 	"20": {
 		"landuse": ["farmland","pitch"],
-        "weather": ["sun","cloud"],
+        "weather": ["clear","cloud"],
         "time": ["day","evening","morning"],
         "rarity": 3
 	},
     
 	"21": {
 		"landuse": ["forest","grass","wood"],
-        "weather": ["sun","cloud"],
+        "weather": ["clear","cloud"],
         "time": ["day","evening","morning"],
         "rarity": 4
 	},
 	"22": {
 		"landuse": ["forest","wood","grass"],
-        "weather": ["sun","cloud"],
+        "weather": ["clear","cloud"],
         "time": ["day","evening","morning"],
         "rarity": 2
 	},
     
 	"23": {
 		"landuse": ["residential","recreation_ground"],
-        "weather": ["sun","cloud","rain"],
+        "weather": ["clear","cloud","rain"],
         "time": ["evening","morning","night"],
         "rarity": 5
 	},
@@ -160,80 +160,80 @@
 	},
 	"27": {
 		"landuse": ["ocean","river"],
-        "weather": ["cloud","sun","rain"],
+        "weather": ["cloud","clear","rain"],
         "time": ["evening","morning","night","day"],
         "rarity": 5
 	},
 	"28": {
 		"landuse": ["ocean","river"],
-        "weather": ["cloud","sun","rain"],
+        "weather": ["cloud","clear","rain"],
         "time": ["evening","morning","night"],
         "rarity": 3
     },      
 	"29": {
 		"landuse": ["industrial","wastewater_plant"],
-        "weather": ["cloud","sun","rain"],
+        "weather": ["cloud","clear","rain"],
         "time": ["evening","morning","night"],
         "rarity" : 5
     },      
 	"30": {
 		"landuse": ["industrial","wastewater_plant"],
-        "weather": ["cloud","sun","rain"],
+        "weather": ["cloud","clear","rain"],
         "time": ["evening","morning","night"],
         "rarity" : 3
     },
     
 	"31": {
 		"landuse": ["farmland","national_park"],
-        "weather": ["sun","cloud"],
+        "weather": ["clear","cloud"],
         "time": ["night","evening","morning"],
         "rarity": 3
 	},
 	"32": {
 		"landuse": ["farmland","playground","national_park","theme_park"],
-        "weather": ["sun"],
+        "weather": ["clear"],
         "time": ["night","evening"],
         "rarity": 1
     },      
 	"33": {
 		"landuse": ["forest"],
-        "weather": ["sun"],
+        "weather": ["clear"],
         "time": ["evening","night"],
         "rarity" : 2
     },  
 	"34": {
 		"landuse": ["park","grass","village_green","petting_zoo","school"],
-        "weather": ["cloud","sun"],
+        "weather": ["cloud","clear"],
         "time": ["evening","day","morning"],
         "rarity" : 5
     },
 	"35": {
 		"landuse": ["park","village_green","petting_zoo"],
-        "weather": ["cloud","sun"],
+        "weather": ["cloud","clear"],
         "time": ["evening","day","morning"],
         "rarity" : 3
     },
 	"36": {
 		"landuse": ["industrial","works"],
-        "weather": ["sun","cloud"],
+        "weather": ["clear","cloud"],
         "time": ["evening","day","morning","night"],
         "rarity" : 5
     },
 	"37": {
 		"landuse": ["industrial","works"],
-        "weather": ["sun","cloud"],
+        "weather": ["clear","cloud"],
         "time": ["evening","day","morning","night"],
         "rarity" : 3
     },
 	"38": {
 		"landuse": ["natural_wood","nature_reserve"],
-        "weather": ["cloud","sun","rain"],
+        "weather": ["cloud","clear","rain"],
         "time": ["day","evening","night","morning"],
         "rarity": 5
 	},
 	"39": {
 		"landuse": ["natural_wood","nature_reserve"],
-        "weather": ["cloud","sun","rain"],
+        "weather": ["cloud","clear","rain"],
         "time": ["day","evening","night","morning"],
         "rarity": 2
 	},
@@ -245,61 +245,61 @@
 	},
 	"41": {
 		"landuse": ["battlefield","prison","railway"],
-        "weather": ["cloud","sun","rain"],
+        "weather": ["cloud","clear","rain"],
         "time": ["day","evening","night","morning"],
         "rarity": 5
 	},
 	"42": {
 		"landuse": ["battlefield","prison"],
-        "weather": ["cloud","sun","rain"],
+        "weather": ["cloud","clear","rain"],
         "time": ["day","evening","night","morning"],
         "rarity": 2
 	},
 	"43": {
 		"landuse": ["generator"],
-        "weather": ["cloud","sun"],
+        "weather": ["cloud","clear"],
         "time": ["day","evening","night","morning"],
         "rarity": 4
 	},
 	"44": {
 		"landuse": ["generator"],
-        "weather": ["cloud","sun"],
+        "weather": ["cloud","clear"],
         "time": ["day","evening","night","morning"],
         "rarity": 1
 	},
 	"45": {
 		"landuse": ["park","farmland","resort"],
-        "weather": ["cloud","sun"],
+        "weather": ["cloud","clear"],
         "time": ["day","evening","morning"],
         "rarity": 4
 	},
 	"46": {
 		"landuse": ["park","farmland","resort"],
-        "weather": ["cloud","sun"],
+        "weather": ["cloud","clear"],
         "time": ["day","evening","morning"],
         "rarity": 3
 	},
 	"47": {
 		"landuse": ["park","farmland","resort"],
-        "weather": ["cloud","sun"],
+        "weather": ["cloud","clear"],
         "time": ["day","evening","morning"],
         "rarity": 1
 	},
 	"48": {
 		"landuse": ["generator","park"],
-        "weather": ["sun"],
+        "weather": ["clear"],
         "time": ["day","evening","morning"],
         "rarity": 4
 	},
 	"49": {
 		"landuse": ["generator","park"],
-        "weather": ["sun"],
+        "weather": ["clear"],
         "time": ["day","evening","morning"],
         "rarity": 3
 	},
 	"50": {
 		"landuse": ["generator"],
-        "weather": ["sun"],
+        "weather": ["clear"],
         "time": ["day","evening","morning"],
         "rarity": 2
 	},
@@ -317,19 +317,19 @@
 	},
 	"53": {
 		"landuse": ["glacier"],
-        "weather": ["cloud","sun","rain"],
+        "weather": ["cloud","clear","rain"],
         "time": ["day","evening","night","morning"],
         "rarity": 2
 	},
 	"54": {
 		"landuse": ["river"],
-        "weather": ["cloud","sun","rain"],
+        "weather": ["cloud","clear","rain"],
         "time": ["day","evening","night","morning"],
         "rarity": 4
 	},
 	"55": {
 		"landuse": ["river"],
-        "weather": ["cloud","sun","rain"],
+        "weather": ["cloud","clear","rain"],
         "time": ["day","evening","night","morning"],
         "rarity": 2
 	}
