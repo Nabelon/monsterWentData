@@ -904,5 +904,95 @@
 			"speed": 1,
 			"mRes": 1
 		}
+	},
+	"56": {
+		"name": "Vemeo",
+		"types": [
+			"arcane"
+		],
+		"baseStats": {
+			"total": 300,
+			"mAtk": 1.5,
+			"hp": 0.9,
+			"atk": 0.6,
+			"armor": 0.6,
+			"speed": 0.9,
+			"mRes": 1.3
+		}
+	},
+	"57": {
+		"name": "Vemevon",
+		"types": [
+			"arcane"
+		],
+		"baseStats": {
+			"total": 400,
+			"mAtk": 1.5,
+			"hp": 0.9,
+			"atk": 0.6,
+			"armor": 0.6,
+			"speed": 0.9,
+			"mRes": 1.3
+		}
+	},
+	"58": {
+		"name": "Vemeforius",
+		"types": [
+			"arcane"
+		],
+		"baseStats": {
+			"total": 500,
+			"mAtk": 1.5,
+			"hp": 0.9,
+			"atk": 0.6,
+			"armor": 0.6,
+			"speed": 0.9,
+			"mRes": 1.3
+		}
+	},
+	"59": {
+		"name": "Drakuno",
+		"types": [
+			"dragon"
+		],
+		"baseStats": {
+			"total": 390,
+			"mAtk": 1.1,
+			"hp": 1.2,
+			"atk": 1.1,
+			"armor": 0.8,
+			"speed": 1.1,
+			"mRes": 0.8
+		}
+	},
+	"60": {
+		"name": "Drakdos",
+		"types": [
+			"dragon"
+		],
+		"baseStats": {
+			"total": 440,
+			"mAtk": 1.1,
+			"hp": 1.2,
+			"atk": 1.1,
+			"armor": 0.8,
+			"speed": 1.1,
+			"mRes": 0.8
+		}
+	},
+	"61": {
+		"name": "Draktres",
+		"types": [
+			"dragon"
+		],
+		"baseStats": {
+			"total": 490,
+			"mAtk": 1.1,
+			"hp": 1.2,
+			"atk": 1.1,
+			"armor": 0.8,
+			"speed": 1.1,
+			"mRes": 0.8
+		}
 	}
 }

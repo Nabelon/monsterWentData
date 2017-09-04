@@ -1220,7 +1220,7 @@
 	"63": {
 		"acc": 100,
 		"cat": "magic",
-		"dmg": 50,
+		"dmg": 40,
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 50,

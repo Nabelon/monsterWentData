@@ -7,8 +7,8 @@ def main():
     print "deleting old data"
     spawnPlaces[0] = {}
     print "adding pokes"
-    for i in range(1,56):
-        print "next: %d" % i
+    for i in monsters.keys():
+        print "next: " + i
         if str(i) in monsters.keys(): #pokedex is not full :/
             monster = monsters[str(i)]
             for q in monster["landuse"]:

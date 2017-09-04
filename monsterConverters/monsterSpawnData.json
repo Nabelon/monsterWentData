@@ -332,5 +332,41 @@
         "weather": ["cloud","clear","rain"],
         "time": ["day","evening","night","morning"],
         "rarity": 2
+	},
+	"56": {
+		"landuse": ["library","university"],
+        "weather": ["cloud","clear"],
+        "time": ["day","evening","night","morning"],
+        "rarity": 5
+	},
+	"57": {
+		"landuse": ["library","university"],
+        "weather": ["cloud","clear"],
+        "time": ["evening","night","morning"],
+        "rarity": 2
+	},
+	"58": {
+		"landuse": ["library","university"],
+        "weather": ["clear"],
+        "time": ["night"],
+        "rarity": 1
+	},
+	"59": {
+		"landuse": ["battlefield","wildlife_park"],
+        "weather": ["cloud","clear"],
+        "time": ["day","evening","night","morning"],
+        "rarity": 3
+	},
+	"60": {
+		"landuse": ["battlefield","wildlife_park"],
+        "weather": ["cloud","clear"],
+        "time": ["day","evening","night","morning"],
+        "rarity": 2
+	},
+	"61": {
+		"landuse": ["battlefield","wildlife_park"],
+        "weather": ["cloud","clear"],
+        "time": ["day","evening","night","morning"],
+        "rarity": 1
 	}
 }
