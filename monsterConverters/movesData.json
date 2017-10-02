@@ -29,7 +29,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Karate-Punch",
+		"name": "Karate Punch",
 		"pp": 15,
 		"prio": 0,
 		"text": "Has a higher critical strike chance",
@@ -69,7 +69,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Cosmic-Multipunch",
+		"name": "Cosmic Multipunch",
 		"pp": 15,
 		"prio": 0,
 		"text": "3 - 5 hits fall from the sky",
@@ -87,7 +87,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Ultimate-Punch",
+		"name": "Ultimate Punch",
 		"pp": 10,
 		"prio": 0,
 		"text": "Inflicts much damage. Enemy has a chance to flinch",
@@ -113,7 +113,7 @@
 			"stat": "atk",
 			"change": 1
 		}],
-		"name": "pay-day",
+		"name": "Pay Day",
 		"pp": 20,
 		"prio": 0,
 		"text": "User makes bad refferences to his favourite game",
@@ -132,7 +132,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Fiery-Fist",
+		"name": "Fiery Fist",
 		"pp": 15,
 		"prio": 0,
 		"text": "Chance to ignite the target.",
@@ -151,7 +151,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Frozen-fist",
+		"name": "Frozen fist",
 		"pp": 15,
 		"prio": 0,
 		"text": "Chance to freeze the target.",
@@ -170,7 +170,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Thunder-Fist",
+		"name": "Thunder Fist",
 		"pp": 15,
 		"prio": 0,
 		"text": "Chance to paralyze the target.",
@@ -270,7 +270,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Wing-Strike",
+		"name": "Wing Strike",
 		"pp": 15,
 		"prio": 0,
 		"text": "Inflicts regular damage.",
@@ -308,7 +308,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "slam",
+		"name": "Slam",
 		"pp": 10,
 		"prio": 0,
 		"text": "Regular atk.",
@@ -326,7 +326,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Vine-Whip",
+		"name": "Vine Whip",
 		"pp": 20,
 		"prio": 0,
 		"text": "Regulare atk.",
@@ -346,7 +346,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Double-Kick",
+		"name": "Double Kick",
 		"pp": 10,
 		"prio": 0,
 		"text": "Hits twice.",
@@ -364,7 +364,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Mega-Kick",
+		"name": "Mega Kick",
 		"pp": 5,
 		"prio": 0,
 		"text": "Regular atk.",
@@ -383,7 +383,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "headbutt",
+		"name": "Headbutt",
 		"pp": 15,
 		"prio": 0,
 		"text": "Has a chance to flinch, user takes 25% of the damage dealt.",
@@ -401,7 +401,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "tackle",
+		"name": "Tackle",
 		"pp": 35,
 		"prio": 0,
 		"text": "The most basic of all atks",
@@ -420,10 +420,10 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "body-slam",
+		"name": "Chop drop",
 		"pp": 10,
 		"prio": 0,
-		"text": "User loses 25% of his hp as recoil.",
+		"text": "User loses 25% of his hp as recoil. The user either falls forward, or jumps up and drops down, hitting the opponent with a chop on the way down.",
 		"type": "normal"
 	},
 	"23": {
@@ -440,7 +440,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "wrap",
+		"name": "Wrap",
 		"pp": 20,
 		"prio": 0,
 		"text": "Deals damage over 2-3 turns",
@@ -469,7 +469,7 @@
 		"stat": "armor",
 		"change": -2
 	}],
-		"name": "thrash",
+		"name": "Thrash",
 		"pp": 10,
 		"prio": 0,
 		"text": "Trashes the enemy",
@@ -488,7 +488,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "double-edge",
+		"name": "Doubleedged Slam",
 		"pp": 15,
 		"prio": 0,
 		"text": "Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.",
@@ -510,7 +510,7 @@
 			"stat": "armor",
 			"change": -1
 		}],
-		"name": "Tail-Whip",
+		"name": "Tailwhip",
 		"pp": 30,
 		"prio": 0,
 		"text": "Lowers the target's armor by one stage.",
@@ -550,7 +550,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Double-Sting",
+		"name": "Double Sting",
 		"pp": 15,
 		"prio": 0,
 		"text": "Hits twice in the same turn.  Has a chance to poison the target.",
@@ -570,7 +570,7 @@
 		},
 		"statChangesT": [{
 			"stat": "atk",
-			"change": 1
+			"change": -1
 		}],
 		"name": "Weeping",
 		"pp": 30,
@@ -631,7 +631,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Sleeping-Song",
+		"name": "Sleeping Song",
 		"pp": 15,
 		"prio": 0,
 		"text": "Puts the target to sleep.",
@@ -728,7 +728,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Water-Gun",
+		"name": "Water Gun",
 		"pp": 25,
 		"prio": 0,
 		"text": "Inflicts regular damage.",
@@ -821,7 +821,7 @@
 			"statChanceT": 0,
 			"healing": 25
 		},
-		"name": "Ying-atk",
+		"name": "Yingstrike",
 		"pp": 20,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Heals user by 25% of its hp",
@@ -840,7 +840,7 @@
 			"statChanceT": 0,
 			"healing": -25
 		},
-		"name": "Yang-atk",
+		"name": "Yangstrike",
 		"pp": 20,
 		"prio": 0,
 		"text": "Inflicts heavy damage.  Damages user by 25% of its hp",
@@ -862,7 +862,7 @@
 			"stat": "atk",
 			"change": -1
 		}],
-		"name": "Northern-Flowers",
+		"name": "Northern Flowers",
 		"pp": 15,
 		"prio": 0,
 		"text": "Chance to lower the target's atk by one stage.",
@@ -898,7 +898,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Heavy-Peck",
+		"name": "Heavy Peck",
 		"pp": 15,
 		"prio": 0,
 		"text": "Inflicts heavy damage.",
@@ -916,7 +916,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "fast-kick",
+		"name": "Fast Kick",
 		"pp": 20,
 		"prio": 2,
 		"text": "Has +2 priority",
@@ -954,7 +954,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "mega-drain",
+		"name": "Megasuction",
 		"pp": 15,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
@@ -1016,7 +1016,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Poison-Potion",
+		"name": "Poison Potion",
 		"pp": 35,
 		"prio": 0,
 		"text": "Poisons the target.",
@@ -1037,7 +1037,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Sleep-Potion",
+		"name": "Sleep Potion",
 		"pp": 10,
 		"prio": 0,
 		"text": "Puts the target to sleep.",
@@ -1059,7 +1059,7 @@
 			"stat": "speed",
 			"change": -2
 		}],
-		"name": "String-Trap",
+		"name": "String Trap",
 		"pp": 40,
 		"prio": 0,
 		"text": "Lowers the target's Speed by two stage.",
@@ -1077,7 +1077,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Dragons-Fury",
+		"name": "Dragons Fury",
 		"pp": 10,
 		"prio": 0,
 		"text": "Regulare atk.",
@@ -1097,7 +1097,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "fire-Trap",
+		"name": "Fire Trap",
 		"pp": 15,
 		"prio": 0,
 		"text": "Lasts 2-3 rounds",
@@ -1116,7 +1116,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Electric-Overload",
+		"name": "Electric Overload",
 		"pp": 20,
 		"prio": 0,
 		"text": "High chance to paralyze the target.",
@@ -1135,7 +1135,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Lightning-Strike",
+		"name": "Lightning Strike",
 		"pp": 10,
 		"prio": 0,
 		"text": "High chance to paralyze the target.",
@@ -1154,7 +1154,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Volt-atk",
+		"name": "Volt Release",
 		"pp": 10,
 		"prio": 0,
 		"text": "Paralyzes the target.",
@@ -1172,7 +1172,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Boulder-Throw",
+		"name": "Boulder Throw",
 		"pp": 10,
 		"prio": 0,
 		"text": "Inflicts regular damage.",
@@ -1232,7 +1232,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Mental-Disorder",
+		"name": "Mental Disorder",
 		"pp": 25,
 		"prio": 0,
 		"text": "Inflicts regular damage.  High Chance to confuse the target.",
@@ -1250,7 +1250,7 @@
 			"statChanceS": 0,
 			"statChanceT": 10
 		},
-		"name": "Ying-Yang-atk",
+		"name": "YingYangstrike",
 		"pp": 10,
 		"prio": 0,
 		"text": "Inflicts heavy damage.  Chance to lower the target's magic armor by one stage.",
@@ -1319,7 +1319,7 @@
 			"stat": "speed",
 			"change": 2
 		}],
-		"name": "Inner-Peace",
+		"name": "Inner Peace",
 		"pp": 30,
 		"prio": 0,
 		"text": "Raises the user's Speed by two stages.",
@@ -1359,10 +1359,10 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Reapers's revenge",
+		"name": "Reaper's revenge",
 		"pp": 5,
 		"prio": 0,
-		"text": "Evil atk.",
+		"text": "Very evil atk.",
 		"type": "chaos"
 	},
 	"70": {
@@ -1444,7 +1444,7 @@
 			"stat": "armor",
 			"change": 2
 		}],
-		"name": "Spirit-Shield",
+		"name": "Spirit Shield",
 		"pp": 20,
 		"prio": 0,
 		"text": "Raises the user's armor by two stages.",
@@ -1501,7 +1501,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Toxic-Cloud",
+		"name": "Toxic Cloud",
 		"pp": 20,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Has a high chance to poison the target.",
@@ -1543,7 +1543,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "flameblast",
+		"name": "Flameblast",
 		"pp": 5,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Chance to ignite the target or user.",
@@ -1643,7 +1643,7 @@
 			"stat": "armor",
 			"change": 2
 		}],
-		"name": "Poison-Shell",
+		"name": "Poison Shell",
 		"pp": 20,
 		"prio": 0,
 		"text": "Raises the user's armor by two stages.",
@@ -1661,7 +1661,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Water-Bullet",
+		"name": "Water Bullet",
 		"pp": 10,
 		"prio": 0,
 		"text": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
@@ -1670,21 +1670,21 @@
 	"85": {
 		"acc": 95,
 		"cat": "physical",
-		"dmg": 45,
+		"dmg": 60,
 		"meta": {
 			"aligmentChanceS": 0,
 			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
 			"max_hits": 2,
-			"min_hits": 2,
+			"min_hits": 1,
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
 		"name": "Bonemerang",
 		"pp": 10,
 		"prio": 0,
-		"text": "Inflicts regular damage.  Hits twice in one turn.",
+		"text": "Inflicts regular damage.  Hits once or twice if you are lucky.",
 		"type": "earth"
 	},
 	"86": {
@@ -1719,7 +1719,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "earth-fall",
+		"name": "Earthfall",
 		"pp": 10,
 		"prio": 0,
 		"text": "Chance to make the target flinch.",
@@ -1737,7 +1737,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Deep-Scratches",
+		"name": "Deep Scratches",
 		"pp": 10,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
@@ -1790,7 +1790,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Flame-Bombardment",
+		"name": "Flame Bombardment",
 		"pp": 25,
 		"prio": 0,
 		"text": "Hits 3-5 times, target may ignite",
@@ -1859,7 +1859,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "snowfall",
+		"name": "Snowfall",
 		"pp": 25,
 		"prio": 0,
 		"text": "Inflicts regular damage.  Has a $effect_chance% chance to freeze the target.",
@@ -1918,7 +1918,7 @@
 			"statChanceS": 0,
 			"statChanceT": 100
 		},
-		"name": "mud-battle",
+		"name": "Mud Battle",
 		"pp": 10,
 		"prio": 0,
 		"text": "Inflicts regular damage. ",
@@ -1940,7 +1940,7 @@
 			"stat": "speed",
 			"change": -1
 		}],
-		"name": "cold-winds",
+		"name": "Cold Winds",
 		"pp": 15,
 		"prio": 0,
 		"text": "High Chance to lower the target's Speed by one stage.",
@@ -1958,7 +1958,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Draconic-Punch",
+		"name": "Draconic Punch",
 		"pp": 5,
 		"prio": 0,
 		"text": "Heavy Damage",
@@ -1977,7 +1977,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Power-Drain",
+		"name": "Power Drain",
 		"pp": 5,
 		"prio": 0,
 		"text": "Drains half the damage inflicted to heal the user.",
@@ -2040,7 +2040,7 @@
 			"stat": "armor",
 			"change": 1
 		}],
-		"name": "Metal-Push",
+		"name": "Metal Push",
 		"pp": 25,
 		"prio": 0,
 		"text": "Raise the user's armor one stage.",
@@ -2117,7 +2117,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "chaos Pact",
+		"name": "Chaos Pact",
 		"pp": 30,
 		"prio": 0,
 		"text": "User loses 50% of his hp",
@@ -2141,7 +2141,7 @@
 			"stat": "atk",
 			"change": -1
 		}],
-		"name": "Unbearable-Whispers",
+		"name": "Unbearable Whispers",
 		"pp": 30,
 		"prio": 0,
 		"text": "Target may start sleeping, may faint, looses atk",
@@ -2178,7 +2178,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "chaosfist",
+		"name": "Chaosfist",
 		"pp": 10,
 		"prio": 0,
 		"text": "Regular damage. Defender may fint",
@@ -2216,7 +2216,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": " Landslide",
+		"name": "Landslide",
 		"pp": 5,
 		"prio": 0,
 		"text": "Heavy damage, Higher crit chance",
@@ -2436,7 +2436,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Saber atk",
+		"name": "Saber Attack",
 		"pp": 5,
 		"prio": 0,
 		"text": "Higher crit rate",
@@ -2469,15 +2469,15 @@
 			"aligmentChanceT": 0,
 			"crit_rate": 0,
 			"flinch_chance": 0,
-            "min_hits": 4,
+            "min_hits": 3,
             "max_hits": 5,
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Swarm atk",
+		"name": "Swarm Attack",
 		"pp": 10,
 		"prio": 0,
-		"text": "atks 4-5 Times",
+		"text": "atks 3-5 Times",
 		"type": "nature"
 	},
 	"125": {
@@ -2527,7 +2527,7 @@
 			"stat": "mRes",
 			"change": -3
 		}],
-		"name": "Heavy-Punch",
+		"name": "Heavy Punch",
 		"pp": 5,
 		"prio": 0,
 		"text": "Drecreases your stats by 3",
@@ -2577,7 +2577,7 @@
 			"stat": "mRes",
 			"change": 1
 		}],
-		"name": "Defense-Stance",
+		"name": "Defensive Stance",
 		"pp": 20,
 		"prio": 1,
 		"text": "Got priority 1 and gives you armor and mRes",
@@ -2632,7 +2632,7 @@
 			"statChanceS": 0,
 			"statChanceT": 0
 		},
-		"name": "Grassdagger",
+		"name": "Grass Dagger",
 		"pp": 25,
 		"prio": 0,
 		"text": "Enemy may flinch",

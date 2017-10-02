@@ -1,18 +1,18 @@
 {
 	"000": {
-        "Category": [
-		"00x cubes",
-		"01x healpotions",
-		"02x revives",
-		"03x crystals",
-		"04x statusItems",
-		"05x ppItems",
-		"06x exp Sweeties"
-        ],
+		"Category": [
+			"00x cubes",
+			"01x healpotions",
+			"02x revives",
+			"03x crystals",
+			"04x statusItems",
+			"05x ppItems",
+			"06x exp Sweeties"
+		],
 		"name": "MonsterCube",
 		"price": 400,
 		"tLevel": 1,
-		"text": "Can be used to catch monster"
+		"text": "Can be used to catch monster, its cubic can save up to 25% more space than a spheric design could do"
 	},
 	"001": {
 		"name": "MegaCube",
@@ -23,14 +23,14 @@
 	"002": {
 		"name": "BestCube",
 		"tLevel": 999,
-		"price": 3000,
+		"price": false,
 		"text": "The best for catching rare monster"
 	},
 	"010": {
 		"name": "HealPot",
 		"tLevel": 1,
 		"price": 500,
-		"useInFight": true,
+		"useInFight": false,
 		"text": "heals 50 hp",
 		"healing": 50
 	},
@@ -38,16 +38,16 @@
 		"name": "BestPot",
 		"tLevel": 5,
 		"price": 2000,
-		"useInFight": true,
+		"useInFight": false,
 		"text": "heals 200 hp",
 		"healing": 200
 	},
 	"020": {
-		"name": "Revive",
+		"name": "Defibrillator",
 		"tLevel": 3,
 		"price": 1500,
 		"sellprice": 400,
-		"useInFight": true,
+		"useInFight": false,
 		"text": "revives a monster with 50% of its hp",
 		"revive": 50
 	},
@@ -55,8 +55,8 @@
 		"name": "Rebirth",
 		"price": 5000,
 		"sellprice": 1000,
-		"tLevel": 5,
-		"useInFight": true,
+		"tLevel": 6,
+		"useInFight": false,
 		"text": "revives a monster with full hp and removes aligments",
 		"revive": 100,
 		"aligment": "none"
@@ -108,12 +108,46 @@
 			"2": "3"
 		}
 	},
+	"034": {
+		"name": "ThunderCrystal",
+		"tLevel": 10,
+		"price": 100000,
+		"sellprice": 2000,
+		"useInFight": false,
+		"text": "Some monsters evolve after eating it ",
+		"evolve_list": {
+		}
+	},
 	"040": {
-		"name": "FirstAidKit",
-		"price": 2000,
+		"name": "Ginger",
+		"price": 1000,
 		"tLevel": 4,
-		"useInFight": true,
-		"text": "Status effect no more",
+		"useInFight": false,
+		"text": "Status effects no more",
 		"aligment": "none"
+	},
+	"050": {
+		"name": "PP Drink+",
+		"tLevel": 5,
+		"price": 1000,
+		"useInFight": false,
+        "pp": 99,
+		"text": "Fills up your Attacks"
+	},
+	"060": {
+		"name": "ExpPlant low",
+		"tLevel": 999,
+		"price": 5000,
+        "exp": 500,
+		"useInFight": false,
+		"text": "Gives one Monster 500 EXP"
+	},
+	"061": {
+		"name": "ExpPlant high",
+		"tLevel": 999,
+		"price": 10000,
+        "exp": 1500,
+		"useInFight": false,
+		"text": "Gives one Monster 1500 EXP"
 	}
 }

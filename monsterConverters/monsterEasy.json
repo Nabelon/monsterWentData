@@ -466,12 +466,12 @@
 		],
 		"baseStats": {
 			"total": 300,
-			"mAtk": 70,
-			"hp": 65,
-			"atk": 45,
-			"armor": 43,
-			"speed": 40,
-			"mRes": 45
+			"mAtk": 1.2,
+			"hp": 1.5,
+			"atk": 0.7,
+			"armor": 0.9,
+			"speed": 0.6,
+			"mRes": 1.4
 		}
 	},
 
@@ -482,12 +482,12 @@
 		],
 		"baseStats": {
 			"total": 430,
-			"mAtk": 100,
-			"hp": 95,
-			"atk": 55,
-			"armor": 63,
-			"speed": 51,
-			"mRes": 65
+			"mAtk": 1.2,
+			"hp": 1.5,
+			"atk": 0.7,
+			"armor": 0.9,
+			"speed": 0.6,
+			"mRes": 1.4
 		}
 	},
 
@@ -993,6 +993,36 @@
 			"armor": 0.8,
 			"speed": 1.1,
 			"mRes": 0.8
+		}
+	},
+	"62": {
+		"name": "Krabsl",
+		"types": [
+			"water"
+		],
+		"baseStats": {
+			"total": 350,
+			"mAtk": 0.7,
+			"hp": 1.0,
+			"atk": 1.5,
+			"armor": 1.8,
+			"speed": 0.9,
+			"mRes": 0.7
+		}
+	},
+	"63": {
+		"name": "Krabking",
+		"types": [
+			"water"
+		],
+		"baseStats": {
+			"total": 470,
+			"mAtk": 0.7,
+			"hp": 1.0,
+			"atk": 1.5,
+			"armor": 1.8,
+			"speed": 0.9,
+			"mRes": 0.7
 		}
 	}
 }

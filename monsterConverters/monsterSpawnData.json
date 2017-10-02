@@ -64,7 +64,7 @@
 		"landuse": ["residential"],
         "weather": ["clear","cloud"],
         "time": ["day","evening","morning","night"],
-        "rarity": 2
+        "rarity": 3
 	},
 	"12": {
 		"landuse": ["residential"],
@@ -368,5 +368,17 @@
         "weather": ["cloud","clear"],
         "time": ["day","evening","night","morning"],
         "rarity": 1
+	},
+	"62": {
+		"landuse": ["river","steam", "riverbank", "water", "ocean"],
+        "weather": ["cloud","clear", "rain"],
+        "time": ["day","evening","night","morning"],
+        "rarity": 5
+	},
+	"63": {
+		"landuse": ["river", "riverbank", "water", "ocean"],
+        "weather": ["cloud","clear", "rain"],
+        "time": ["evening","night","morning"],
+        "rarity": 3
 	}
 }
