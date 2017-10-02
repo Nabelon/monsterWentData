@@ -28,7 +28,7 @@
 	},
 	"010": {
 		"name": "HealPot",
-		"tLevel": 1,
+		"tLevel": 2,
 		"price": 500,
 		"useInFight": false,
 		"text": "heals 50 hp",
