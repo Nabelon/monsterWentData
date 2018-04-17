@@ -877,6 +877,8 @@
 	},
 	"54": {
 		"name": "Nepfatus",
+		"evolveTo": "55",
+		"evolveLevel": 35,
 		"types": [
 			"water","nature"
 		],
@@ -907,6 +909,8 @@
 	},
 	"56": {
 		"name": "Vemeo",
+		"evolveTo": "57",
+		"evolveLevel": 28,
 		"types": [
 			"arcane"
 		],
@@ -922,6 +926,8 @@
 	},
 	"57": {
 		"name": "Vemevon",
+		"evolveTo": "58",
+		"evolveLevel": 53,
 		"types": [
 			"arcane"
 		],
@@ -952,6 +958,8 @@
 	},
 	"59": {
 		"name": "Drakuno",
+		"evolveTo": "60",
+		"evolveLevel": 31,
 		"types": [
 			"dragon"
 		],
@@ -967,6 +975,8 @@
 	},
 	"60": {
 		"name": "Drakdos",
+		"evolveTo": "61",
+		"evolveLevel": 55,
 		"types": [
 			"dragon"
 		],
@@ -986,7 +996,7 @@
 			"dragon"
 		],
 		"baseStats": {
-			"total": 490,
+			"total": 500,
 			"mAtk": 1.1,
 			"hp": 1.2,
 			"atk": 1.1,
@@ -997,6 +1007,8 @@
 	},
 	"62": {
 		"name": "Krabsl",
+		"evolveTo": "63",
+		"evolveLevel": 999,
 		"types": [
 			"water"
 		],
@@ -1023,6 +1035,117 @@
 			"armor": 1.8,
 			"speed": 0.9,
 			"mRes": 0.7
+		}
+	},
+	"64": {
+		"name": "Jebug",
+		"types": [
+			"water"
+		],
+		"baseStats": {
+			"total": 290,
+			"mAtk": 1.0,
+			"hp": 0.9,
+			"atk": 0.8,
+			"armor": 0.9,
+			"speed": 1.3,
+			"mRes": 1.4
+		}
+	},
+	"65": {
+		"name": "Sorcjes",
+		"types": [
+			"water", "arcane"
+		],
+		"baseStats": {
+			"total": 290,
+			"mAtk": 1.3,
+			"hp": 0.9,
+			"atk": 0.8,
+			"armor": 0.9,
+			"speed": 1.3,
+			"mRes": 1.4
+		}
+	},
+	"66": {
+		"evolveTo": "67",
+		"evolveLevel": 999,
+		"name": "Tauro",
+		"types": [
+			"fire", "fighting"
+		],
+		"baseStats": {
+			"total": 310,
+			"mAtk": 0.7,
+			"hp": 1.3,
+			"atk": 1.3,
+			"armor": 1.4,
+			"speed": 1.0,
+			"mRes": 0.9
+		}
+	},
+	"67": {
+		"name": "Pyrotaurus",
+		"types": [
+			"fire", "fighting"
+		],
+		"baseStats": {
+			"total": 450,
+			"mAtk": 0.7,
+			"hp": 1.3,
+			"atk": 1.3,
+			"armor": 1.4,
+			"speed": 1.0,
+			"mRes": 0.9
+		}
+	},
+	"68": {
+		"evolveTo": "69",
+		"evolveLevel": 19,
+		"name": "Ampholdi",
+		"types": [
+			"electro", "water"
+		],
+		"baseStats": {
+			"total": 290,
+			"mAtk": 1.3,
+			"hp": 1.0,
+			"atk": 1.0,
+			"armor": 0.6,
+			"speed": 1.1,
+			"mRes": 1.5
+		}
+	},
+	"69": {
+		"evolveTo": "70",
+		"evolveLevel": 999,
+		"name": "Amphasper",
+		"types": [
+			"electro", "water"
+		],
+		"baseStats": {
+			"total": 370,
+			"mAtk": 1.3,
+			"hp": 1.0,
+			"atk": 1.0,
+			"armor": 0.6,
+			"speed": 1.1,
+			"mRes": 1.5
+		}
+	},
+	"70": {
+		"name": "Amphasi",
+		"types": [
+			"electro", "water"
+		],
+		"baseStats": {
+			"total": 490,
+			"mAtk": 1.3,
+			"hp": 1.0,
+			"atk": 1.0,
+			"armor": 0.6,
+			"speed": 1.1,
+			"mRes": 1.5
 		}
 	}
 }

@@ -1,0 +1,2664 @@
+{
+	"1": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 35,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Pound",
+		"pp": 30,
+		"prio": 0,
+		"text": "Inflicts some damage.",
+		"type": "normal"
+	},
+	"2": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 55,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 1,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Karate Punch",
+		"pp": 15,
+		"prio": 0,
+		"text": "Has a higher critical strike chance",
+		"type": "fighting"
+	},
+	"3": {
+		"acc": 85,
+		"cat": "physical",
+		"dmg": 15,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"max_hits": 5,
+			"min_hits": 2,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Multihit",
+		"pp": 10,
+		"prio": 0,
+		"text": "Hits between 2 and 5 times",
+		"type": "normal"
+	},
+	"4": {
+		"acc": 85,
+		"cat": "physical",
+		"dmg": 18,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"max_hits": 5,
+			"min_hits": 3,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Cosmic Multipunch",
+		"pp": 15,
+		"prio": 0,
+		"text": "3 - 5 hits fall from the sky",
+		"type": "normal"
+	},
+	"5": {
+		"acc": 85,
+		"cat": "physical",
+		"dmg": 100,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 20,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Ultimate Punch",
+		"pp": 10,
+		"prio": 0,
+		"text": "Inflicts much damage. Enemy has a chance to flinch",
+		"type": "normal"
+	},
+	"6": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 20,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 1,
+			"flinch_chance": 50,
+			"statChanceS": 100,
+			"statChanceT": 100
+		},
+		"statChangesT": [{
+			"stat": "atk",
+			"change": -1
+		}],
+		"statChangesS": [{
+			"stat": "atk",
+			"change": 1
+		}],
+		"name": "Pay Day",
+		"pp": 20,
+		"prio": 0,
+		"text": "User makes bad refferences to his favourite game",
+		"type": "normal"
+	},
+	"7": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 70,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 15,
+			"aligmentT": "ignite",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Fiery Fist",
+		"pp": 15,
+		"prio": 0,
+		"text": "Chance to ignite the target.",
+		"type": "fire"
+	},
+	"8": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 70,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 15,
+			"aligmentT": "freeze",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Frozen fist",
+		"pp": 15,
+		"prio": 0,
+		"text": "Chance to freeze the target.",
+		"type": "ice"
+	},
+	"9": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 70,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 10,
+			"aligmentT": "shock",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Thunder Fist",
+		"pp": 15,
+		"prio": 0,
+		"text": "Chance to paralyze the target.",
+		"type": "electric"
+	},
+	"10": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 35,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Scratch",
+		"pp": 30,
+		"prio": 0,
+		"text": "Regular atk.",
+		"type": "normal"
+	},
+	"11": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 55,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Hammer hit",
+		"pp": 25,
+		"prio": 0,
+		"text": "Regular atk.",
+		"type": "normal"
+	},
+	"12": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 20,
+		"meta": {
+			"max_turns": 3,
+			"min_turns": 6,
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 30,
+			"statChanceS": 0,
+			"statChanceT": 100
+		},
+		"statChangesT": [{
+			"stat": "armor",
+			"change": -1
+		}],
+		"name": "Punishment by gale",
+		"pp": 5,
+		"prio": 0,
+		"text": "Lowers targets armor, high flinch chance, deals damage over several turns",
+		"type": "normal"
+	},
+	"13": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": 0,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "atk",
+			"change": 2
+		}],
+		"name": "Hymn of the Sword",
+		"pp": 20,
+		"prio": 0,
+		"text": "Raises the user's atk by two stages.",
+		"type": "normal"
+	},
+	"14": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 70,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Wing Strike",
+		"pp": 15,
+		"prio": 0,
+		"text": "Inflicts regular damage.",
+		"type": "air"
+	},
+	"15": {
+		"acc": 85,
+		"cat": "physical",
+		"dmg": 15,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"max_turns": 6,
+			"min_turns": 5,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Bind",
+		"pp": 20,
+		"prio": 0,
+		"text": "Deals damage over 5-6 turns",
+		"type": "normal"
+	},
+	"16": {
+		"acc": 75,
+		"cat": "physical",
+		"dmg": 80,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Slam",
+		"pp": 10,
+		"prio": 0,
+		"text": "Regular atk.",
+		"type": "normal"
+	},
+	"17": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 45,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Vine Whip",
+		"pp": 20,
+		"prio": 0,
+		"text": "Regulare atk.",
+		"type": "nature"
+	},
+	"18": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 35,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"max_hits": 2,
+			"min_hits": 2,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Double Kick",
+		"pp": 10,
+		"prio": 0,
+		"text": "Hits twice.",
+		"type": "fighting"
+	},
+	"19": {
+		"acc": 75,
+		"cat": "physical",
+		"dmg": 120,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Mega Kick",
+		"pp": 5,
+		"prio": 0,
+		"text": "Regular atk.",
+		"type": "normal"
+	},
+	"20": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 90,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"drain": -25,
+			"flinch_chance": 30,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Headbutt",
+		"pp": 15,
+		"prio": 0,
+		"text": "Has a chance to flinch, user takes 25% of the damage dealt.",
+		"type": "normal"
+	},
+	"21": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 40,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Tackle",
+		"pp": 35,
+		"prio": 0,
+		"text": "The most basic of all atks",
+		"type": "normal"
+	},
+	"22": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 100,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"healing": -25,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Chop drop",
+		"pp": 10,
+		"prio": 0,
+		"text": "User loses 25% of his hp as recoil. The user either falls forward, or jumps up and drops down, hitting the opponent with a chop on the way down.",
+		"type": "normal"
+	},
+	"23": {
+		"acc": 90,
+		"cat": "physical",
+		"dmg": 20,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"max_turns": 3,
+			"min_turns": 2,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Wrap",
+		"pp": 20,
+		"prio": 0,
+		"text": "Deals damage over 2-3 turns",
+		"type": "normal"
+	},
+	"24": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 10,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 50,
+			"statChanceS": 100,
+			"statChanceT": 50
+		},
+        "statChangesT": [{
+            "stat": "atk",
+            "change": -2
+        }],
+	"statChangesS": [{
+		"stat": "atk",
+		"change": 1
+	}, {
+		"stat": "armor",
+		"change": -2
+	}],
+		"name": "Thrash",
+		"pp": 10,
+		"prio": 0,
+		"text": "Trashes the enemy",
+		"type": "normal"
+	},
+	"25": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 120,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"drain": -33,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Doubleedged Slam",
+		"pp": 15,
+		"prio": 0,
+		"text": "Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.",
+		"type": "normal"
+	},
+	"26": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": 0,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 100
+		},
+		"statChangesT": [{
+			"stat": "armor",
+			"change": -1
+		}],
+		"name": "Tailwhip",
+		"pp": 30,
+		"prio": 0,
+		"text": "Lowers the target's armor by one stage.",
+		"type": "normal"
+	},
+	"27": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 20,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 30,
+			"aligmentT": "poison",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Poison Sting",
+		"pp": 30,
+		"prio": 0,
+		"text": "Inflicts regular damage.  Has a chance to poison the target.",
+		"type": "chaos"
+	},
+	"28": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 25,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 40,
+			"aligmentT": "poison",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"max_hits": 2,
+			"min_hits": 2,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Double Sting",
+		"pp": 15,
+		"prio": 0,
+		"text": "Hits twice in the same turn.  Has a chance to poison the target.",
+		"type": "nature"
+	},
+	"29": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 100
+		},
+		"statChangesT": [{
+			"stat": "atk",
+			"change": -1
+		}],
+		"name": "Weeping",
+		"pp": 30,
+		"prio": 0,
+		"text": "Lowers the target's atk by one stage.",
+		"type": "normal"
+	},
+	"30": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 55,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 30,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Bite",
+		"pp": 25,
+		"prio": 0,
+		"text": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+		"type": "chaos"
+	},
+	"31": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 100
+		},
+		"statChangesT": [{
+			"stat": "armor",
+			"change": -2
+		}],
+		"name": "Demotivate",
+		"pp": 40,
+		"prio": 0,
+		"text": "Lowers the target's armor by two stages.",
+		"type": "normal"
+	},
+	"32": {
+		"acc": 50,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 100,
+			"aligmentT": "sleep",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Sleeping Song",
+		"pp": 15,
+		"prio": 0,
+		"text": "Puts the target to sleep.",
+		"type": "normal"
+	},
+	"33": {
+		"acc": 60,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 100,
+			"aligmentT": "confusion",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Sonic Waves",
+		"pp": 20,
+		"prio": 0,
+		"text": "Confuses the target.",
+		"type": "electric"
+	},
+	"34": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 70,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 10
+		},
+		"statChangesT": [{
+			"stat": "mRes",
+			"change": -1
+		}],
+		"name": "Acid",
+		"pp": 10,
+		"prio": 0,
+		"text": "Chance to lower the target's magic armor by one stage.",
+		"type": "chaos"
+	},
+	"35": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 45,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 10,
+			"aligmentT": "ignite",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Fireball",
+		"pp": 25,
+		"prio": 0,
+		"text": "Chance to ignite the target.",
+		"type": "fire"
+	},
+	"36": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 90,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 50,
+			"aligmentT": "ignite",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Wildfire",
+		"pp": 5,
+		"prio": 0,
+		"text": "High chance to ignite the target.",
+		"type": "fire"
+	},
+	"37": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 50,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Water Gun",
+		"pp": 25,
+		"prio": 0,
+		"text": "Inflicts regular damage.",
+		"type": "water"
+	},
+	"38": {
+		"acc": 80,
+		"cat": "magic",
+		"dmg": 110,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Waterfall",
+		"pp": 5,
+		"prio": 0,
+		"text": "Inflicts heavy damage.",
+		"type": "water"
+	},
+	"39": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 85,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Surf",
+		"pp": 15,
+		"prio": 0,
+		"text": "Regular atk",
+		"type": "water"
+	},
+	"40": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 95,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 10,
+			"aligmentT": "freeze",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Phoenix of the North",
+		"pp": 10,
+		"prio": 0,
+		"text": "Chance to freeze the target. Looks very elegant",
+		"type": "ice"
+	},
+	"41": {
+		"acc": 80,
+		"cat": "magic",
+		"dmg": 110,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 20,
+			"aligmentT": "freeze",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Everfrost",
+		"pp": 5,
+		"prio": 0,
+		"text": "Chance to freeze the target. Heavy damage.",
+		"type": "ice"
+	},
+	"42": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 65,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0,
+			"healing": 25
+		},
+		"name": "Yingstrike",
+		"pp": 20,
+		"prio": 0,
+		"text": "Inflicts regular damage.  Heals user by 25% of its hp",
+		"type": "arcane"
+	},
+	"43": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 120,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0,
+			"healing": -25
+		},
+		"name": "Yangstrike",
+		"pp": 20,
+		"prio": 0,
+		"text": "Inflicts heavy damage.  Damages user by 25% of its hp",
+		"type": "arcane"
+	},
+	"44": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 65,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 10
+		},
+		"statChangesT": [{
+			"stat": "atk",
+			"change": -1
+		}],
+		"name": "Northern Flowers",
+		"pp": 15,
+		"prio": 0,
+		"text": "Chance to lower the target's atk by one stage.",
+		"type": "ice"
+	},
+	"45": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 40,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Peck",
+		"pp": 35,
+		"prio": 0,
+		"text": "Inflicts regular damage.",
+		"type": "air"
+	},
+	"46": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 80,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Heavy Peck",
+		"pp": 15,
+		"prio": 0,
+		"text": "Inflicts heavy damage.",
+		"type": "air"
+	},
+	"47": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 60,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Fast Kick",
+		"pp": 20,
+		"prio": 2,
+		"text": "Has +2 priority",
+		"type": "fighting"
+	},
+	"48": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 40,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"drain": 50,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Absorber",
+		"pp": 25,
+		"prio": 0,
+		"text": "Drains half the damage inflicted to heal the user.",
+		"type": "nature"
+	},
+	"49": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 50,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"drain": 50,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Megasuction",
+		"pp": 15,
+		"prio": 0,
+		"text": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+		"type": "nature"
+	},
+	"50": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "atk",
+			"change": 1
+		}, {
+			"stat": "mAtk",
+			"change": 1
+		}],
+		"name": "Growth",
+		"pp": 20,
+		"prio": 0,
+		"text": "Raises the user's atk and magic atk by one stage each.",
+		"type": "normal"
+	},
+	"51": {
+		"acc": 95,
+		"cat": "physical",
+		"dmg": 65,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 1,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Storm of leafs",
+		"pp": 10,
+		"prio": 0,
+		"text": "Critical hit rate is one level higher when using this move.",
+		"type": "nature"
+	},
+	"52": {
+		"acc": 75,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 100,
+			"aligmentT": "poison",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Poison Potion",
+		"pp": 35,
+		"prio": 0,
+		"text": "Poisons the target.",
+		"type": "chaos"
+	},
+	"53": {
+		"acc": 65,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 70,
+			"aligmentT": "sleep",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"max_turns": 4,
+			"min_turns": 2,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Sleep Potion",
+		"pp": 10,
+		"prio": 0,
+		"text": "Puts the target to sleep.",
+		"type": "nature"
+	},
+	"54": {
+		"acc": 95,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 100
+		},
+		"statChangesT": [{
+			"stat": "speed",
+			"change": -2
+		}],
+		"name": "String Trap",
+		"pp": 40,
+		"prio": 0,
+		"text": "Lowers the target's Speed by two stage.",
+		"type": "nature"
+	},
+	"55": {
+		"acc": 90,
+		"cat": "magic",
+		"dmg": 50,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Dragons Fury",
+		"pp": 10,
+		"prio": 0,
+		"text": "Regulare atk.",
+		"type": "dragon"
+	},
+	"56": {
+		"acc": 85,
+		"cat": "magic",
+		"dmg": 30,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"max_turns": 3,
+			"min_turns": 2,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Fire Trap",
+		"pp": 15,
+		"prio": 0,
+		"text": "Lasts 2-3 rounds",
+		"type": "fire"
+	},
+	"57": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 50,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 30,
+			"aligmentT": "shock",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Electric Overload",
+		"pp": 20,
+		"prio": 0,
+		"text": "High chance to paralyze the target.",
+		"type": "electric"
+	},
+	"58": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 90,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 30,
+			"aligmentT": "shock",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Lightning Strike",
+		"pp": 10,
+		"prio": 0,
+		"text": "High chance to paralyze the target.",
+		"type": "electric"
+	},
+	"59": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 100,
+			"aligmentT": "shock",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Volt Release",
+		"pp": 10,
+		"prio": 0,
+		"text": "Paralyzes the target.",
+		"type": "electric"
+	},
+	"60": {
+		"acc": 90,
+		"cat": "physical",
+		"dmg": 100,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Boulder Throw",
+		"pp": 10,
+		"prio": 0,
+		"text": "Inflicts regular damage.",
+		"type": "earth"
+	},
+	"61": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 110,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Earthquake",
+		"pp": 5,
+		"prio": 0,
+		"text": "Inflicts heavy damage.",
+		"type": "earth"
+	},
+	"62": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 100,
+			"aligmentT": "poison",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"max_turns": 15,
+			"min_turns": 15,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Toxic Delivery",
+		"pp": 10,
+		"prio": 0,
+		"text": "Poisons the target.",
+		"type": "chaos"
+	},
+	"63": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 40,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 50,
+			"aligmentT": "confusion",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"max_turns": 5,
+			"min_turns": 2,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Mental Disorder",
+		"pp": 25,
+		"prio": 0,
+		"text": "Inflicts regular damage.  High Chance to confuse the target.",
+		"type": "arcane"
+	},
+	"64": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 100,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 10
+		},
+		"name": "YingYangstrike",
+		"pp": 10,
+		"prio": 0,
+		"text": "Inflicts heavy damage.  Chance to lower the target's magic armor by one stage.",
+		"type": "arcane"
+	},
+	"65": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 50
+		},
+		"statChangesT": [{
+			"stat": "atk",
+			"change": -1
+		}, {
+			"stat": "speed",
+			"change": -1
+		}],
+		"statChangesS": [{
+			"stat": "atk",
+			"change": 1
+		}],
+		"name": "Warcry",
+		"pp": 40,
+		"prio": 0,
+		"text": "Raises the user's atk by one stage. High chance to lower targets atk and speed by one",
+		"type": "arcane"
+	},
+	"66": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 40,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 20,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Tornado",
+		"pp": 20,
+		"prio": 0,
+		"text": "Inflicts regular damage.  Has a $effect_chance% chance to make each target flinch.\n\nIf the target is under the effect of bounce, fly, or sky drop, this move will hit with double power.",
+		"type": "dragon"
+	},
+	"67": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "speed",
+			"change": 2
+		}],
+		"name": "Inner Peace",
+		"pp": 30,
+		"prio": 0,
+		"text": "Raises the user's Speed by two stages.",
+		"type": "arcane"
+	},
+	"68": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 40,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 100
+		},
+		"statChangesT": [{
+			"stat": "armor",
+			"change": -1
+		}],
+		"name": "Betrayal",
+		"pp": 15,
+		"prio": 2,
+		"text": "Inflicts regular damage. Prio +2. Lower targets armor by 1 stage",
+		"type": "normal"
+	},
+	"69": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 110,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Reaper's revenge",
+		"pp": 5,
+		"prio": 0,
+		"text": "Very evil atk.",
+		"type": "chaos"
+	},
+	"70": {
+		"acc": 85,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 100
+		},
+		"statChangesT": [{
+			"stat": "armor",
+			"change": -2
+		}],
+		"name": "Unbearable yell",
+		"pp": 40,
+		"prio": 0,
+		"text": "Lowers the target's armor by two stages.",
+		"type": "normal"
+	},
+	"71": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"healing": 50,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "recover",
+		"pp": 5,
+		"prio": 0,
+		"text": "Heals the user for half its max HP.",
+		"type": "normal"
+	},
+	"72": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "armor",
+			"change": 1
+		}],
+		"name": "Shell",
+		"pp": 30,
+		"prio": 0,
+		"text": "Raises the user's armor by one stage.",
+		"type": "normal"
+	},
+	"73": {
+		"acc": 95,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "armor",
+			"change": 2
+		}],
+		"name": "Spirit Shield",
+		"pp": 20,
+		"prio": 0,
+		"text": "Raises the user's armor by two stages.",
+		"type": "arcane"
+	},
+	"74": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 200,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"healing": -100,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Kamikaze",
+		"pp": 5,
+		"prio": 0,
+		"text": "User faints but deals heavy damage",
+		"type": "normal"
+	},
+	"75": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 30,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 30,
+			"aligmentT": "shock",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Wet willy",
+		"pp": 30,
+		"prio": 0,
+		"text": "Inflicts regular damage.  Has a chance to shock the target.",
+		"type": "chaos"
+	},
+	"76": {
+		"acc": 80,
+		"cat": "magic",
+		"dmg": 25,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 70,
+			"aligmentT": "poison",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Toxic Cloud",
+		"pp": 20,
+		"prio": 0,
+		"text": "Inflicts regular damage.  Has a high chance to poison the target.",
+		"type": "chaos"
+	},
+	"77": {
+		"acc": 85,
+		"cat": "physical",
+		"dmg": 65,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 50,
+			"crit_rate": 0,
+			"flinch_chance": 10,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"statChangesT": [{
+			"stat": "speed",
+			"change": -1
+		}],
+		"name": "Maim",
+		"pp": 20,
+		"prio": 0,
+		"text": "Inflicts regular damage.  Higher chance to make the target flinch. High Cance to lower targets speed",
+		"type": "earth"
+	},
+	"78": {
+		"acc": 85,
+		"cat": "magic",
+		"dmg": 110,
+		"meta": {
+			"aligmentChanceS": 20,
+			"aligmentChanceT": 20,
+			"aligmentT": "ignite",
+			"aligmentS": "ignite",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Flameblast",
+		"pp": 5,
+		"prio": 0,
+		"text": "Inflicts regular damage.  Chance to ignite the target or user.",
+		"type": "fire"
+	},
+	"79": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "mAtk",
+			"change": 2
+		}],
+		"name": "Soulforce",
+		"pp": 20,
+		"prio": 0,
+		"text": "Raises the user's magic atk by two stages.",
+		"type": "arcane"
+	},
+	"80": {
+		"acc": 90,
+		"cat": "physical",
+		"dmg": 45,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"drain": 50,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Bloodleech",
+		"pp": 15,
+		"prio": 0,
+		"text": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+		"type": "nature"
+	},
+	"81": {
+		"acc": 90,
+		"cat": "physical",
+		"dmg": 140,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"drain": -30,
+			"crit_rate": 1,
+			"flinch_chance": 30,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Skyfall",
+		"pp": 5,
+		"prio": 0,
+		"text": "Inflicts Heavy damage.  Critical hit chance is one level higher than normal. Target may flinch, 30% damage recoil",
+		"type": "air"
+	},
+	"82": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Timewaste",
+		"pp": 40,
+		"prio": 0,
+		"text": "Does nothing.",
+		"type": "normal"
+	},
+	"83": {
+		"acc": 90,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "armor",
+			"change": 2
+		}],
+		"name": "Poison Shell",
+		"pp": 20,
+		"prio": 0,
+		"text": "Raises the user's armor by two stages.",
+		"type": "chaos"
+	},
+	"84": {
+		"acc": 80,
+		"cat": "physical",
+		"dmg": 90,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 1,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Water Bullet",
+		"pp": 10,
+		"prio": 0,
+		"text": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+		"type": "water"
+	},
+	"85": {
+		"acc": 95,
+		"cat": "physical",
+		"dmg": 60,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"max_hits": 2,
+			"min_hits": 1,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Bonemerang",
+		"pp": 10,
+		"prio": 0,
+		"text": "Inflicts regular damage.  Hits once or twice if you are lucky.",
+		"type": "earth"
+	},
+	"86": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 100,
+			"aligmentChanceT": 0,
+			"aligmentS": "sleep",
+			"healing": 100,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Powernap",
+		"pp": 10,
+		"prio": 0,
+		"text": "User falls to sleep and immediately regains all its HP.",
+		"type": "arcane"
+	},
+	"87": {
+		"acc": 85,
+		"cat": "physical",
+		"dmg": 60,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 30,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Earthfall",
+		"pp": 10,
+		"prio": 0,
+		"text": "Chance to make the target flinch.",
+		"type": "earth"
+	},
+	"88": {
+		"acc": 80,
+		"cat": "physical",
+		"dmg": 85,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 10,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Deep Scratches",
+		"pp": 10,
+		"prio": 0,
+		"text": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+		"type": "normal"
+	},
+	"89": {
+		"acc": 80,
+		"cat": "magic",
+		"dmg": 60,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 100
+		},
+		"statChangesT": [{
+			"stat": "atk",
+			"change": -3
+		}, {
+			"stat": "mAtk",
+			"change": 3
+		}],
+		"statChangesS": [{
+			"stat": "atk",
+			"change": 3
+		}, {
+			"stat": "mAtk",
+			"change": -3
+		}],
+		"name": "Bribe",
+		"pp": 25,
+		"prio": 0,
+		"text": "User trades mAtk for atk",
+		"type": "chaos"
+	},
+	"90": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 25,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 10,
+			"aligmentT": "ignite",
+			"min_hits": 3,
+			"max_hits": 5,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Flame Bombardment",
+		"pp": 25,
+		"prio": 0,
+		"text": "Hits 3-5 times, target may ignite",
+		"type": "fire"
+	},
+	"91": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "armor",
+			"change": -3
+		}, {
+			"stat": "atk",
+			"change": 3
+		}],
+		"name": "Offensive Trade",
+		"pp": 10,
+		"prio": 0,
+		"text": "User trades 3 armor for 3 atk",
+		"type": "normal"
+	},
+	"92": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "atk",
+			"change": -3
+		}, {
+			"stat": "armor",
+			"change": 3
+		}],
+		"name": "Defensive Trade",
+		"pp": 10,
+		"prio": 0,
+		"text": "User trades 3 atk for 3 armor",
+		"type": "normal"
+	},
+	"93": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 35,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 20,
+			"aligmentT": "freeze",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Snowfall",
+		"pp": 25,
+		"prio": 0,
+		"text": "Inflicts regular damage.  Has a $effect_chance% chance to freeze the target.",
+		"type": "ice"
+	},
+	"94": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 60,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Feint",
+		"pp": 20,
+		"prio": 2,
+		"text": "Prio +1.",
+		"type": "chaos"
+	},
+	"95": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"healing": -50,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "atk",
+			"change": 6
+		}],
+		"name": "Bloodtrade",
+		"pp": 10,
+		"prio": 0,
+		"text": "User takes 50% hp as damage, user's atk raises by 6",
+		"type": "normal"
+	},
+	"96": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 35,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 100
+		},
+		"name": "Mud Battle",
+		"pp": 10,
+		"prio": 0,
+		"text": "Inflicts regular damage. ",
+		"type": "earth"
+	},
+	"97": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 50,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 50
+		},
+		"statChangesT": [{
+			"stat": "speed",
+			"change": -1
+		}],
+		"name": "Cold Winds",
+		"pp": 15,
+		"prio": 0,
+		"text": "High Chance to lower the target's Speed by one stage.",
+		"type": "ice"
+	},
+	"98": {
+		"acc": 90,
+		"cat": "physical",
+		"dmg": 110,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Draconic Punch",
+		"pp": 5,
+		"prio": 0,
+		"text": "Heavy Damage",
+		"type": "dragon"
+	},
+	"99": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 80,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"drain": 50,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Power Drain",
+		"pp": 5,
+		"prio": 0,
+		"text": "Drains half the damage inflicted to heal the user.",
+		"type": "nature"
+	},
+	"100": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": null,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 100
+		},
+		"statChangesT": [{
+			"stat": "atk",
+			"change": -2
+		}],
+		"name": "Flirt",
+		"pp": 10,
+		"prio": 0,
+		"text": "Lowers the target's atk by two stages.",
+		"type": "arcane"
+	},
+	"101": {
+		"acc": 90,
+		"cat": "physical",
+		"dmg": 50,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 30,
+			"aligmentT": "shock",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Spark",
+		"pp": 20,
+		"prio": 0,
+		"text": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.",
+		"type": "electric"
+	},
+	"102": {
+		"acc": 85,
+		"cat": "physical",
+		"dmg": 60,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 10
+		},
+		"statChangesS": [{
+			"stat": "armor",
+			"change": 1
+		}],
+		"name": "Metal Push",
+		"pp": 25,
+		"prio": 0,
+		"text": "Raise the user's armor one stage.",
+		"type": "earth"
+	},
+	"103": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 40,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Splash",
+		"pp": 30,
+		"prio": 0,
+		"text": "Regular damage.",
+		"type": "water"
+	},
+	"104": {
+		"acc": 80,
+		"cat": "physical",
+		"dmg": 120,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Water Cannon",
+		"pp": 5,
+		"prio": 0,
+		"text": "Heavy damage.",
+		"type": "water"
+	},
+	"105": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 90,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 50
+		},
+		"statChangesT": [{
+			"stat": "mRes",
+			"change": -1
+		}],
+		"name": "Haunting",
+		"pp": 10,
+		"prio": 0,
+		"text": "High chance target losing magic armor.",
+		"type": "chaos"
+	},
+	"106": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 150,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+            "healing": -50,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Chaos Pact",
+		"pp": 30,
+		"prio": 0,
+		"text": "User loses 50% of his hp",
+		"type": "chaos"
+	},
+	"107": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 40,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 10,
+            "aligmentT": "sleep",
+			"crit_rate": 0,
+            "healing": 0,
+			"flinch_chance": 10,
+			"statChanceS": 0,
+			"statChanceT": 100
+		},
+		"statChangesT": [{
+			"stat": "atk",
+			"change": -1
+		}],
+		"name": "Unbearable Whispers",
+		"pp": 30,
+		"prio": 0,
+		"text": "Target may start sleeping, may faint, looses atk",
+		"type": "chaos"
+	},
+	"108": {
+		"acc": 90,
+		"cat": "magic",
+		"dmg": 45,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+            "healing": 0,
+			"flinch_chance": 10,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Shadow Strike",
+		"pp": 30,
+		"prio": 2,
+		"text": "Prio +2",
+		"type": "chaos"
+	},
+	"109": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 80,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 10,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Chaosfist",
+		"pp": 10,
+		"prio": 0,
+		"text": "Regular damage. Defender may fint",
+		"type": "chaos"
+	},
+	"110": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 20,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+            "max_turns": 3, 
+            "min_turns": 6, 
+			"statChanceT": 0
+		},
+		"name": "Deserts Tomb",
+		"pp": 20,
+		"prio": 0,
+		"text": "Damages over 3-6 turns",
+		"type": "earth"
+	},
+	"111": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 90,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 1,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Landslide",
+		"pp": 5,
+		"prio": 0,
+		"text": "Heavy damage, Higher crit chance",
+		"type": "earth"
+	},
+	"112": {
+		"acc": 65,
+		"cat": "magic",
+		"dmg": 150,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Hurricane",
+		"pp": 5,
+		"prio": 0,
+		"text": "Heavy damage",
+		"type": "air"
+	},
+	"113": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": 0,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+        "statChangesS": [
+        {
+            "stat": "atk", 
+            "change": 1
+        },
+        {
+            "stat": "speed", 
+            "change": 1
+        }
+        ], 
+		"name": "Eagle Eye",
+		"pp": 10,
+		"prio": 0,
+		"text": "Increases speed and atk",
+		"type": "air"
+	},
+	"114": {
+		"acc": 90,
+		"cat": "magic",
+		"dmg": 60,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 10,
+            "aligmentT": "shock",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 10
+		},
+        "statChangesT": [
+        {
+            "stat": "mRes", 
+            "change": -1
+        }], 
+		"name": "Pixie Dust",
+		"pp": 15,
+		"prio": 0,
+		"text": "Regular Damage, chance to shock, chance to lower targets magic armor",
+		"type": "arcane"
+	},
+	"115": {
+		"acc": 90,
+		"cat": "physical",
+		"dmg": 90,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Crush",
+		"pp": 10,
+		"prio": 0,
+		"text": "Heavy damage",
+		"type": "chaos"
+	},
+	"116": {
+		"acc": 90,
+		"cat": "magic",
+		"dmg": 120,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Draconic Meltdown",
+		"pp": 5,
+		"prio": 0,
+		"text": "Heavy damage",
+		"type": "dragon"
+	},
+	"117": {
+		"acc": 80,
+		"cat": "magic",
+		"dmg": 120,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 50,
+            "aligmentT": "shock",
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Lightning",
+		"pp": 5,
+		"prio": 0,
+		"text": "Heavy Damage, High chance to shock",
+		"type": "electric"
+	},
+	"118": {
+		"acc": 100,
+		"cat": "magic",
+		"dmg": 100,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Night's Fall",
+		"pp": 5,
+		"prio": 0,
+		"text": "Heavy damage",
+		"type": "chaos"
+	},
+	"119": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": 0,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+        "statChangesS": [
+        {
+            "stat": "armor", 
+            "change": 2
+        }], 
+		"name": "Metal Shell",
+		"pp": 10,
+		"prio": 0,
+		"text": "increases armor by 2",
+		"type": "earth"
+	},
+	"120": {
+		"acc": 80,
+		"cat": "physical",
+		"dmg": 60,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 1,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Metal Club",
+		"pp": 10,
+		"prio": 0,
+		"text": "Higher crit rate",
+		"type": "earth"
+	},
+	"121": {
+		"acc": 80,
+		"cat": "physical",
+		"dmg": 60,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 1,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Metal Club",
+		"pp": 10,
+		"prio": 0,
+		"text": "Higher crit rate",
+		"type": "earth"
+	},
+	"122": {
+		"acc": 80,
+		"cat": "physical",
+		"dmg": 80,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 1,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Saber Attack",
+		"pp": 5,
+		"prio": 0,
+		"text": "Higher crit rate",
+		"type": "fighting"
+	},
+	"123": {
+		"acc": 90,
+		"cat": "physical",
+		"dmg": 50,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 20,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Dagger Thrust",
+		"pp": 10,
+		"prio": 0,
+		"text": "Opponent may flinch",
+		"type": "fighting"
+	},
+	"124": {
+		"acc": 90,
+		"cat": "physical",
+		"dmg": 20,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+            "min_hits": 3,
+            "max_hits": 5,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Swarm Attack",
+		"pp": 10,
+		"prio": 0,
+		"text": "atks 3-5 Times",
+		"type": "nature"
+	},
+	"125": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 100,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 35,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "atk",
+			"change": -1
+		}],
+		"name": "Knockdown",
+		"pp": 10,
+		"prio": 0,
+		"text": "Can decrease your Attack",
+		"type": "fighting"
+	},
+	"126": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 150,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "speed",
+			"change": -3
+		}, {
+			"stat": "atk",
+			"change": -3
+		}, {
+			"stat": "armor",
+			"change": -3
+		}, {
+			"stat": "mRes",
+			"change": -3
+		}],
+		"name": "Heavy Punch",
+		"pp": 5,
+		"prio": 0,
+		"text": "Drecreases your stats by 3",
+		"type": "fighting"
+	},
+	"127": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": 0,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "atk",
+			"change": 1
+		}, {
+			"stat": "speed",
+			"change": 1
+		}],
+		"name": "Preparation",
+		"pp": 20,
+		"prio": 0,
+		"text": "Gives you a Attack and Speed boost",
+		"type": "fighting"
+	},
+	"128": {
+		"acc": 100,
+		"cat": "status",
+		"dmg": 20,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "armor",
+			"change": 1
+		}, {
+			"stat": "mRes",
+			"change": 1
+		}],
+		"name": "Defensive Stance",
+		"pp": 20,
+		"prio": 1,
+		"text": "Got priority 1 and gives you armor and mRes",
+		"type": "fighting"
+	},
+	"129": {
+		"acc": 100,
+		"cat": "physical",
+		"dmg": 30,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"drain": 75,
+			"flinch_chance": 0,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Draincut",
+		"pp": 20,
+		"prio": 0,
+		"text": "Drains 75% the damage inflicted to heal the user.",
+		"type": "fighting"
+	},
+	"130": {
+		"acc": 90,
+		"cat": "physical",
+		"dmg": 30,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 1,
+			"flinch_chance": 20,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Thorn thrust",
+		"pp": 30,
+		"prio": 0,
+		"text": "Critical hit rate is one level higher when using this move. Enemy may flinch",
+		"type": "nature"
+	},
+	"131": {
+		"acc": 95,
+		"cat": "physical",
+		"dmg": 60,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 30,
+			"statChanceS": 0,
+			"statChanceT": 0
+		},
+		"name": "Grass Dagger",
+		"pp": 25,
+		"prio": 0,
+		"text": "Enemy may flinch",
+		"type": "nature"
+	},
+	"132": {
+		"acc": 70,
+		"cat": "magic",
+		"dmg": 110,
+		"meta": {
+			"aligmentChanceS": 0,
+			"aligmentChanceT": 0,
+			"crit_rate": 0,
+			"flinch_chance": 0,
+			"statChanceS": 100,
+			"statChanceT": 0
+		},
+		"statChangesS": [{
+			"stat": "speed",
+			"change": -1
+		}],
+		"name": "Natures Grip",
+		"pp": 5,
+		"prio": 0,
+		"text": "Reduced users speed",
+		"type": "nature"
+	}
+
+}

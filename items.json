@@ -82,7 +82,8 @@
 		"useInFight": false,
 		"text": "Unmoving water that isnt frozen, how water monsters use it is still unclear",
 		"evolve_list": {
-			"5": "6"
+			"5": "6",
+            "62": "63"
 		}
 	},
 	"032": {
@@ -91,9 +92,9 @@
 		"price": 100000,
 		"sellprice": 2000,
 		"useInFight": false,
-		"text": "The essence of all plants, a good fertilizer that some plant monsters really need.",
+		"text": "The essence of all plants, a good fertilizer that some plant monsters are in despread need of.",
 		"evolve_list": {
-			"37": "38",
+			"38": "39",
 			"8": "9"
 		}
 	},
@@ -103,9 +104,10 @@
 		"price": 100000,
 		"sellprice": 2000,
 		"useInFight": false,
-		"text": "Some monsters evolve after eating it ",
+		"text": "Some monsters evolve after eating it. Very hot, touching it may give the player burn.",
 		"evolve_list": {
-			"2": "3"
+			"2": "3",
+            "66": "67"
 		}
 	},
 	"034": {
@@ -114,8 +116,9 @@
 		"price": 100000,
 		"sellprice": 2000,
 		"useInFight": false,
-		"text": "Some monsters evolve after eating it ",
+		"text": "Some monsters evolve after eating it.",
 		"evolve_list": {
+            "69": "70"
 		}
 	},
 	"040": {

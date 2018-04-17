@@ -1,0 +1,162 @@
+{
+	"name": "Training Camp",
+	"id": 4,
+    "requirement": 22,
+	"trainers": [{
+			"name": "Camp Guard Olaf",
+			"team": [{
+					"id": 67,
+					"lvl": 50
+				}	
+			],
+			"reward": [
+				[1, 10],[11, 5]
+			],
+			"engageText": "What are you doing here?",
+			"loseText": "I think this camp is a good place for you",
+			"winText": "Leave immediately "
+		},
+		{
+			"name": "Newbie Anna",
+			"team": [{
+					"id": 35,
+					"lvl": 53
+				},
+				{
+					"id": 50,
+					"lvl": 55
+				}
+			],
+			"reward": [
+				[21, 2]
+			],
+			"engageText": "I am new here",
+			"loseText": "Maybe i should leave",
+			"winText": "This is so easy"
+		},
+		{
+			"name": "Newbie  Klaus",
+			"team": [{
+					"id": 55,
+					"lvl": 55
+				},
+				{
+					"id": 39,
+					"lvl": 57
+				},
+				{
+					"id": 42,
+					"lvl": 57
+				}
+			],
+			"reward": [
+				[2,10],[20,3]
+			],
+			"engageText": "Have you seen my sister? I cant find her",
+			"loseText": "You did what?",
+			"winText": "You are useless"
+		},
+		{
+			"name": "Newbie  instructor Boro",
+			"team": [{
+					"id": 47,
+					"lvl": 55
+				},
+				{
+					"id": 40,
+					"lvl": 57
+				},
+				{
+					"id": 37,
+					"lvl": 60
+				}
+			],
+			"reward": [
+				[20,5],[40,5]
+			],
+			"engageText": "Lets see what we have here",
+			"loseText": "Not bad",
+			"winText": "Maybe you should train a bit more next time"
+		},
+		{
+			"name": "Trainee Gustav",
+			"team": [{
+					"id": 44,
+					"lvl": 60
+				},
+				{
+					"id": 37,
+					"lvl": 61
+				}
+			],
+			"reward": [
+				[50,5],[11,3]
+			],
+			"engageText": "Im in the middle of a sprint",
+			"loseText": "2 more miles!",
+			"winText": "Not fair, I was already exhausted"
+		},
+		{
+			"name": "Trainee Beatriz",
+			"team": [{
+					"id": 53,
+					"lvl": 62
+				},
+				{
+					"id": 65,
+					"lvl": 64
+				},
+				{
+					"id": 15,
+					"lvl": 66
+				}
+			],
+			"reward": [
+				[60, 5],[61, 2]
+			],
+			"engageText": "Im the embodiment of perfection",
+			"loseText": "I feel defiled",
+			"winText": "You are not even worth looking at"
+		},
+		{
+			"name": "Trainee of the month Tobi",
+			"team": [{
+					"id": 58,
+					"lvl": 69
+				},
+				{
+					"id": 60,
+					"lvl": 70
+				}
+			],
+			"reward": [
+				[11, 5],[50, 3],[21, 2]
+			],
+			"engageText": "Noone can challenge me",
+			"loseText": "You must have cheated",
+			"winText": "You where just a stepping stone on my road to power"
+		},
+		{
+			"name": "Camp Overseer Martin",
+			"team": [{
+					"id": 70,
+					"lvl": 70
+				},
+				{
+					"id": 9,
+					"lvl": 70
+				},
+				{
+					"id": 61,
+					"lvl": 75
+				}
+			],
+			"reward": [
+				[61, 2],[2, 10]
+			],
+			"engageText": "These new trainees all suck",
+			"loseText": "There is still hope",
+			"winText": "..."
+		}
+	]
+}

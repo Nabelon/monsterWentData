@@ -22,5 +22,11 @@
     "name": "University", 
     "requirement": 17, 
     "size": 8
+  }, 
+  "4": {
+    "fileName": "dungeon4", 
+    "name": "Training Camp", 
+    "requirement": 22, 
+    "size": 8
   }
 }

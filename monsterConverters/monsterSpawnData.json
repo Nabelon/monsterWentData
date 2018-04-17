@@ -380,5 +380,47 @@
         "weather": ["cloud","clear", "rain"],
         "time": ["evening","night","morning"],
         "rarity": 3
+	},
+	"64": {
+		"landuse": ["river", "steam"],
+        "weather": ["cloud","clear"],
+        "time": ["evening", "morning","day"],
+        "rarity": 2
+	},
+	"65": {
+		"landuse": ["river", "steam"],
+        "weather": ["cloud","clear"],
+        "time": ["evening", "morning","day"],
+        "rarity": 1
+	},
+	"66": {
+		"landuse": ["farmland", "sports_centre", "pitch"],
+        "weather": ["clear"],
+        "time": ["morning","day"],
+        "rarity": 4
+	},
+	"67": {
+		"landuse": ["farmland", "sports_centre", "pitch"],
+        "weather": ["clear"],
+        "time": ["morning","day"],
+        "rarity": 2
+	},
+	"68": {
+		"landuse": ["steam", "forest"],
+        "weather": ["clear"],
+        "time": ["day"],
+        "rarity": 4
+	},
+	"69": {
+		"landuse": ["steam", "forest"],
+        "weather": ["clear"],
+        "time": ["day"],
+        "rarity": 2
+	},
+	"70": {
+		"landuse": ["steam", "forest"],
+        "weather": ["clear"],
+        "time": ["day"],
+        "rarity": 1
 	}
 }

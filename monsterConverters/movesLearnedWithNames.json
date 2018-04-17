@@ -309,10 +309,10 @@
     "33": "85 Bonemerang", 
     "38": "94 Feint", 
     "40": "65 Warcry", 
-    "47": "61 Earthquake", 
-    "50": "67 Inner Peace", 
-    "60": "118 Night's Fall", 
-    "70": "64 YingYangstrike"
+    "43": "61 Earthquake", 
+    "47": "67 Inner Peace", 
+    "51": "118 Night's Fall", 
+    "55": "64 YingYangstrike"
   }, 
   "33": {
     "1": "21 Tackle", 
@@ -644,5 +644,94 @@
     "45": "105 Haunting", 
     "57": "104 Water Cannon", 
     "7": "21 Tackle"
+  }, 
+  "64": {
+    "1": "15 Bind", 
+    "16": "37 Water Gun", 
+    "2": "63 Mental Disorder", 
+    "23": "67 Inner Peace", 
+    "31": "73 Spirit Shield", 
+    "35": "114 Pixie Dust", 
+    "39": "39 Surf", 
+    "45": "38 Waterfall", 
+    "9": "96 Mud Battle"
+  }, 
+  "65": {
+    "1": "15 Bind", 
+    "16": "37 Water Gun", 
+    "2": "63 Mental Disorder", 
+    "23": "67 Inner Peace", 
+    "31": "73 Spirit Shield", 
+    "35": "114 Pixie Dust", 
+    "39": "39 Surf", 
+    "45": "38 Waterfall", 
+    "51": "40 Phoenix of the North", 
+    "55": "64 YingYangstrike", 
+    "9": "96 Mud Battle"
+  }, 
+  "66": {
+    "1": "16 Slam", 
+    "13": "127 Preparation", 
+    "19": "47 Fast Kick", 
+    "25": "128 Defensive Stance", 
+    "29": "7 Fiery Fist", 
+    "35": "20 Headbutt", 
+    "41": "91 Offensive Trade", 
+    "43": "125 Knockdown", 
+    "49": "90 Flame Bombardment", 
+    "59": "126 Heavy Punch", 
+    "7": "56 Fire Trap"
+  }, 
+  "67": {
+    "1": "16 Slam", 
+    "13": "127 Preparation", 
+    "19": "47 Fast Kick", 
+    "25": "128 Defensive Stance", 
+    "29": "7 Fiery Fist", 
+    "35": "20 Headbutt", 
+    "41": "91 Offensive Trade", 
+    "43": "125 Knockdown", 
+    "49": "90 Flame Bombardment", 
+    "59": "126 Heavy Punch", 
+    "7": "56 Fire Trap"
+  }, 
+  "68": {
+    "1": "15 Bind", 
+    "15": "101 Spark", 
+    "2": "29 Weeping", 
+    "21": "37 Water Gun", 
+    "32": "50 Growth", 
+    "34": "59 Volt Release", 
+    "39": "58 Lightning Strike", 
+    "43": "39 Surf", 
+    "51": "117 Lightning", 
+    "61": "38 Waterfall", 
+    "7": "33 Sonic Waves"
+  }, 
+  "69": {
+    "1": "15 Bind", 
+    "15": "101 Spark", 
+    "2": "29 Weeping", 
+    "21": "37 Water Gun", 
+    "32": "50 Growth", 
+    "34": "59 Volt Release", 
+    "39": "58 Lightning Strike", 
+    "43": "39 Surf", 
+    "51": "117 Lightning", 
+    "61": "38 Waterfall", 
+    "7": "33 Sonic Waves"
+  }, 
+  "70": {
+    "1": "15 Bind", 
+    "15": "101 Spark", 
+    "2": "29 Weeping", 
+    "21": "37 Water Gun", 
+    "32": "50 Growth", 
+    "34": "59 Volt Release", 
+    "39": "58 Lightning Strike", 
+    "43": "39 Surf", 
+    "51": "117 Lightning", 
+    "61": "38 Waterfall", 
+    "7": "33 Sonic Waves"
   }
 }
